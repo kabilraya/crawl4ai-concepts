@@ -88,19 +88,21 @@ async def simple_crawling_examples_with_configs():
     #crawling a single page of Daraz and storing the url and content in separate file
 
     async with AsyncWebCrawler(config = browser_conf) as crawler:
-        result = await crawler.arun("https://www.daraz.com.np/",config = run_conf) #this returns the list of pages so to
-        #access the methods under 
-        import re
+        result = await crawler.arun("https://www.daraz.com.np/",config = run_conf) #this returns the list of pages that is crawled
+        #for simple crawling list with only one pageresult
 
-        markdown_text = result.markdown
+        if result.success:
+            print("Successfully crawled the given website")
 
-        # Matches [link text](URL)
-        # links = re.findall(r'\[([^\]]+)\]\((https?://[^\)]+)\)', markdown_text)
+            print("Content",result.markdown[:500])
 
-        # print(result.links)
-        print(type(result.links))
-        # print("\n".join([str((text, url)) for text, url in links]))
-        
+            for image in result.media["images"]:
+                print(f"Found Image: {image['src']}")
+            for link in result.links['internal']:
+                print(f"Internal Links: {link['href']}")
+
+        else:
+            print("Crawling Unsuccessfully")        
 
         
 
