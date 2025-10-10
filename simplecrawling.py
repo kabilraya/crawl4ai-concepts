@@ -102,8 +102,23 @@ async def simple_crawling_examples_with_configs():
                 print(f"Internal Links: {link['href']}")
 
         else:
-            print("Crawling Unsuccessfully")        
+            print("Crawling Unsuccessfully") 
+            
+    """
+    print(result.html)         # Raw HTML
+    print(result.cleaned_html) # Cleaned HTML
+    print(result.markdown.raw_markdown) # Raw markdown from cleaned html
+    print(result.markdown.fit_markdown) # Most relevant content in markdown
 
+    # Check success status
+    print(result.success)      # True if crawl succeeded
+    print(result.status_code)  # HTTP status code (e.g., 200, 404)
+
+    # Access extracted media and links
+    print(result.media)        # Dictionary of found media (images, videos, audio)
+    print(result.links)        # Dictionary of internal and external links
+    """
+    
         
 
 asyncio.run(simple_crawling_examples_with_configs())
