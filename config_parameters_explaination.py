@@ -35,6 +35,7 @@ def BrowserConfig(
     enable_stealth: bool = False
 ) -> BrowserConfig:
     """
+    
     Configuration class for controlling the behavior of the browser instance 
     used in web crawling and scraping via Playwright.
 
@@ -112,6 +113,7 @@ def BrowserConfig(
     """
 
 class CrawlerRunConfig:
+    
     """
     Configuration class that defines how Crawl4AI performs a crawl or scrape run,
     including extraction, rendering, waiting, caching, and content filtering.
