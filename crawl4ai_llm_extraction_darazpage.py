@@ -10,10 +10,6 @@ class Product(BaseModel):
     price: int = Field(..., description="The numeric price of the product. Currency symbols and commas must be removed.")
 
 
-class DarazPage(BaseModel):
-    page_title: str = Field(..., description="The main title of the product category page being crawled.")
-    products: List[Product] = Field(..., description="A list of all the products found on the page.")
-
 
 async def daraz_items_list(provider:str, api_token:str = None):
     
@@ -27,13 +23,10 @@ async def daraz_items_list(provider:str, api_token:str = None):
     instruction = """
     You are an expert web scraping agent. Your task is to analyze the provided HTML content of a Daraz product listing page and extract specific information.
 
-    1.  **Identify the Page Title:** Find the main heading or title of the page that describes the product category (e.g., "Measuring & Levelling").
-    2.  **Locate All Products:** Scan the document to find all the individual product listings.
-    3.  **Extract Details for Each Product:** For every product you find, extract the following:
-        - The full `product_name`.
-        - The `price`.
-    4.  **Clean the Price:** The price will be in a format like "Rs. 66,131". You MUST clean it by removing the currency symbol ('Rs.'), any commas, and whitespace. Convert the final result to an integer.
-    5.  **Format the Output:** Structure all the extracted information into a single JSON object that strictly follows the provided schema. The final output must be a JSON object containing the page title and a list of product objects.
+    
+    1.  **Extract Details for Each Product:** For every product you find, extract the following:
+        - The full `product_name` from the product div.
+        - The `price` from the same product div. look for the class name for proper parent element.
     """
 
     browser_config = BrowserConfig(headless=True) 
@@ -42,7 +35,7 @@ async def daraz_items_list(provider:str, api_token:str = None):
         page_timeout=120000,
         extraction_strategy=LLMExtractionStrategy(
             llm_config=LLMConfig(provider=provider, api_token=api_token),
-            schema=DarazPage.model_json_schema(),
+            schema=Product.model_json_schema(),
             extraction_type="schema",
             instruction=instruction,
             extra_args=extra_args
