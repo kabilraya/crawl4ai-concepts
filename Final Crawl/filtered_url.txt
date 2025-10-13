@@ -1,0 +1,1 @@
+https://us.misumi-ec.com/vona2/mech/M0100000000/M0101000000/?curSearch=%7b%22field%22%3a%22%40search%2cseriesList.templateType%22%2c%22categoryCode%22%3a%22M0101000000%22%2c%22sort%22%3a1%2c%22allSpecFlag%22%3a0%2c%22page%22%3a1%2c%22brandModeFlag%22%3a1%2c%22pageSize%22%3a%2245%22%7d&listDisplay=mc-list
