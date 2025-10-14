@@ -6,7 +6,7 @@ from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
 import re
 from bs4 import BeautifulSoup
 
-async def crawling_for_product_links():
+async def crawling_for_product_links(website_url):
     browser_config = BrowserConfig(headless = True, verbose = True)
 
     run_conf = CrawlerRunConfig(
@@ -50,11 +50,11 @@ async def crawling_for_product_links():
     )
 
     async with AsyncWebCrawler(config = browser_config) as crawler:
-        results = await crawler.arun(url = "https://www.daraz.com.np/car-mounts/?up_id=480819836&clickTrackInfo=matchType--20___description--17%2525%2Boff___seedItemMatchType--c2i___bucket--0___spm_id--category.hp___seedItemScore--0.0___abId--379344___score--0.1___pvid--9069c3b8-8e56-498c-b407-1a79b8173c12___refer--___appId--7253___seedItemId--480819836___scm--1007.17253.379344.0___categoryId--9540___timestamp--1760351635479&from=hp_categories&item_id=480819836&version=v2&q=car%2Bmounts&params=%7B%22catIdLv1%22%3A%222%22%2C%22pvid%22%3A%229069c3b8-8e56-498c-b407-1a79b8173c12%22%2C%22src%22%3A%22ald%22%2C%22categoryName%22%3A%22Car%2BMounts%22%2C%22categoryId%22%3A%229540%22%7D&src=hp_categories&spm=a2a0e.tm80335409.categoriesPC.d_3_9540",config = run_conf)
-
+        results = await crawler.arun(url = website_url,config = run_conf)
+        internal_links = []
         if results.success:
             #extracting all the internal links
-            internal_links = []
+            
             for result in results:
                 for link in result.links["internal"]:
                     print(link)
@@ -63,5 +63,7 @@ async def crawling_for_product_links():
                     internal_links.append(url+ "\n")
                     with open("product_links.txt",'a',encoding = "utf-8") as f:
                         f.write(url+"\n")
+                with open("product_links.txt","a", encoding="utf-8") as f:
+                    f.write("---End of Category---")
+        return internal_links
 
-asyncio.run(crawling_for_product_links())
