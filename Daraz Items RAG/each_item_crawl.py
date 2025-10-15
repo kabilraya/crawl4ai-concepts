@@ -10,7 +10,7 @@ async def each_item_crawl(list_of_links):
     
     run_conf = CrawlerRunConfig(
         
-        css_selector="div.pdp-block__product-detail, article.lzd-article,div.pdp-mod-specification, img.gallery-preview-panel",
+       rue css_selector="div.pdp-block__product-detail, article.lzd-article,div.pdp-mod-specification, img.gallery-preview-panel",
         
         
         word_count_threshold=10,  
@@ -24,7 +24,7 @@ async def each_item_crawl(list_of_links):
         return true;
         """,
         scan_full_page=True,
-        remove_overlay_elements=True,
+        remove_overlay_elements=T,
         simulate_user=True,
         verbose=True,
         method = "GET",
