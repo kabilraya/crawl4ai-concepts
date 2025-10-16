@@ -1,12 +1,12 @@
 from crawl4ai import AsyncWebCrawler, BrowserConfig, CrawlerRunConfig, CacheMode
 import uuid
 import asyncio
-async def crawl_product_links_with_pagination():
+async def crawl_product_links_with_pagination(url):
     """
     Crawls only the first 4 pages 1,2,3,4
     """
 
-    url = "https://hukut.com/mobile-phones"
+    
     category_from_url = url.rstrip("/").split("/")[-1]
     all_product_links = []
     print(category_from_url)
@@ -42,7 +42,7 @@ async def crawl_product_links_with_pagination():
                 this part is for page not equal to 1 because it needs a js_code to click through the pages
                 """
                 js_to_click_next_page = f'document.querySelector("a[href=\'/{category_from_url}?page={page_num}\']").click()'
-                results = await crawler.arun("https://hukut.com/mobile-phones",config = CrawlerRunConfig(
+                results = await crawler.arun(url = url,config = CrawlerRunConfig(
                     delay_before_return_html=10.0,
                     mean_delay = 5.0,
                     css_selector="section div.group:has(a[href])",
