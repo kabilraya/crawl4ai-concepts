@@ -73,7 +73,8 @@ async def crawl_product_links_with_pagination():
             else:
                 print(f"Crawling unsuccessful.")
                 break;
-        
+    
+    
         
     
     """
@@ -86,4 +87,4 @@ async def crawl_product_links_with_pagination():
         for idx, link in enumerate(all_product_links,start = 1):
             f.write(f"{idx} {link}"+ "\n")
     print(len(all_product_links))
-asyncio.run(crawl_product_links_with_pagination())
+    return all_product_links

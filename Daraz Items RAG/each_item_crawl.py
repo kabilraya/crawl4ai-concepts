@@ -10,7 +10,7 @@ async def each_item_crawl(list_of_links):
     
     run_conf = CrawlerRunConfig(
         
-       css_selector="div.pdp-block__product-detail, article.lzd-article,div.pdp-mod-specification, img.gallery-preview-panel",
+    css_selector="div.pdp-block__product-detail, article.lzd-article,div.pdp-mod-specification, img.gallery-preview-panel",
         
         
         word_count_threshold=10,  
