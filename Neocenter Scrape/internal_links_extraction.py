@@ -2,15 +2,15 @@ import asyncio
 from crawl4ai import AsyncWebCrawler,BrowserConfig,CrawlerRunConfig,CacheMode
 from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
 import uuid
-async def internal_links_extraction():
+async def internal_links_extraction(base_url):
     """
     css selectors
     product_link = div.product-item-box>div.product-img-wrapper
     next_page_button = ul.page-numbers>li>a[data-ci-pagination-page="2"]:nth-of-type(1):not([rel="next"])
     """
-    url = "https://www.neostore.com.np/product-category/laptop-brands"
+    # url = "https://www.neostore.com.np/product-category/laptop-brands"
     internal_links = []
-    browser_config = BrowserConfig(headless = False, verbose = True)
+    browser_config = BrowserConfig(headless = True, verbose = True)
     session_id = str(uuid.uuid4())
     
     async with AsyncWebCrawler(config = browser_config) as crawler:
@@ -42,7 +42,7 @@ async def internal_links_extraction():
 
                 )
                 print(f"Crawling page {page}")
-                results = await crawler.arun(url = url,config = run_conf)
+                results = await crawler.arun(url = base_url,config = run_conf)
             else:
                 print(f"Crawling page {page}")
                 js_code_click = f"""
@@ -73,7 +73,7 @@ async def internal_links_extraction():
                     js_only=True,
                     wait_for="css:div.product-item-box>div.product-description"
                 )
-                results = await crawler.arun(url = url, config = run_conf_two)
+                results = await crawler.arun(url = base_url, config = run_conf_two)
             if results.success:
                 print("Crawling is successful")
                 
@@ -88,8 +88,9 @@ async def internal_links_extraction():
         with open("internal-links.txt","a",encoding = "utf-8") as f:
             for int_link in internal_links:
                 f.write(int_link + "\n")
+    return internal_links
 
-asyncio.run(internal_links_extraction())
+
 
 
 
