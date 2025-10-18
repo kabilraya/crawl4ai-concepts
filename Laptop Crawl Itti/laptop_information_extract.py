@@ -38,42 +38,6 @@ async def crawl_for_information(internal_links):
         process_iframes=True,
         
     )
-    #this is for now in pause as no scraping is done
-    # wait_for_description_visible = "div#description-tab"
-    # run_conf_two = CrawlerRunConfig(
-    #             css_selector="div#description-tab",
-    #             word_count_threshold=20,  
-                
-    #             excluded_tags=["header", "footer", "nav", "aside", "form", "script", "style"],
-    #             markdown_generator=DefaultMarkdownGenerator(),
-    #             cache_mode=CacheMode.DISABLED,
-    #             delay_before_return_html=5.0,
-                
-    #             js_code=""" 
-    #     const buttons = document.querySelectorAll('#tab-id button');
-    #     if (buttons.length > 1) {
-    #         buttons[1].click();
-    #         return new Promise(resolve => setTimeout(resolve, 3000));
-    #     } else {
-    #         console.error('Description tab button not found');
-    #         return false;
-    #     }
-    # """,
-    # wait_for_timeout=90000,
-    #             wait_for=f'css:{wait_for_description_visible}',
-    #             scan_full_page=True,
-    #             remove_overlay_elements=True,
-    #             simulate_user=True,
-    #             verbose=True,
-    #             method = "GET",
-    #             check_robots_txt="False",
-    #             only_text=False,
-    #             mean_delay=3.0,
-    #             scroll_delay = 3.0,
-    #             process_iframes=True,
-    #             session_id=session_id,
-    #             js_only=True
-    #             )
     
 
     async with AsyncWebCrawler(config = browser_config) as crawler:
