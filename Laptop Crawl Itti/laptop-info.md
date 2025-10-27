@@ -43,14 +43,14 @@ Available Soon
 **Power Description:** | 230 W (Maximum Power Supply Wattage)  
 **Warranty :** | 1 Year Warranty   
 **Price:** | Rs 
-"
-"https://itti.com.np/product/acer-predator-helios-neo-16s-2025-price-nepal-rtx-5060"
+
+ URL = https://itti.com.np/product/acer-predator-helios-neo-16s-2025-price-nepal-rtx-5060
 
 
 ------End the Product------
 
 
-"# Acer Predator Helios Neo 16S AI 2025 | Intel Core Ultra 9 275HX | RTX 5070 | 16GB RAM | 1TB SSD | 16" OLED WQXGA 240Hz Display
+# Acer Predator Helios Neo 16S AI 2025 | Intel Core Ultra 9 275HX | RTX 5070 | 16GB RAM | 1TB SSD | 16" OLED WQXGA 240Hz Display
 Price:
 Available Soon
 ### **Key Features**
@@ -95,292 +95,14 @@ Available Soon
 **Power Description:** | 230 W (Maximum Power Supply Wattage)  
 **Warranty :** | 1 Year Warranty   
 **Price:** | Rs 
-"
-"https://itti.com.np/product/acer-predator-helios-neo-16s-2025-price-nepal-rtx-5070"
+
+ URL = https://itti.com.np/product/acer-predator-helios-neo-16s-2025-price-nepal-rtx-5070
 
 
 ------End the Product------
 
 
-"# Acer Aspire Lite 14 2023 Intel Core i3-N30 | 8GB RAM | 512GB SSD | 14" WUXGA Display | 1 Year Warranty
-Add to Cart
-Brand  | [Acer](https://itti.com.np/laptops-by-brands/acer-laptop-nepal)  
----|---  
-Series | [Acer Aspire Series](https://itti.com.np/laptops-by-brands/acer-laptop-nepal/aspire-series)  
-Product Model No  | Acer Aspire Lite 14 AL14-31P-318W  
-Type  | [Budget Notebook](https://itti.com.np/laptops-by-brands)  
-[CPU / Processor](https://itti.com.np/office-components/pc-components/cpu) | Intel® Core™ i3-N300 processor  
-(6 MB Smart Cache, 0.8 GHz with Intel® Turbo Boost Technology 2.0 up to 3.8 GHz)  
-[Memory](https://itti.com.np/office-components/pc-components/ram) | 8GB OnBoard DDR5 RAM  
-[Storage](https://itti.com.np/accessories/storage-device) | 512GB PCIe NVMe Gen3 SSD  
-Storage Capability | NA  
-[Graphic Card](https://itti.com.np/office-components/pc-components/gpu) | Intel UHD Graphics  
-[Display Screen / Design / Resolution](https://itti.com.np/office-components/monitors) | 14-inch WUXGA (1920 x 1200) 16:10 IPS display with Acer ComfyView LED-backlit and ultra-slim design  
-[Camera](https://itti.com.np/accessories/computer-accessories/webcam) | Acer HD webcam, 1280 x 720 resolution  
-Operation System | Windows 11 Home  
-Optical Drive | -  
-[Audio & Video](https://itti.com.np/accessories/audio-devices/speakers) | Speakers  
-Network / Connectivity Technology | Intel® Wireless Wi-Fi 5  
-• 802.11a/b/g/n/ac wireless LAN  
-• Dual Band (2.4 GHz and 5 GHz)  
-• 2x2 MU-MIMO technology  
-• Supports Bluetooth® 5.0  
-Keyboard Feature | Non-Backlit  
-Sensors | No FingerPrint  
-Interface |  1x USB Type-C port supporting: •USB 3.2 Gen 2 (up to 10Gbps) •Display Port over USB-C 3x USB Standard-A ports supporting 3.2 Gen 1 1x HDMI 1.4 port with HDCP support 1x SD Microsd card reader 1x 3.5 mm headphone/speaker jack, supporting headsets with built-in microphone  
-[Battery](https://itti.com.np/accessories/laptop-accessories/battery) / Power Supply | 45Wh 2-cell Li-Ion Battery  
-Dimensions | 314.4 (W) x 220 (D) x 18.95/18.95 (H) mm  
-Weight | 1.35kg  
-Warranty | 1-Year Local Warranty   
-Acer Aspire Lite 14 2023 Price in Nepal | Rs. 58,000/-
-"
-"https://itti.com.np/product/acer-aspire-lite-14-price-nepal"
-
-
-------End the Product------
-
-
-"# Lenovo IdeaPad Slim 1 2022 Ryzen 3 7320U | 8GB RAM | 256GB SSD | 14" FHD display
-Add to Cart
-Brand | [Lenovo](https://itti.com.np/laptops-by-brands/lenovo-laptops-nepal)  
----|---  
-Series | [IdeaPad Slim Series](https://itti.com.np/laptops-by-brands/lenovo-laptops-nepal/legion)  
-Model | Lenovo IdeaPad Slim 1 2022  
-Type | [Slim and light Ultrabook](https://itti.com.np/ultrabook-laptop-nepal)  
-[Processor](https://itti.com.np/electronics/pc-components/cpu-processor) | AMD Ryzen 3 7320U (4C / 8T, 2.4 / 4.1GHz, 2MB L2 / 4MB L3)  
-[Graphics](https://itti.com.np/electronics/pc-components/graphics-card) | Integrated AMD Radeon 610M Graphics  
-Chipset | AMD SoC Platform  
-[RAM](https://itti.com.np/electronics/storage-device/laptop-ram) | 8GB Soldered LPDDR5-5500  
-Memory Slots | Memory soldered to system board, no slots, dual-channel  
-Max Memory | 8GB soldered memory, not upgradeable  
-[Storage](https://itti.com.np/electronics/storage-device) | 256GB SSD M.2 2242 PCIe 4.0x4 NVMe  
-Storage Support | One drive, up to 1TB M.2 2242 SSD  
-Storage Slot | One M.2 2280 PCIe 3.0 x2 slot  
-Card Reader | 4-in-1 Card Reader  
-Optical | None  
-Audio Chip | High Definition (HD) Audio  
-[Speakers](https://itti.com.np/electronics/audio-devices/speakers) | Stereo speakers, 1.5W x2, Dolby Audio  
-Camera | HD 720p with Privacy Shutter  
-Microphone | 2x, Array  
-Battery | Integrated 42Wh  
-Max Battery Life | MobileMark 2018: 9 hr Local video (1080p) playback@150nits: 14 hr  
-Power Adapter | 65W Round Tip (3-pin)  
-DESIGN  
-Display | 14" FHD (1920x1080) TN 220nits Anti-glare  
-Touchscreen | None  
-Keyboard | Non-backlit, English  
-Case Color | Cloud Grey  
-Surface Treatment | IMR (In-Mold Decoration by Roller)  
-Case Material | PC-ABS (Top), PC-ABS (Bottom)  
-Dimensions (WxDxH) | 325.3 x 216.5 x 17.9 mm (12.8 x 8.52 x 0.70 inches)  
-Weight | Starting at 1.38 kg (3.04 lbs)  
-SOFTWARE  
-Operating System | Windows 11 Home 64, Traditional Chinese / Simplified Chinese / English  
-Bundled Software | Office Trial  
-CONNECTIVITY  
-Ethernet | No Onboard Ethernet  
-WLAN + Bluetooth | Wi-Fi 6 11ax, 2x2 + BT5.1  
-Standard Ports | 
-  * 1x USB 2.0
-  * 1x USB 3.2 Gen 1
-  * 1x USB-C 3.2 Gen 1 (support data transfer only)
-  * 1x HDMI 1.4b
-  * 1x Card reader
-  * 1x Headphone / microphone combo jack (3.5mm)
-  * 1x Power connector
-
-  
-SECURITY & PRIVACY  
-Security Chip | Firmware TPM 2.0  
-Fingerprint Reader | None  
-Other Security | Camera privacy shutter  
-Lenovo IdeaPad Slim 1 2022 Price in Nepal | Rs. 62,000
-"
-"https://itti.com.np/product/lenovo-ideapad-slim-1-2022-price-nepal"
-
-
-------End the Product------
-
-
-"# Lenovo IdeaPad Slim 3i 2023 15 i3 13Th Gen | 8GB RAM | 256GB | 15.6" FHD display
-Add to Cart
-**PERFORMANCE**  
----  
-**Processor** | Intel® Core™ i3-N305 (8C / 8T, Max Turbo up to 3.8GHz, 6MB)  
-**Graphics** | Integrated Intel® UHD Graphics  
-**Chipset** | Intel® SoC Platform  
-**Memory** | 8GB Soldered LPDDR5-4800  
-**Memory Slots** | Memory soldered to systemboard, no slots  
-**Max Memory** | 8GB soldered memory, not upgradable  
-**Storage** | 256GB SSD M.2 2242 PCIe® 4.0x4 NVMe®  
-**Storage Support** | One drive, up to 512GB M.2 2242 SSD  
-**Storage Slot** | One M.2 PCIe® 3.0 x4 slot (M.2 SSD models)  
-**Card Reader** | SD Card Reader  
-**Optical** | None  
-**Audio Chip** | High Definition (HD) Audio  
-**Speakers** | User-facing stereo speakers, 1.5W x2, optimized with Dolby Audio™  
-**Camera** | HD 720p with Privacy Shutter  
-**Microphone** | 2x, Array  
-**Battery** | Integrated 47Wh  
-**Power Adapter** | 65W Round Tip (3-pin)  
-**DESIGN**  
-**Display** | 15.6" FHD (1920x1080) TN 250nits Anti-glare  
-**Touchscreen** | None  
-**Keyboard** | Non-backlit, English  
-**Touchpad** | Buttonless Mylar® surface multi-touch touchpad, supports Precision TouchPad (PTP), 69 x 104 mm (2.72 x 4.09 inches)  
-**Case Color** | Arctic Grey  
-**Surface Treatment** | IMR (In-Mold Decoration by Roller)  
-**Case Material** | PC-ABS (Top), PC-ABS (Bottom)  
-**Pen** | Pen Not Supported  
-**Dimensions (WxDxH)** | 359.3 x 235 x 17.9 mm (14.15 x 9.25 x 0.70 inches)  
-**Weight** | Starting at 1.55 kg (3.42 lbs)  
-**SOFTWARE**  
-**Operating System** | Windows® 11 Home in S mode, English  
-**Bundled Software** | Office Trial  
-**CONNECTIVITY**  
-**Ethernet** | No Onboard Ethernet  
-**WLAN + Bluetooth** | Wi-Fi® 6, 802.11ax 2x2 + BT5.2  
-**WWAN** | Non-WWAN  
-**Standard Ports** | 
-  * 2x USB 3.2 Gen 1
-  * 1x USB-C® 3.2 Gen 1 (support data transfer, Power Delivery and DisplayPort™ 1.2)
-  * 1x HDMI® 1.4
-  * 1x Headphone / microphone combo jack (3.5mm)
-  * 1x Card reader
-  * 1x Power connector
-
-  
-**SECURITY & PRIVACY**  
-**Security Chip** | Firmware TPM 2.0 Enabled  
-**Fingerprint Reader** | None  
-**Other Security** | Camera privacy shutter  
-**SERVICE**  
-**Base Warranty** | 1-year, Courier or Carry-in  
-**Included Upgrade** | None  
-**ACCESSORIES**  
-**Bundled Accessories** | None  
-**CERTIFICATIONS**  
-**Green Certifications** | 
-  * ENERGY STAR® 8.0
-  * EPEAT™ Silver Registered
-  * ErP Lot 6/26
-  * RoHS compliant
-
-  
-**Other Certifications** | TÜV Rheinland® Low Blue Light (Software Solution)  
-**Mil-Spec Test** | MIL-STD-810H military test passed (20 test items)
-"
-"https://itti.com.np/product/lenovo-ideapad-slim-3i-2023-price-nepal"
-
-
-------End the Product------
-
-
-"# ASUS VIVOBOOK X515EA i3 11TH GEN | 4GB | 256GB | 15.6" FHD | Backlight Keyboard
-Add to Cart
-CPU | Intel Core i3-1115G4 Processor 3.0 GHz (6M Cache, up to 4.1 GHz, 2 cores)  
----|---  
-Graphics | Intel® Iris Xe Graphics,  
-Memory | 4GB DDR4 on board, Memory Max Up to:16GB  
-Display | 15.6-inch, FHD (1920 x 1080) 16:9, IPS-level Panel, Anti-glare display, LED Backlit, 250nits, NTSC: 45%, Screen-to-body ratio: 83 %  
-Connections | 1x USB 3.2 Gen 1 Type-A  
-1x USB 3.2 Gen 1 Type-C  
-2x USB 2.0 Type-A  
-1x HDMI 1.4  
-1x 3.5mm Combo Audio Jack  
-Micro SD card reader (on selected model)  
-Networking | Wi-Fi 5(802.11ac)+Bluetooth 4.1 (Dual band) 1*1  
-Storage | 256GB SSD  
-Sizeheight x width x depth  | 36.00 x 23.50 x 1.99 ~ 1.99 cm (14.17" x 9.25" x 0.78" ~ 0.78")  
-Battery | 37WHrs, 2S1P, 2-cell Li-ion  
-CameraWebcam | 720p  
-Weight | 1.8 kg   
-Keyboard and Touchpad | Chiclet keyboard  
-Illuminated chiclet keyboard  
-Audio | Support Alexa  
-Harman Kardon
-"
-"https://itti.com.np/product/asus-vivobook-x515ea-price-nepal-i3-11th-gen"
-
-
-------End the Product------
-
-
-"# HP Notebook 14-EP0792WM 13th Gen Intel Core I3-N305 | 8GB RAM | 256GB SSD | 14" HD Display
-Add to Cart
-**Brand** | [Hewlett-Packard (HP)](https://itti.com.np/laptops-by-brands/hp-laptops-nepal)  
----|---  
-**Product name** |  HP Notebook 14-EP0792WM  
-**Type** | [Budget Notebook](https://itti.com.np/notebook)  
-**Microprocessor** | Intel® Core™ i3-N305 (up to 3.8 GHz with Intel® Turbo Boost Technology, 6 MB L3 cache, 8 cores, 8 threads)  
-**Chipset** | Integrated Intel® UHD Graphics  
-**Memory, standard** | 8 GB DDR4-3200 MHz RAM (1 x 8 GB)  
-**Video graphics** | Integrated Intel® UHD Graphics  
-**Hard drive** | 256 GB PCIe® NVMe™ M.2 SSD  
-**Optical drive** | Optical drive not included  
-**Display** | 14" diagonal HD display  
-**Wireless connectivity** | Realtek Wi-Fi 6 (2x2) and Bluetooth® 5.3 compatible combo (supporting Gigabit data rate)  
-**External ports** |  (2) USB 3.2 Gen 1.0 Type-A ports; 5 Gbps signaling rate (1) USB 3.2 Gen 1.0 Type-C port; 5 Gbps signaling rate (data transfer only; charging or external monitors not supported) (1) Headphone/microphone combo port (1) HDMI v1.4b output port (1) AC Smart pin adapter plug  
-**Minimum dimensions (W x D x H)** | (W x D x H)  
-12.74 x 8.46 x 0.70 in (front); 12.74 x 8.46 x 1.28 in (rear)  
-**Weight** | Starting at 1.4 kg  
-**Power supply type** | 45 W Smart AC power adapter  
-**Battery type** | 3-cell, 41 Wh Li-ion  
-**Battery life mixed usage** | Up to 5 hours and 30 minutes  
-**Video Playback Battery life** | Up to 6 hours  
-**Webcam** |  HP True Vision 1080p FHD camera with temporal noise reduction and integrated dual array digital microphones Privacy camera shutter door **Supported audio software** : Beam forming Echo cancellation Noise suppression  
-**Audio features** | Dual speakers  
-**HP Notebook 14-EP0792WM Price in Nepal** | Rs. 57,000 (HP Notebook 14-EP0792WM)
-"
-"https://itti.com.np/product/hp-notebook-14-2023-price-nepal"
-
-
-------End the Product------
-
-
-"# Lenovo V15 G4 - 13th Gen, Intel i3 1315U, 15.6" FHD, 8GB DDR4 RAM, 256GB NVMe SSD, Iron Grey Color, 1 Year Warranty
-Add to Cart
-Processor | Core i3-1315U 6 (2 P-core + 4 E-core) 8 P-core 1.2GHz / E-core 0.9GHz P-core 4.5GHz / E-core 3.3GHz 10MB  
----|---  
-Graphics | Intel® UHD Graphics  
-Chipset | Intel® SoC (System on Chip) platform  
-Memory | 8GB DDR4  
-Storage | 256GB SSD M.2 2242 PCIe® 4.0x4 NVMe®  
-Speakers | Stereo speakers, 1.5W x2, Dolby® Audio™  
-Camera | 720P HD with Dual Microphone and Privacy Shutter  
-Microphone | Dual-microphone array  
-Battery | Integrated 45Wh  
-Power Adapter | 65W round tip (3-pin)  
-DESIGN  
-Display | FHD (1920x1080) None IPS 300nits Anti-glare  
-Touchscreen | None  
-Keyboard | US  
-Dimensions (WxDxH) | 359.2 x 235.8 x 19.9 mm (14.14 x 9.28 x 0.78 inches)  
-Weight | Starting at 1.65 kg (3.64 lbs)  
-CONNECTIVITY  
-Ethernet | Gigabit Ethernet, 1x RJ-45  
-WLAN + Bluetooth | Wi-Fi® 5, 802.11ac 2x2 Wi-Fi® + Bluetooth® 5.1, M.2 Card  
-Standard Ports | 1x USB 2.0  
-1x USB 3.2 Gen 1  
-1x USB-C® 3.2 Gen 1 (support data transfer, Power Delivery 3.0 and DisplayPort™ 1.2)  
-1x HDMI® 1.4b  
-1x Headphone / microphone combo jack (3.5mm)  
-1x Ethernet (RJ-45)  
-1x Power connector  
-Security Chip | Firmware TPM 2.0 integrated in SoC  
-Fingerprint Reader | None  
-Physical Locks | Kensington® Nano Security Slot™, 2.5 x 6 mm  
-Other Security | Camera privacy shutter  
-SERVICE  
-Base Warranty | 1-year
-"
-"https://itti.com.np/product/lenovo-v15-g4-13th-gen-intel-i3-1315u-price-nepal-8gb-ddr4-ram-512gb-nvme-ssd-1-year-warranty"
-
-
-------End the Product------
-
-
-"# Acer Aspire 3 2025 Intel Core i3 1305U | 8 GB RAM | 512GB SSD | 15.6" FHD Display
+# Acer Aspire 3 2025 Intel Core i3 1305U | 8 GB RAM | 512GB SSD | 15.6" FHD Display
 Price:
 रु 56,000
 ### Key Features
@@ -427,14 +149,14 @@ Dimensions | 357.4 x 228.0 x 19.0 mm
 Weight | 1.45kg  
 Warranty | 1-Year Local Warranty   
 Acer Aspire 3 2025 Price in Nepal | Rs. 56,000 
-"
-"https://itti.com.np/product/acer-aspire-3-2025-price-nepal"
+
+ URL = https://itti.com.np/product/acer-aspire-3-2025-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Vostro 15 3530 - i3 1315U | 8GB RAM | 512GB SSD | 15.6" FHD Display | 1 Year Warranty
+# Dell Vostro 15 3530 - i3 1315U | 8GB RAM | 512GB SSD | 15.6" FHD Display | 1 Year Warranty
 Price:
 रु 57,000
 ### Key Features
@@ -467,14 +189,14 @@ Depth: 235.56 mm (9.27 in.)
 Battery | 3-Cell Battery, 41WHr  
 Weight | 1.65 kg (3.65 lbs.)  
 Audio | Stereo speakers, 2 W x 2 = 4 W total
-"
-"https://itti.com.np/product/dell-vostro-15-3530-price-nepal-i3"
+
+ URL = https://itti.com.np/product/dell-vostro-15-3530-price-nepal-i3
 
 
 ------End the Product------
 
 
-"# Dell Vostro 3510 i5 11th Gen | 8GB RAM | 256GB SSD | 15.6" FHD Display
+# Dell Vostro 3510 i5 11th Gen | 8GB RAM | 256GB SSD | 15.6" FHD Display
 Add to Cart
 Brand | [Dell](https://itti.com.np/laptops-by-brands/dell)  
 ---|---  
@@ -506,14 +228,14 @@ Camera Webcam | 720p
 Weight | 1.69kg  
 Audio | Stereo speakers, 2 W x 2 = 4 W total  
 Dell Vostro 3510 Price in Nepal | Rs. 82,000 (i5 Variant)
-"
-"https://itti.com.np/product/dell-vostro-3510-i5-price-nepal-ssd"
+
+ URL = https://itti.com.np/product/dell-vostro-3510-i5-price-nepal-ssd
 
 
 ------End the Product------
 
 
-"# Lenovo IdeaPad Slim 1 2022 Ryzen 5 7520U | 8GB RAM | 512GB SSD | 14" FHD display
+# Lenovo IdeaPad Slim 1 2022 Ryzen 5 7520U | 8GB RAM | 512GB SSD | 14" FHD display
 Add to Cart
 PERFORMANCE  
 ---  
@@ -573,14 +295,14 @@ Green Certifications |
   * RoHS compliant
 
 
-"
-"https://itti.com.np/product/lenovo-ideapad-slim-1-price-nepal-ryzen-7"
+
+ URL = https://itti.com.np/product/lenovo-ideapad-slim-1-price-nepal-ryzen-7
 
 
 ------End the Product------
 
 
-"# HP Notebook 15-EF2127 Ryzen 5 5500U / 8GB RAM / 256GB SSD / 15.6" FHD Display
+# HP Notebook 15-EF2127 Ryzen 5 5500U / 8GB RAM / 256GB SSD / 15.6" FHD Display
 Add to Cart
 **Brand** | [Hewlett Packard (HP)](https://itti.com.np/laptops-by-brands/hp-laptops-nepal)  
 ---|---  
@@ -608,14 +330,14 @@ Add to Cart
 **Video Playback Battery life** | Up to 9 hours  
 **Webcam** | HP True Vision 720p HD camera with integrated dual array digital microphones  
 **Audio features** | Dual speakers
-"
-"https://itti.com.np/product/hp-notebook-15-price-nepal-ryzen"
+
+ URL = https://itti.com.np/product/hp-notebook-15-price-nepal-ryzen
 
 
 ------End the Product------
 
 
-"# Lenovo IdeaPad Slim 3 15 2025 AMD Ryzen 5 7520U | 8GB RAM | 512GB SSD | 15.6" FHD display |
+# Lenovo IdeaPad Slim 3 15 2025 AMD Ryzen 5 7520U | 8GB RAM | 512GB SSD | 15.6" FHD display |
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -680,455 +402,14 @@ Add to Cart
   
 **Mil-Spec Test** | MIL-STD-810H military test passed (21 test items)  
 **Other Certifications** | TÜV Rheinland® Low Blue Light (Software Solution)
-"
-"https://itti.com.np/product/lenovo-ideapad-slim-3-15-2025-amd-ryzen5-7520u-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-ideapad-slim-3-15-2025-amd-ryzen5-7520u-price-nepal
 
 
 ------End the Product------
 
 
-"# AVITA LIBER E - AMD R5 5500U | 8GB | 256GB | 14" FHD
-Price:
-रु 65,000
-### Key Specifications:
-  * **Model:** AVITA LIBER 14
-  * **Processor:** AMD R5-5500U
-  * **Storage:** 256GB SSD 
-  * **Display:** 14.1-inch FHD IPS
-  * 1 Years Warranty & Genuine Windows 11 Home
-
-
-Brand | Avita   
----|---  
-Series | AVITA LIBER E  
-Model | AVITA LIBER 14  
-Type | Notebook   
-[Processor](https://itti.com.np/electronics/pc-components/cpu-processor) | AMD Ryzen™ 5 5500U   
-[Graphics](https://itti.com.np/electronics/pc-components/graphics-card) | AMD Vega  
-[RAM](https://itti.com.np/electronics/storage-device/laptop-ram) | 8GB DDR4   
-Display | 14.1" Full HD (1920 x 1080) Anti-Glare IPS Panel with 178 degree wide viewing angle  
-Connections | 2 x USB 3.0, 1 x USB 3.0 Type-C (PD 2.0 Charging, Display out), 1 x 3.5mm Headphone Jack, DC in, 1 x MicroSD card slot, 1 x Micro HDMI Type D  
-Networking | IEEE 802.11 b/g/n/ac + Bluetooth 4.2  
-[Storage](https://itti.com.np/electronics/storage-device) | 256GB SSD  
-Size height x width x depth  | W318 X H218 X D 15.9 mm  
-Battery | 7.6V 4830mAh  
-Weight | 1.28 Kg  
-Keyboard and Touchpad | Full-size Backlit Keyboard  
-Audio | 1W x 2 Speakers, Dual Microphones  
-Included in the BOX | AC Adapter and Power cord  
-AVITA LIBER E Price in Nepal | Rs. 64000
-"
-"https://itti.com.np/product/avita-liber-e-price-nepal"
-
-
-------End the Product------
-
-
-"# Acer Aspire 3 15 A325-42 AMD Ryzen 5 7430U | 16GB RAM | 512GB SSD | 15.6" FHD IPS Display | AMD Radeon Graphics | 1 Year Warranty
-Add to Cart
-**Brand** | Acer  
----|---  
-**Series** | Aspire Series  
-**Processor** | AMD Ryzen 5 7430U Processor with 6 Cores,  
-12 Threads,  
-up to 4.3 GHz Max Boost Clock,  
-16MB L3 Cache  
-**Memory** | 16GB DDR4 RAM  
-**Storage** | 512GB SSD Storage  
-**Display** | 15.6" FHD (1920 x 1080) IPS Display with Acer ComfyView LED-Backlit and 16:9 Aspect Ratio  
-**Graphics** | AMD Radeon Graphics  
-**Speakers** | 2 x built-in stereo speakers  
-**Networks & Communication** | Wireless LAN,  
-IEEE 802.11 a/b/g/n+ac+ax  
-**Bluetooth** | Yes,  
-supports Bluetooth 5.1  
-**Webcam** | Video conferencing,  
-FHD camera,  
-Compatible with Windows,  
-1920 x 1080 resolution,  
-1080p HD video  
-**I/O Ports** | 2 x USB 3.2 Port,  
-1 x USB 2.0 Port,  
-2 x USB Type-C Port  
-**Keyboard Backlight** | Yes  
-**Battery** | 55Wh Li-Ion Battery  
-**Power Supply** | 65 W DC-in adaptor  
-**Dimensions (H x W x D)** | 1.93 cm x 36.08 cm x 25.33 cm  
-**Weight** | 1.79 Kg  
-**Warranty** | 1 Year
-"
-"https://itti.com.np/product/acer-aspire-3-a325-42-ryzen-5-price-nepal"
-
-
-------End the Product------
-
-
-"# ASUS Vivobook Go E1404 2023 Ryzen 3 7320 | 8GB RAM | 512GB SSD | 14" FHD display | Magic NumPad
-Price:
-रु 66,000
-### Key Specification:
-  * **Model:** Asus VivoBook Go E1404
-  * **Processor:** AMD Ryzen™ 3 7320U Mobile Processor
-  * **RAM: 8** GB RAM 
-  * **Storage:** 512GB SSD 
-  * **Display:** 14-inch FHD
-  * 2 Years Warranty & Genuine Windows 11 Home
-
-
-Brand | [Asus](https://itti.com.np/laptops-by-brands/asus-laptop-nepal)  
----|---  
-Series | [VivoBook Series](https://itti.com.np/laptops-by-brands/asus-laptop-nepal/vivo-book-series)  
-Model | Asus VivoBook Go E1404  
-Type | [Budget Notebook](https://itti.com.np/notebook)  
-[Processor](https://itti.com.np/electronics/pc-components/cpu-processor) | AMD Ryzen™ 3 7320U Mobile Processor (4-core/8-thread, 4MB cache, up to 4.1 GHz max boost)  
-[Graphics](https://itti.com.np/electronics/pc-components/graphics-card) | AMD Radeon™ Graphics  
-[RAM](https://itti.com.np/electronics/storage-device/laptop-ram) | 8GB LPDDR5 on board  
-Display | 14-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, Screen-to-body ratio: 82%  
-Connections | 1x USB 2.0 Type-A  
-1x USB 3.2 Gen 1 Type-A  
-1x USB 3.2 Gen 1 Type-C  
-1x HDMI 1.4  
-1x 3.5mm Combo Audio Jack  
-1x DC-in  
-Networking | Wi-Fi 5(802.11ac) (Dual band) 1*1 + Bluetooth® 5.1 Wireless Card  
-[Storage](https://itti.com.np/electronics/storage-device) | 512GB SSD  
-Size: Height x width x depth  | 32.45 x 21.39 x 1.79 ~ 1.79 cm (12.78" x 8.42" x 0.70" ~ 0.70")  
-Battery | 42WHrs, 3S1P, 3-cell Li-ion  
-Camera Webcam | 720p  
-Weight | 1.38 Kg  
-Keyboard and Touchpad | Chiclet Keyboard, 1.4mm Key-travel, Precision Touchpad, Support NumberPad  
-Asus VivoBook Go E1404 2023 Price in Nepal | Rs. 66000
-"
-"https://itti.com.np/product/asus-vivobook-go-2023-price-nepal"
-
-
-------End the Product------
-
-
-"# HP Notebook 255-G10 AMD Ryzen 5 7520U | 16 GB RAM | 512GB SSD | 15.6" FHD Display
-Price:
-रु 67,000
-### Key Features
-  * Model: HP Notebook 255-G10 AMD Ryzen 5 7520U
-  * Processor: AMD Ryzen 5 7520U
-  * RAM: 16 GB DDR4-3200 MHz RAM
-  * Storage: 512GB SSD
-  * Display: 15.6-inch IPS display; Full-HD, 250nits
-  * Graphic: AMD Radeon Graphics
-  * Warranty: 1 Year Warranty
-
-
-**Brand** | [Hewlett-Packard (HP)](https://itti.com.np/laptops-by-brands/hp-laptops-nepal)  
----|---  
-**Product name** | HP Notebook 255-G10  
-**Type** | [Budget Notebook](https://itti.com.np/notebook)  
-**Microprocessor** | AMD Ryzen™ 5 7520U (up to 4.3 GHz maximum boost clock, 4 MB L3 cache, 4 cores, 8 threads)  
-**Chipset** | AMD Integrated SoC  
-**Memory, standard** | 16 GB DDR4-3200 MHz RAM   
-**Video graphics** | AMD Radeon™ Graphics  
-**Hard drive** | 512 GB PCIe® NVMe™ M.2 SSD  
-**Optical drive** | Optical drive not included  
-**Display** | 15.6" diagonal,FHD (1920 x 1080), IPS, micro-edge, antiglare, 250 nits, 45% NTSC  
-**Wireless connectivity** | Realtek Wi-Fi 6 (2x2) and Bluetooth® 5.3 compatible combo (supporting Gigabit data rate)  
-**External ports** |  (2) USB 3.2 Gen 1.0 Type-A ports; 5 Gbps signaling rate (1) USB 3.2 Gen 1.0 Type-C port; 5 Gbps signaling rate (data transfer only; charging or external monitors not supported) (1) Headphone/microphone combo port (1) HDMI v1.4b output port (1) AC Smart pin adapter plug  
-**Minimum dimensions (W x D x H)** | 36 x 23.6 x 1.86 cm (14.17 x 9.29 x 0.73 in)  
-**Weight** | Starting at 1.52 kg  
-**Power supply type** | 45 W Smart AC power adapter  
-**Battery type** | 3-cell, 41 Wh Li-ion  
-**Battery life mixed usage** | Up to 5 hours and 30 minutes  
-**Video Playback Battery life** | Up to 6 hours  
-**Webcam** |  HP True Vision 1080p FHD camera with temporal noise reduction and integrated dual array digital microphones Privacy camera shutter door **Supported audio software** : Beam forming Echo cancellation Noise suppression  
-**Audio features** | Dual speakers  
-**HP Notebook 255-G10 AMD Ryzen 5 7520U Price in Nepal** | Rs. 66,000 
-"
-"https://itti.com.np/product/hp-notebook-15-price-nepal-ryzen-5"
-
-
-------End the Product------
-
-
-"# Lenovo V14 G4 2023 AMD Ryzen 5 7520U | 16GB RAM | 512GB SSD | 14" FHD display | 1 year Warranty
-Price:
-रु 68,000
-### Key Specification
-  * **Model** : Lenovo V14 G4 2023 
-  * **Processor** : AMD Ryzen 5 7520U
-  * **RAM** : 6GB Soldered DDR5-5200
-  * **Storage** : 512GB SSD
-  * **Display** : 14" FHD (1920x1080) IPS 250nits
-  * **Graphics** : Integrated AMD Radeon 610M Graphics
-  * **Warranty** : 1 Year Warranty
-
-
-[**Lenovo Laptops Price in Nepal**](https://itti.com.np/laptops-by-brands/lenovo-laptops-nepal)
-**PERFORMANCE**  
----  
-**Processor** | AMD Ryzen™ 5 7520U (4C / 8T, 2.8 / 4.3GHz, 2MB L2 / 4MB L3)  
-**Graphics** | Integrated AMD Radeon™ 610M Graphics  
-**Chipset** | AMD SoC Platform  
-**Memory** | 16GB Soldered LPDDR5-5500  
-**Memory Slots** | Memory soldered to systemboard, no slots, dual-channel  
-**Storage** | 512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®  
-**Storage Support** | One M.2 2242 PCIe® 3.0 x2 slot  
-**Storage Slot** | Models with 45Wh battery: one M.2 slot • One M.2 2280 PCIe® 4.0 x4 slot  
-**Card Reader** | None  
-**Optical** | None  
-**Audio Chip** | High Definition (HD) Audio, Realtek® ALC3287 codec  
-**Speakers** | Stereo speakers, 1.5W x2, Dolby® Audio™  
-**Camera** | HD 720p with Privacy Shutter  
-**Microphone** | 2x, Array  
-**Battery** | Integrated 38Wh  
-**Power Adapter** | 65W Round Tip (3-pin)  
-**DESIGN**  
-**Display** | 14" FHD (1920x1080) TN 250nits Anti-glare  
-**Touchscreen** | None  
-**Keyboard** | Non-backlit, English  
-**Case Color** | Iron Grey  
-**Surface Treatment** | IMR (In-Mold Decoration by Roller)  
-**Case Material** | PC-ABS (Top), PC-ABS (Bottom)  
-**Dimensions (WxDxH)** | 324 x 215 x 19.9 mm (12.75 x 8.46 x 0.78 inches)  
-**Weight** | Starting at 1.43 kg (3.15 lbs)  
-**SOFTWARE**  
-**Operating System** | Free Dos  
-**Bundled Software** | None  
-**CONNECTIVITY**  
-**Ethernet** | 100/1000M (RJ-45)  
-**WLAN + Bluetooth** | 11ac 2x2 + BT5.1  
-**Standard Ports** | 2x USB 3.2 Gen 1,1x USB-C® 3.2 Gen 1 (support data transfer, Power Delivery (20V only) and DisplayPort™ 1.2),1x HDMI® 1.4b,1x Headphone / microphone combo jack (3.5mm),1x Ethernet (RJ-45),1x Power connector  
-**Security Chip** | Firmware TPM 2.0 Enabled  
-**Fingerprint Reader** | None  
-**Physical Locks** | Kensington® Nano Security Slot™, 2.5 x 6 mm  
-**Other Security** | Camera privacy shutter  
-**SERVICE**  
-**Base Warranty** | 1-year, Courier or Carry-in  
-**Included Upgrade** | None  
-**ACCESSORIES**  
-**Bundled Accessories** | None  
-**CERTIFICATIONS**  
-**Green Certifications** | 
-  * ENERGY STAR® 8.0
-  * EPEAT™ Silver Registered
-  * ErP Lot 3
-  * RoHS compliant
-
-  
-**Other Certifications** | TÜV Rheinland® Low Blue Light (Software Solution)  
-**Mil-Spec Test** | MIL-STD-810H military test passed
-"
-"https://itti.com.np/product/lenovo-v14-g4-2023-price-nepal"
-
-
-------End the Product------
-
-
-"# Honor MagicBook X 15 - Core i5 10210 | 8GB | 512GB | 15.6" FHD
-Add to Cart
-Brand | Honor   
----|---  
-Series | Honor MagicBook  
-Model | Honor MagicBook X 15  
-Type | Notebook   
-[Processor](https://itti.com.np/electronics/pc-components/cpu-processor) | Intel® CoreTM i5-10210U  
-[Graphics](https://itti.com.np/electronics/pc-components/graphics-card) | Intel® UHD Graphics  
-[RAM](https://itti.com.np/electronics/storage-device/laptop-ram) | 8GB DDR4   
-Display | 15.6" 16:9 Full HD Panel (1920x1080) Narrow Bezel  
-Connections |  3.5mm Audio Jack USB 3.0 Gen1 x 1 USB-C x 1 USB 2.0 x 1 HDMI x 1  
-Networking | IEEE 802.11a/b/g/n/ac, Bluetooth® 5.0  
-[Storage](https://itti.com.np/electronics/storage-device) | 512GB SSD  
-Size height x width x depth  | Approx. 324.5 x 223 x 22.5mm  
-Battery | 42Wh (Rated capacity) Battery  
-Weight | 1.58 Kg  
-Keyboard and Touchpad | Full Size keyboard  
-Included in the BOX | Power Cord and Adaptor,  
-Honor MagicBook X 15 | 79000
-"
-"https://itti.com.np/product/honor-magicbook-x-15-price-nepal"
-
-
-------End the Product------
-
-
-"# Acer Aspire 3 2021 i5 11Th Gen | 8GB RAM | 1TB HDD | 256GB SSD | NVIDIA MX350 2GB | 15.6" FHD Display
-Add to Cart
-Brand | [Acer](https://itti.com.np/laptops-by-brands/acer-laptop-nepal)  
----|---  
-CPU | Intel Core i5-1135G7 Processor 2.4 GHz (8M Cache, up to 4.2 GHz, 4 cores)  
-Operating System | Windows 11 Genuine   
-Screen | 15.6" LCD ComfyView In-plane Switching (IPS) Technology FHD 1920 x 1080 LED  
-Type | [Budget Notebook](https://itti.com.np/laptops-by-brands)  
-RAM | 8GB (Upgradable up to 16GB)  
-Hard Drive | 1TB HDD + 256GB SSD   
-Graphics Coprocessor | NVIDIA MX350 2GB Graphic   
-Wireless | 802.11 A/C  
-Extensions | 2x USB 3.2 Gen 1 ports  
-1x Ethernet (RJ-45) port  
-1x 3.5 mm headphone/speaker jack, supporting headsets with built-in microphone  
-1x HDMI 1.4 port with HDCP support  
-1x USB 2.0 port  
-1x DC-in jack for AC adapter  
-Computer Memory | DDR4 SDRAM  
-Batteries | 36.7 Wh 2-cell Li-ion battery  
-Weight | 1.7Kg
-"
-"https://itti.com.np/product/acer-aspire-3-i5-graphic-price-nepal"
-
-
-------End the Product------
-
-
-"# ASUS Vivobook Go E1404 2023 Ryzen 5 7520 | 8GB RAM | 512GB SSD | 14" FHD display | Magic NumPad
-Add to Cart
-Brand | [Asus](https://itti.com.np/laptops-by-brands/asus-laptop-nepal)  
----|---  
-Series | [VivoBook Series](https://itti.com.np/laptops-by-brands/asus-laptop-nepal/vivo-book-series)  
-Model | Asus VivoBook Go E1404  
-Type | [Budget Notebook](https://itti.com.np/notebook)  
-[Processor](https://itti.com.np/electronics/pc-components/cpu-processor) | AMD Ryzen™ 5 7520U Mobile Processor (4-core/8-thread, 4MB cache, up to 4.3 GHz max boost)  
-[Graphics](https://itti.com.np/electronics/pc-components/graphics-card) | AMD Radeon™ Graphics  
-[RAM](https://itti.com.np/electronics/storage-device/laptop-ram) | 8GB LPDDR5 on board  
-Display | 14-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, Screen-to-body ratio: 82%  
-Connections | 1x USB 2.0 Type-A  
-1x USB 3.2 Gen 1 Type-A  
-1x USB 3.2 Gen 1 Type-C  
-1x HDMI 1.4  
-1x 3.5mm Combo Audio Jack  
-1x DC-in  
-Networking | Wi-Fi 5(802.11ac) (Dual band) 1*1 + Bluetooth® 5.1 Wireless Card  
-[Storage](https://itti.com.np/electronics/storage-device) | 512GB SSD  
-Size: Height x width x depth  | 32.45 x 21.39 x 1.79 ~ 1.79 cm (12.78" x 8.42" x 0.70" ~ 0.70")  
-Battery | 42WHrs, 3S1P, 3-cell Li-ion  
-Camera Webcam | 720p  
-Weight | 1.38 Kg  
-Keyboard and Touchpad | Chiclet Keyboard, 1.4mm Key-travel, Precision Touchpad, Support NumberPad  
-Asus VivoBook Go E1404 2023 Price in Nepal | Rs. 79900
-"
-"https://itti.com.np/product/asus-vivobook-go-2023-e1404-price-nepal"
-
-
-------End the Product------
-
-
-"# VAIO FE14 - i5 10th Gen 10210U | 8GB RAM | 512GB SSD | 14″ Full HD | Windows 11 Home
-Price:
-रु 75,000
-### Key Specifications:
-  * **Model:** VAIO FE14
-  * **Processor:** Intel Core i5 10th GEN 10210U
-  * **Storage:** 512GB SSD 
-  * RAM: 8GB
-  * **Display:** 14.1-inch FHD IPS
-  * 1 Years Warranty & Genuine Windows 11 Home
-
-
-Brand | VAIO  
----|---  
-Series | VAIO FE14  
-Model | VAIO FE14 I5  
-Type | Notebook   
-[Processor](https://itti.com.np/electronics/pc-components/cpu-processor) | Intel® CoreTM i5-10210U  
-[Graphics](https://itti.com.np/electronics/pc-components/graphics-card) | Intel® UHD Graphics  
-[RAM](https://itti.com.np/electronics/storage-device/laptop-ram) | 8GB DDR4   
-Display | 14.1" 16:9 Full HD Panel (1920x1080) wide viewing angle  
-Connections | USB 3.0 Type-C x 1 (data only, non-PD and DP)  
-USB3.1 x 2 & USB2.0 x 1  
-3.5mm Headphone Jack  
-Standard HDMI Type A x 1  
-Security lock slot x 1  
-RJ45 (10/100/1000Mbps)  
-SD Card x 1  
-Networking | IEEE 802.11a/b/g/n/ac, Bluetooth® 5.0  
-[Storage](https://itti.com.np/electronics/storage-device) | 512GB SSD  
-Size height x width x depth  | Approx. 324.5 x 223 x 22.5mm  
-Battery | Li-ion Battery, 37.6Wh  
-Weight | 1.58 Kg  
-Keyboard and Touchpad | anti-spill keyboard  
-Audio | 2W x 2 Stereo Speakers, Dual Microphones  
-Included in the BOX | Power Cord and Adaptor, Carrying Case  
-VAIO FE14 Price in Nepal | 75000
-"
-"https://itti.com.np/product/vaio-fe14-i5-10th-gen-10210u-8gb-ram-512gb-ssd-14-full-hd-windows-11-home"
-
-
-------End the Product------
-
-
-"# Apple iPad (8th Generation) Wifi+Cellular - 10.2" display, A12 Bionic, 8MP Camera, Stereo Speakers, 9 Hours Battery Life
-Price:
-रु 75,000
-Brand New Sealed pack Apple iPad 8th Generation with Apple A12 Bionic chip featuring 64-bit architecture and Neural Engine, 32GB Storage, 10.2-inch Retina display with 2160-by-1620-pixel resolution, 264 pixels per inch (PPI) pixel density, 500 nits brightness, Fingerprint-resistant oleophobic coating, Supports Apple Pencil (1st generation), Multi-Touch display with IPS technology, 8MP Rear-facing Camera, stereo speakers, 9 hours of battery life, **Free delivery all over Nepal**
-[**Apple iPad Price in Nepal**](https://itti.com.np/laptops-by-brands/apple-macbook-laptops-nepal/ipad)
-Brand | [Apple](https://itti.com.np/laptops-by-brands/apple-macbook-laptops-nepal)  
----|---  
-Type | [Tablet](https://itti.com.np/electronics/others/tablets)  
-Color | Silver, Space Gray and Gold  
-Storage | 32 GB  
-Size and Weight | 
-  * Height: 9.8 inches (250.6 mm)
-  * Width: 6.8 inches (174.1 mm)
-  * Depth: 0.29 inch (7.5 mm)
-  * Weight: 1.09 pounds (495 grams)
-
-  
-Buttons and Connectors | 
-  * Home/Touch ID sensor
-  * Stereo speakers
-  * Smart Connector
-  * Lightning connector
-  * 3.5 mm headphone jack
-  * On/Off - Sleep/Wake
-  * Volume up/down
-  * Nano-SIM tray (cellular models)
-  * Dual microphones
-
-  
-In the Box | 
-  * iPad
-  * Lightning to USB-C Cable
-  * USB-C Power Adapter
-
-  
-Display | 
-  * Retina display
-  * 10.2-inch (diagonal) LED-backlit Multi-Touch display with IPS technology
-  * 2160-by-1620-pixel resolution at 264 pixels per inch (ppi)
-  * 500 nits brightness
-  * Fingerprint-resistant oleophobic coating
-  * Supports Apple Pencil (1st generation)
-
-  
-Chip | 
-  * A12 Bionic chip with 64-bit architecture
-  * Neural Engine
-
-  
-Camera | 8MP camera  
-Speakers | Stereo speakers  
-Sensors | 
-  * Touch ID
-  * Three-axis gyro
-  * Accelerometer
-  * Barometer
-  * Ambient light sensor
-
-  
-Touch ID | 
-  * Unlock iPad
-  * Secure personal data within apps
-  * Make purchases from the iTunes Store, App Store, and Apple Books
-
-  
-Power and Battery | 
-  * Up to 9 hours of surfing the web using cellular data network
-
-
-"
-"https://itti.com.np/product/apple-ipad-8th-generation-32-gb-price-nepal"
-
-
-------End the Product------
-
-
-"# ASUS Vivobook Go E1504 2023 Ryzen 5 7520 | 8GB RAM | 512GB SSD | 15.6" FHD display | 2 Years Warranty
+# ASUS Vivobook Go E1504 2023 Ryzen 5 7520 | 8GB RAM | 512GB SSD | 15.6" FHD display | 2 Years Warranty
 Price:
 रु 76,000
 ## Key Features
@@ -1164,14 +445,14 @@ Weight | 1.63 Kg
 Keyboard and Touchpad | Non-Backlit Chiclet Keyboard, 1.4mm Key-travel, Precision touchpad  
 Chiclet Keyboard, 1.4mm Key-travel, Precision touchpad  
 Asus VivoBook Go E1504 2023 Price in Nepal | Rs. 78000
-"
-"https://itti.com.np/product/asus-vivobook-go-2023-e1504-price-nepal"
+
+ URL = https://itti.com.np/product/asus-vivobook-go-2023-e1504-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo IdeaPad Slim 3 15 2025 i5 13420H | 16GB RAM | 512GB SSD | 15.6" FHD display
+# Lenovo IdeaPad Slim 3 15 2025 i5 13420H | 16GB RAM | 512GB SSD | 15.6" FHD display
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -1238,14 +519,14 @@ Add to Cart
   
 **Mil-Spec Test** | MIL-STD-810H military test passed (21 test items)  
 **Other Certifications** | TÜV Rheinland® Low Blue Light (Software Solution)
-"
-"https://itti.com.np/product/lenovo-ideapad-slim-3-15-2025-i5-13420h-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-ideapad-slim-3-15-2025-i5-13420h-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Vostro 15 3530 - Intel Core i5 1335U | 8GB RAM | 512GB SSD | 15.6" FHD Display | 1 Year Warranty
+# Dell Vostro 15 3530 - Intel Core i5 1335U | 8GB RAM | 512GB SSD | 15.6" FHD Display | 1 Year Warranty
 Add to Cart
 **Brand** | Dell  
 ---|---  
@@ -1274,14 +555,14 @@ Depth: 235.56 mm (9.27 in.)
 **Audio** | Stereo speakers, 2 W x 2 = 4 W total  
 **Warranty** | 1 Year Warranty  
 **Price** | Rs- 78,000 /-
-"
-"https://itti.com.np/product/dell-vostro-15-3530-price-nepal-i5"
+
+ URL = https://itti.com.np/product/dell-vostro-15-3530-price-nepal-i5
 
 
 ------End the Product------
 
 
-"# Acer Aspire Lite 16 (Intel Core i5 1334U Processor | 16GB RAM | 512GB SSD | 16" WUXGA (1920 x 1200) IPS Display | Intel UHD Graphics | 1 Year Warranty)
+# Acer Aspire Lite 16 (Intel Core i5 1334U Processor | 16GB RAM | 512GB SSD | 16" WUXGA (1920 x 1200) IPS Display | Intel UHD Graphics | 1 Year Warranty)
 Add to Cart
 **Brand** | 
   * Acer
@@ -1405,14 +686,14 @@ Add to Cart
   * 1 Year
 
 
-"
-"https://itti.com.np/product/acer-aspire-lite-16-intel-core-i5-1334u-processor-16gb-ram-512gb-ssd-16-wuxga-1920-x-1200-ips-display-intel-uhd-graphics-1-year-warranty"
+
+ URL = https://itti.com.np/product/acer-aspire-lite-16-intel-core-i5-1334u-processor-16gb-ram-512gb-ssd-16-wuxga-1920-x-1200-ips-display-intel-uhd-graphics-1-year-warranty
 
 
 ------End the Product------
 
 
-"# Acer Aspire Lite 14 (Intel Core i5 1334U Processor | 16GB RAM | 512GB SSD | 16" WUXGA (1920 x 1200) IPS Display | Intel UHD Graphics | 1 Year Warranty)
+# Acer Aspire Lite 14 (Intel Core i5 1334U Processor | 16GB RAM | 512GB SSD | 16" WUXGA (1920 x 1200) IPS Display | Intel UHD Graphics | 1 Year Warranty)
 Out of stock
 ▶ Processor & Chipset  
 ---  
@@ -1460,14 +741,14 @@ Keyboard Backlight | No
 Height | 16.90 mm  
 Depth | 218 mm  
 Weight (Approximate) | 1.50 kg
-"
-"https://itti.com.np/product/acer-aspire-lite-14-intel-core-i5-1334u-processor-16gb-ram-512gb-ssd-14-wuxga-1920-x-1200-ips-display-intel-uhd-graphics-2-year-warranty"
+
+ URL = https://itti.com.np/product/acer-aspire-lite-14-intel-core-i5-1334u-processor-16gb-ram-512gb-ssd-14-wuxga-1920-x-1200-ips-display-intel-uhd-graphics-2-year-warranty
 
 
 ------End the Product------
 
 
-"# Lenovo IdeaPad Slim 3 14 2023 i5 13th Gen 13620H | 8GB RAM | 512GB SSD | 14" FHD display
+# Lenovo IdeaPad Slim 3 14 2023 i5 13th Gen 13620H | 8GB RAM | 512GB SSD | 14" FHD display
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -1531,14 +812,14 @@ Add to Cart
   
 **Other Certifications** | TÜV Rheinland® Low Blue Light (Software Solution)  
 **Mil-Spec Test** | MIL-STD-810H military test passed (21 test items)
-"
-"https://itti.com.np/product/lenovo-ideapad-slim-3-14-2023-i5-13th-gen-16gb-ram-512gb-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-ideapad-slim-3-14-2023-i5-13th-gen-16gb-ram-512gb-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo IdeaPad Slim 3 (15IRU9) 2024 Intel Core 5 120U | 8GB RAM | 512GB SSD | 15.6" FHD TS Display | Backlight Keyboard | 1 Year Warranty
+# Lenovo IdeaPad Slim 3 (15IRU9) 2024 Intel Core 5 120U | 8GB RAM | 512GB SSD | 15.6" FHD TS Display | Backlight Keyboard | 1 Year Warranty
 Add to Cart
 **Brand** | Lenovo   
 ---|---  
@@ -1588,14 +869,14 @@ Add to Cart
 **Other Security** | Camera privacy shutter  
 **Base Warranty** | 1-year Warranty  
 **Price** | **Rs-85,000 /-**
-"
-"https://itti.com.np/product/lenovo-ideapad-slim-3-15iru9-2024-intel-core-5price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-ideapad-slim-3-15iru9-2024-intel-core-5price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo V14 G4 Intel Core i5-13420H | 16GB RAM | 512GB SSD | 14" FHD display | 1 year Warranty
+# Lenovo V14 G4 Intel Core i5-13420H | 16GB RAM | 512GB SSD | 14" FHD display | 1 year Warranty
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -1660,14 +941,14 @@ Add to Cart
   
 **Other Certifications** | TÜV Rheinland® Low Blue Light (Software Solution)  
 **Mil-Spec Test** | MIL-STD-810H military test passed
-"
-"https://itti.com.np/product/lenovo-v14-g4-i5-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-v14-g4-i5-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Inspiron 5440 Core™ i5-1334U 8GB RAM | 512GB SSD | 14" (1920x1200) Display | CARBON BLACK | Backlit Keyboard | 1 Year Warranty
+# Dell Inspiron 5440 Core™ i5-1334U 8GB RAM | 512GB SSD | 14" (1920x1200) Display | CARBON BLACK | Backlit Keyboard | 1 Year Warranty
 Add to Cart
 **Model** | Dell Inspiron 5440  
 ---|---  
@@ -1695,47 +976,14 @@ Add to Cart
 **Weight** | Approx. 1.44 kg (3.17 lbs)  
 **Color** | Carbon Black  
 **Warranty** | 1-Year Limited Hardware Warranty
-"
-"https://itti.com.np/product/dell-inspiron-5440-5463blk-core-i5-1334u-price-nepal-8gb-ram-512gb-ssd-14-1920x1200-win11-carbon-black-backlit-keyboard"
+
+ URL = https://itti.com.np/product/dell-inspiron-5440-5463blk-core-i5-1334u-price-nepal-8gb-ram-512gb-ssd-14-1920x1200-win11-carbon-black-backlit-keyboard
 
 
 ------End the Product------
 
 
-"# Lenovo Yoga 7i i5 11th Gen / 8GB RAM / 256GB SSD / 15.6" FHD 360-degree Touchscreen
-Add to Cart
-CPU | 11th Gen Intel Core i5-1135G7 processor; (4 Cores / 8 Threads, 2.4 - 4.2GHz, 8MB)  
----|---  
-RAM | 8GB Soldered DDR4-3200MHz  
-Graphics | Integrated Intel Iris Xe Graphics  
-Audio | Front-facing Dolby Atmos Speaker System  
-Display | 15.6-inch Full-HD (1920 x 1080 pixels) IPS display; 250nits brightness; Glossy, 45% NTSC, AGC Soda-lime glass  
-Connections | 
-  * 1x USB 3.2 Gen 1
-  * 1x USB 3.2 Gen 1 (Always On)
-  * 1x headphone / microphone combo jack (3.5mm)
-  * 2x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 3.0 and DisplayPort 1.4)
-
-  
-Networking | 
-  * Intel WiFi 6 2x2 802.11ax
-  * Bluetooth 5
-
-  
-Storage | 256GB SSD  
-Size height x width x depth (in mm) | 356.46 x 235.65 x 17.97-19.25 mm (14.03 x 9.27 x 0.70-0.75 inches)  
-Battery | 4 Cell Li-Polymer  
-camera webcam | 720p  
-Weight | 1.9KG  
-Lenovo Yoga 7i Price in Nepal | Rs. 115,000
-"
-"https://itti.com.np/product/lenovo-yoga-7i-price-nepal-i5"
-
-
-------End the Product------
-
-
-"# Acer Aspire 14 A14-51M 2024 14th Gen Core 5 | 8GB RAM | 512GB SSD | 14" FHD Display | 1 Year Warranty | Metalic Body
+# Acer Aspire 14 A14-51M 2024 14th Gen Core 5 | 8GB RAM | 512GB SSD | 14" FHD Display | 1 Year Warranty | Metalic Body
 Add to Cart
 Brand  | [Acer](https://itti.com.np/laptops-by-brands/acer-laptop-nepal)  
 ---|---  
@@ -1761,672 +1009,14 @@ Dimensions | 318.5 (W) x 225.5 (D) x 18.9 (H) mm
 Weight | 1.5Kg  
 Warranty | 1-Year Local Warranty   
 Acer Aspire 5 2024 Price in Nepal | Rs.83,500 
-"
-"https://itti.com.np/product/acer-aspire-14-a14-51m-price-nepal"
+
+ URL = https://itti.com.np/product/acer-aspire-14-a14-51m-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Inspiron 15 3530 - i5 1335U | 8GB RAM | 512GB SSD | 15.6" FHD Display | 1 Year Warranty
-Add to Cart
-CPU | 13th Generation Intel® Core™ i5-1335U Processor (12MB Cache, up to 4.60 GHz)  
----|---  
-RAM | 8GB, 1x8GB, DDR4, 2666MHz  
-Display | 15.6 inch FHD (1920 x 1080) 120Hz 250 nits WVA Anti- Glare LED Backlit Narrow Border Display  
-Connections | 1 USB 3.2 Gen 1 Type-C® port with DisplayPort 1.4 (on 12th Gen Processor configured with Type-C®)*  
-1 USB 3.2 Gen 1 port (on systems configured with Type-C®)  
-2 USB 3.2 Gen 1 ports (on systems configured with non Type-C®)  
-1 USB 2.0 port  
-1 Power Jack  
-1 headset (headphone and microphone combo) port  
-1 HDMI 1.4 port  
-Networking | Intel® Wi-Fi 6 AX201, 2x2, 802.11ax, Bluetooth® wireless card  
-Storage | 512GB SSD  
-Size: Height x width x depth  | Height (front): 16.96 mm (0.67 in.)  
-Height (rear): 21.07 mm (0.83 in.)  
-Width: 358.50 mm (14.11 in.)  
-Depth: 235.56 mm (9.27 in.)  
-  
-  
-Camera | 720p at 30 fps HD camera, single-integrated microphone  
-Battery | 3-Cell Battery, 41WHr  
-Weight | 1.65 kg (3.65 lbs.)  
-Audio | Stereo speakers, 2 W x 2 = 4 W total
-"
-"https://itti.com.np/product/dell-inspiron-15-3530-price-nepal-i5"
-
-
-------End the Product------
-
-
-"# Acer Aspire 15 AMD Ryzen 5 8640HS Processor | 16GB RAM | 512 GB SSD | 15.6" FHD TN Display | 1 Year Warranty
-Add to Cart
-**Brand** | 
-  * Acer
-
-  
----|---  
-**Series** | 
-  * Aspire
-
-  
-**Model** | 
-  * Acer Aspire 15 A15-41M-R8Y2
-
-  
-**Processor** | 
-  * AMD Ryzen 5 8640HS Processor with 6-cores, 12-threads, 16MB L3 Cache, up to 4.9GHz max boost clock with AMD Ryzen AI
-
-  
-**AI Engine** | 
-  * AMD Ryzen™ AI (Up to 16 TOPS NPU Performance, 31 TOPS Total Processor Performance)
-
-  
-**Graphic** | 
-  * AMD Radeon 760M
-
-  
-**RAM** | 
-  * 16GB
-
-  
-**Storage** | 
-  * 512GB SSD
-
-  
-**Audio & Speaker** | 
-  * Acer Purified.Voice Technology with AI Noise Reduction & 2x Stereo Speakers
-
-  
-**Camera** | 
-  * FHD Webcam (1920 x 1080) with Blue Glass, TNR for low-light imagery
-
-  
-**Microphone** | 
-  * Two Built-in Microphones with Acer PurifiedVoice Technology and AI Noise Reduction
-
-  
-**Battery** | 
-  * 50 Wh Lithium Ion (Li-Ion) battery
-
-  
-**Max Battery Life** | 
-  * 4-5 Hours
-
-  
-**Power Adapter** | 
-  * 65 W AC adapter
-
-  
-**Display** | 
-  * 15.6-inch FHD (1920x1080) fhd, 16:9 aspect ratio, Matte, 45% NTSC, 300 nits
-
-  
-**Keyboard & Touchpad** | 
-  * White Backlight, Precision Touchpad (Windows Modern Touchpad gestures)
-
-  
-**Case Color** | 
-  * Steel Grey
-
-  
-**Dimensions** | 
-  * 9.35" x 14.33" x 0.70" (237.5 x 363.9 x 17.9 mm)
-
-  
-**Weight** | 
-  * 1.65 kg (3.6 lbs)
-
-  
-**WLAN + Bluetooth** | 
-  * Wi-Fi 6E (IEEE 802.11ax)
-
-  
-**Standard Ports** | 
-  * 1x USB Type-C™ port supporting: (USB4® 40Gbps / DisplayPort over USB-C / USB charging 5 V; 3 A / DC-in port 20 V; 65 W)
-  * 2x USB 3.2 Gen 1 ports with one featuring power-off USB charging
-  * 1x HDMI® 2.1 port with HDCP support
-  * 1 x Audio port
-
-  
-Warranty | 1 Year Warranty  
-Price in Nepal | Rs: 82,000 /-
-"
-"https://itti.com.np/product/acer-aspire-15-amd-ryzen-5-8640hs-16gb-ram-512-gb-ssd-fhd-ips-display-price-nepal"
-
-
-------End the Product------
-
-
-"# ASUS VIVOBOOK X515JA i7 10TH GEN | 8GB RAM | 512GB SSD | BACKLIGHT KEYBOARD 15.6" FHD
-Add to Cart
-CPU | Intel® Core™ i7-1065G7 Processor 1.3 GHz (8M Cache, up to 3.9 GHz, 4 cores)  
----|---  
-Graphics | Intel® UHD Graphics  
-Memory | 8GB DDR4 on board  
-Display | 35.56cm(15.6-inch), FHD (1920 x 1080) 16:9, Anti-glare display, LED Backlit, 220nits, NTSC: 45%  
-Connections | 1x USB 3.2 Gen 1 Type-A  
-1x USB 3.2 Gen 1 Type-C  
-2x USB 2.0 Type-A  
-1x HDMI 1.4  
-1x 3.5mm Combo Audio Jack  
-Micro SD card reader  
-Networking | Wi-Fi 5(802.11ac)+Bluetooth 4.1 (Dual band) 1*1  
-Storage | 512GB SSD  
-Sizeheight x width x depth  | 36.02 x 23.49 x 1.99 ~ 1.99 cm (14.18" x 9.25" x 0.78" ~ 0.78"))  
-Battery | 2 -Cell 32 Wh Polymer Battery  
-CameraWebcam | 720p  
-Weight | 1.8 Kg  
-Keyboard and Touchpad |  Keyboard Full-size backlit, with 1.4mm key travel Touchpad Intelligent palm-rejection; Precision touchpad (PTP) technology supports up to four-finger smart gestures  
-Expantion Slots | 1x DDR4 SO-DIMM slot  
-1x M.2 2280 PCIe 3.0x2  
-1x STD 2.5” SATA HDD  
-Audio | SonicMaster  
-Audio by ICEpower®  
-Built-in speaker  
-Built-in microphone  
-with Cortana support
-"
-"https://itti.com.np/product/asus-vivibook-x415-ja-i7-price-nepal"
-
-
-------End the Product------
-
-
-"# Dell Latitude 14 3440 - i5 1235U | 8GB RAM | 512GB SSD | 14" Full-HD Display | 3 Year Warranty
-Price:
-रु 85,000
-### Key Features
-  * Model: Latitude 3440
-  * Processor: Intel Core i5-1235U (12M Cache, up to 4.40 GHz)
-  * RAM: 8GB DDR4 3200MHz RAM, 
-  * Storage: 512GB NVMe PCIe Gen3x4 SSD
-  * Display: 14" FHD (1920x1080)
-  * Features: USB Type-C, M.2
-
-
-**Processor**  
----  
-Processor Brand | Intel |   
-Processor Model | Core i5-1235U |   
-Generation | 12th Gen |   
-Processor Frequency | 3.30 GHz, up to 4.40 GHz |   
-Processor Core | 10 (Performance-cores- 2 Efficient-cores- 8) |   
-Processor Thread | 12 |   
-CPU Cache | 12MB |   
-**Display**  
-Display Size | 14 Inch |   
-Display Type | LED |   
-Display Resolution | FHD (1920*1080) |   
-Touch Screen | N/A |   
-Refresh Rate | 60Hz |   
-Display Features | Non-Touch, Anti-Glare, 250 nit, Narrow Border, LED-Backlit |   
-**Memory**  
-RAM | 8GB |   
-RAM Type | DDR4 |   
-Removable | Yes |   
-Bus Speed | 3200MHz |   
-Total RAM Slot | 2 |   
-Max RAM Capacity | 64GB |   
-**Storage**  
-Storage Type | NVMe PCIe Gen3x4 SSD |   
-Storage Capacity | 512GB |   
-Extra M.2 Slot | N/A |   
-Supported SSD Type | M.2 PCIe NVMe |   
-Storage Upgrade | Installed SSD can be upgradeable |   
-**Graphics**  
-Graphics Model | Intel Iris Xe Graphics |   
-Graphics Memory | Shared |   
-**Keyboard & TouchPad**  
-Keyboard Type | Standard Keyboard |   
-TouchPad | Yes |   
-**Camera & Audio**  
-WebCam | FHD Camera, Temporal Noise Reduction |   
-Speaker | Yes |   
-Microphone | Yes |   
-Audio Features | Realtek Audio Controller, 2W x 2 = 4 W |   
-**Ports & Slots**  
-Optical Drive | N/A |   
-HDMI Port | 1x HDMI 1.4 |   
-USB 3 Port | 2x USB 3.2 Gen1 (1 with Power share) |   
-USB Type-C / Thunderbolt Port | 2x USB Type C Thunderbolt 4.0 with Power  
-Delivery & DisplayPort  
-|   
-Headphone & Microphone Port | Yes |   
-**Network & Connectivity**  
-LAN | Yes |   
-WiFi | Wi-Fi 6 AX201 2x2 802.11ax 160MHz, Intel Dual Band |   
-Bluetooth | Bluetooth v5.2 |   
-**Security**  
-Fingerprint Sensor | N/A |   
-Camera Privacy Shutter | Yes |   
-**Software**  
-Operating System | FreeDos |   
-**Power**  
-Battery Type | 3-Cell |   
-Battery Capacity | 42Whr |   
-**Physical Specification**  
-Color | Silver |   
-Dimensions | Width: 322.2mm / 12.7in  
-Depth: 219.4mm / 8.6in  
-Height (front): 17.7mm / 0.70in  
-Height (rear): 19.4mm / 0.76in  
-Screen to Body Ratio: 84.5% |   
-Weight | Starting weight: 1.54kg / 3.40lbs |   
-**Warranty**  
-Warranty Details | 03-years Warranty | 
-"
-"https://itti.com.np/product/dell-latitude-14-3440-i5-12th-gen-price-nepal"
-
-
-------End the Product------
-
-
-"# Acer Swift Go 14 2023 AMD Ryzen 5 7530U | 1 Year Warranty | 8GB RAM | 512GB SSD | 14" FHD display | Backlight Keyboard
-Add to Cart
-Brand | [Acer](https://itti.com.np/laptops-by-brands/acer-laptop-nepal)  
----|---  
-Series | [Acer Swift Series](https://itti.com.np/laptops-by-brands/acer-laptop-nepal/swift-series)  
-CPU | AMD Ryzen 5 7530U (6C / 12T, 2.0 / 4.5GHz, 3MB L2 / 16MB L3)  
-Operating System | windows 11 Genuine  
-Screen | 14-inch IPS (In-Plane Switching) display, Full-HD (1920 x 1080 pixels) resolution; high-brightness (300nits) Acer ComfyViewTM LED-backlit TFT LCD 16:9 aspect ratio, 72% NTSC color gamut, 100% SRGB  
-Type | [Thin and light ultrabook](https://itti.com.np/ultrabook-laptop-nepal)  
-RAM | 8GB LPDDR4 RAM  
-Hard Drive | 512Gb SSD  
-Graphics Coprocessor | AMD Radeon Graphics  
-Wireless | IEEE 802.11ac Bluetooth 5.2 Intel® Wireless Wi-Fi 6E AX201 supporting dual band 2.4Ghz & 5Ghz  
-USB Ports | 2x USB Type-C ports supporting:  
-• USB 3.2 Gen 2 (up to 10 Gbps)  
-• DisplayPort over USB-C  
-• USB charging 5 V; 3A  
-• DC-in port 20 V; 65W  
-2x USB Standard-A ports, supporting:  
-• One port for USB 3.2 Gen 1  
-• One port for USB 3.2 Gen 1 featuring power off USB charging  
-1x HDMI® 2.1 port with HDCP support  
-1x Headphone/speaker jack  
-Dimensions | 322.8 x 212.2 x 15.9 m  
-Webcam | 1080P  
-Securities | fingerprint reader  
-Batteries | 50 Whr Battery   
-Weight | 1.25Kg  
-**Link To check Authorised Warranty For Nepal** | <https://support.acer.com.sg/regional/>  
-Acer Swift 3 2023 Price in Nepal | Rs. 95000 (Ryzen 5)
-"
-"https://itti.com.np/product/acer-swift-go-14-2024-price-nepal"
-
-
-------End the Product------
-
-
-"# Asus VivoBook 14 2023 X1404VA i5 13th Gen | 8GB RAM | 512GB SSD | 14" FHD display | Backlight Keyboard | Magic NumPad
-Add to Cart
-Brand | [Asus](https://itti.com.np/laptops-by-brands/asus-laptop-nepal)  
----|---  
-Series | [VivoBook Series](https://itti.com.np/laptops-by-brands/asus-laptop-nepal/vivo-book-series)  
-Model | Asus VivoBook 14 2022 X1404VA  
-Type | [Budget Notebook](https://itti.com.np/notebook)  
-[Processor](https://itti.com.np/electronics/pc-components/cpu-processor) | Intel® Core™ i5-1335U Processor 1.3 GHz (12MB Cache, up to 4.6 GHz, 10 cores, 12 Threads)  
-[Graphics](https://itti.com.np/electronics/pc-components/graphics-card) | Intel Iris Xᵉ Graphics  
-[RAM](https://itti.com.np/electronics/storage-device/laptop-ram) | 8GB DDR4 on board, Total system memory upgradeable to:16GB  
-Display | 14.0-inch, FHD (1920 x 1080) 16:9 aspect ratio, IPS-level Panel, LED Backlit, 250nits, 45% NTSC color gamut for non-OLED, Anti-glare display, Screen-to-body ratio: 82 ％  
-Connections | 1x USB 2.0 Type-A  
-1x USB 3.2 Gen 1 Type-C  
-2x USB 3.2 Gen 1 Type-A  
-1x HDMI 1.4  
-1x 3.5mm Combo Audio Jack  
-1x DC-in  
-Networking | Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth 5  
-[Storage](https://itti.com.np/electronics/storage-device) | 512GB SSD  
-Size: Height x width x depth  | 32.49 x 21.39 x 1.99 ~ 1.99 cm (12.79" x 8.42" x 0.78" ~ 0.78")  
-Battery | 42WHrs, 3S1P, 3-cell Li-ion  
-camera webcam | 720p  
-Weight | 1.5 Kg  
-Keyboard and Touchpad | Backlit Chiclet Keyboard, 1.4mm Key-travel, Precision Touchpad, Support NumberPad  
-Expansion Slots | 1x DDR4 SO-DIMM slot  
-1x M.2 2280 PCIe 4.0x4  
-Audio | SonicMaster  
-Built-in speaker  
-Built-in array microphone  
-with Cortana and Alexa voice-recognition support  
-Asus VivoBook 14 2023 X1404VA Price in Nepal | Rs. 93000 (i5 Variant)
-"
-"https://itti.com.np/product/asus-vivobook-14-2023-x1404za-price-nepal-i5"
-
-
-------End the Product------
-
-
-"# Lenovo V14 G4 2023 AMD Ryzen 7 7730U | 16GB RAM | 512GB SSD | 14" FHD display | 1 year Warranty
-Add to Cart
-**PERFORMANCE**  
----  
-**Processor** | AMD Ryzen 7 7730U, 8-core 16-threads, 2.0GHz, Upto 4.5GHz, 4MB L2 / 16MB L3  
-**Graphics** | Integrated AMD Radeon™ 610M Graphics  
-**Chipset** | AMD SoC Platform  
-**Memory** | 16GB Soldered LPDDR5-5500  
-**Memory Slots** | Memory soldered to systemboard, no slots, dual-channel  
-**Max Memory** | 16GB soldered memory, not upgradable  
-**Storage** | 512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®  
-**Storage Support** | One M.2 2242 PCIe® 3.0 x2 slot  
-**Storage Slot** | Models with 45Wh battery: one M.2 slot • One M.2 2280 PCIe® 4.0 x4 slot  
-**Card Reader** | None  
-**Optical** | None  
-**Audio Chip** | High Definition (HD) Audio, Realtek® ALC3287 codec  
-**Speakers** | Stereo speakers, 1.5W x2, Dolby® Audio™  
-**Camera** | HD 720p with Privacy Shutter  
-**Microphone** | 2x, Array  
-**Battery** | Integrated 45Wh  
-**Power Adapter** | 65W Round Tip (3-pin)  
-**DESIGN**  
-**Display** | 14" FHD (1920x1080), IPS, Antiglare, 16:9, 45% NTSC, 60Hz  
-**Touchscreen** | None  
-**Keyboard** | Non-backlit, English  
-**Case Color** | Iron Grey  
-**Surface Treatment** | IMR (In-Mold Decoration by Roller)  
-**Case Material** | PC-ABS (Top), PC-ABS (Bottom)  
-**Dimensions (WxDxH)** | 324 x 215 x 19.9 mm (12.75 x 8.46 x 0.78 inches)  
-**Weight** | Starting at 1.43 kg (3.15 lbs)  
-**SOFTWARE**  
-**Operating System** | Free Dos  
-**Bundled Software** | None  
-**CONNECTIVITY**  
-**Ethernet** | 100/1000M (RJ-45)  
-**WLAN + Bluetooth** | 11ac 2x2 + BT5.1  
-**Standard Ports** | 2x USB 3.2 Gen 1,1x USB-C® 3.2 Gen 1 (support data transfer, Power Delivery (20V only) and DisplayPort™ 1.2),1x HDMI® 1.4b,1x Headphone / microphone combo jack (3.5mm),1x Ethernet (RJ-45),1x Power connector  
-**Security Chip** | Firmware TPM 2.0 Enabled  
-**Fingerprint Reader** | None  
-**Physical Locks** | Kensington® Nano Security Slot™, 2.5 x 6 mm  
-**Other Security** | Camera privacy shutter  
-**SERVICE**  
-**Base Warranty** | 1-year, Courier or Carry-in  
-**Included Upgrade** | None  
-**ACCESSORIES**  
-**Bundled Accessories** | None  
-**CERTIFICATIONS**  
-**Green Certifications** | 
-  * ENERGY STAR® 8.0
-  * EPEAT™ Silver Registered
-  * ErP Lot 3
-  * RoHS compliant
-
-  
-**Other Certifications** | TÜV Rheinland® Low Blue Light (Software Solution)  
-**Mil-Spec Test** | MIL-STD-810H military test passed
-"
-"https://itti.com.np/product/lenovo-v14-g4-2023-amd-ryzen-7-7730u-price-nepal"
-
-
-------End the Product------
-
-
-"# Acer Aspire Go 14 2024 | 14th Gen Intel Core Ultra 5 125H | Intel Graphics | 14 inch WUXGA Display | 16GB RAM | 512GB SSD | 2 Year Warranty
-Add to Cart
-**Brand** | Acer  
----|---  
-**Series** | Aspire Go 14   
-**Processor** | Intel Core Ultra 5 125H Processor (14 Cores/18 Threads, 1.20GHz-4.80GHz Max Boost Clock, 18MB Cache)  
-**Processor Family** | 14th Generation Intel Core Ultra Core 5 Processor  
-**AI (Artificial Intelligence)** | Intel AI Boost  
-**Operating System** | Windows 11  
-**Graphics** | Intel Arc Integrated Graphics  
-**Chipset** | Xe-LPG  
-**Memory** | 16GB DDR5 RAM (4800MHz)  
-**Max Memory** | Non Upgradeable  
-**Storage** | 512GB PCIe NVMe, PCIe 4.0 x4 SSD  
-**Display** | 14" 1920 x 1200 (WUXGA) IPS Display With 45%nits Brightness, 16:9 Aspect Ratio, 100:1 Contrast Ratio, Approx 70% sRGB 60Hz Refresh Rate  
-**Wireless Connectivity** | Wi-Fi 6, 802.11ax 2x2 Wi-Fi + Bluetooth 5.2*  
-**Ethernet** | 1x RJ-45 Ethernet Port  
-**I/O Ports** | 
-  * 1x USB Type-C
-  * 2X USB Type-A (USB 3.2 Gen 1)
-  * 1x microSD Card Reader
-  * 1x HDMI 2.1
-  * 1x 3.5 mm Audio Jack
-  * 1x RJ-45 Ethernet
-
-  
-**Keyboard** | Full-size Keyboard With Standard Chiclet Keys  
-**Backlight** | No Backlight  
-  * **Trackpad**
-
-|  Precision Touchpad 110 x 65 mm  
-**Audio Chip**  
-| Realtek ALC256   
-**Speakers**  
-| 2W x2 Speakers  
-**Microphone**  
-| Dual-Microphone Array  
-**Camera**  
-| 720p HD  
-**Battery** | 54.8 Wh 3-cell Li-ion battery | 45W USB-C Power Adapter  
-**Dimensions (W x D x H)**  
-| 227.97 * 313.80 * 17.70 mm  
-**Weight** | 1.50 kg (1.10231 lbs)  
-**Case Color** | Steel Grey  
-**Case Material**  
-| Plastic (Matte)  
-**Security**  
-| Firmware TPM 2.0 integrated in Chipset  
-**Fingerprint** | No Fingerprint  
-**BIOS Security**  
-| 
-  * UEFI Firmware 
-  * Secure Boot
-  * BIOS Password Protection
-  * BIOS Recovery
-
-  
-**Warranty** | 1-Year Warranty  
-**Acer Aspire Go 14 Ultra 5 Price in Nepal** | NPR 90,000
-"
-"https://itti.com.np/product/acer-aspire-go-14-2024-price-nepal-14th-gen-intel-ultra-5"
-
-
-------End the Product------
-
-
-"# Asus VivoBook 15 K513EA i5 11th Gen | 8GB RAM | 512GB SSD | 15.6" FHD display
-Add to Cart
-CPU | Intel Core i5 1135G7 Processor  
----|---  
-Graphics | Integrated Intel IRIS Xe Graphics  
-Memory | 8GB DDR4 3200MHz SDRAM Onboard memory  
-Display | 15.6-inch (16:9) LED-backlit Full-HD (1920 x 1080 pixels) 60Hz Anti-Glare Panel with 45% NTSC  
-Connections | 1 x COMBO audio jack  
-1 x Type-C USB 3.2 (Gen 1)  
-1 x Type-A USB 3.2 (Gen 1)  
-2 x Type-A USB2.0  
-1 x HDMI  
-1 x micro SD card  
-Networking | Integrated Wi-Fi 6 (802.11 ax (2x2))  
-Storage | 512GB PCIe Gen3 x2 SSD M.2  
-Sizeheight x width x depth  | 359 x 235 x 17.9 mm (WxDxH)  
-Battery | 3 -Cell 42 Wh Battery  
-CameraWebcam | 720p  
-Weight | 1.7 Kg  
-Keyboard and Touchpad | Illuminated chiclet keyboard  
-Audio | Supports Windows 10 Cortana with Voice  
-Harman Kardon  
-Included in the Box |  Asus VivoBook 15 K513EA Power adaptor with power cord (65W)  
-Asus VivoBook 15 K513EA Price in Nepal | Rs. 105,000
-"
-"https://itti.com.np/product/asus-vivobook-15-k513ea-price-nepal"
-
-
-------End the Product------
-
-
-"# Apple Mac Mini M4 (10 Core CPU | 10 Core GPU | 16 Core Neural Engine | 16GB Unified Memory | 256GB SSD Storage | 1 Year International Warranty)
-Add to Cart
-**Processor** |  **Apple M4 chip**
-  * 10-core CPU with 4 performance cores and 6 efficiency cores
-  * 10-core GPU
-  * Hardware-accelerated ray tracing
-  * 16-core Neural Engine
-  * 120GB/s memory bandwidth
-
-  
----|---  
-Operating System | Mac OS  
-Memory | 16GB Unified memory  
-Storage | 256GB SSD Storage  
-Connectivity |  Wi-Fi 6E (802.11ax) Bluetooth 5.3 Two USB-C ports (front) Three Thunderbolt 4 ports (rear) HDMI port Gigabit Ethernet port (configurable to 10Gb Ethernet) 3.5mm headphone jack  
-Display Support |  Supports up to three displays: Two displays with up to 6K resolution at 60Hz over Thunderbolt One display with up to 5K resolution at 60Hz over Thunderbolt or 4K resolution at 60Hz over HDMI  
-Size & Weight |  Dimensions: 12.7 cm x 12.7 cm x 5.0 cm Weight: 670 grams  
-Warranty | 1 Year Authorized Warranty  
-Price  | 105,000 /-
-"
-"https://itti.com.np/product/apple-mac-mini-m4-price-nepal-16gb-memory-256gb-ssd"
-
-
-------End the Product------
-
-
-"# Asus VivoBook 14 X1405VA -13th Gen Intel Core i5 13420H | 8GB | 512GB SSD | 14'' WUXGA | Win11 | Backlit Keyboard | Fingerprint | Bag | Mouse | Cool Silver | 2 Year Int'l Warranty | 1 year Perfect Warranty
-Add to Cart
-Brand | ASUS  
----|---  
-Series | VivoBook 14 (X1405VA)  
-CPU | Intel® Core™ i5-13420H Processor 2.1 GHz (12MB Cache, up to 4.6 GHz, 8 cores, 12 Threads)  
-Graphics | Intel Iris Xᵉ Graphics  
-Display | 14.0-inch, WUXGA (1920 x 1200) 16:10 aspect ratio, IPS-level Panel, LED Backlit, 60Hz refresh rate, 300nits, 45% NTSC color gamut, Anti-glare display, Non-touch screen, (Screen-to-body ratio)86%  
-Operating system | Windows 11 Home   
-Main memory | 8GB DDR4 onboard  
-Storage | 512GB M.2 NVMe™ PCIe® 4.0 SSD  
-Connectivity | Wi-Fi 6E(802.11ax) (Dual band) 1*1 + Bluetooth® 5.3 Wireless Card (*Bluetooth® version may change with OS version different.)  
-Camera | 720p HD camera  
-I/O ports | 1x USB 2.0 Type-A (data speed up to 480Mbps)  
-1x USB 3.2 Gen 1 Type-C with support for power delivery (data speed up to 5Gbps)  
-2x USB 3.2 Gen 1 Type-A (data speed up to 5Gbps)  
-1x HDMI 1.4  
-1x 3.5mm Combo Audio Jack  
-1x DC-in  
-Audio | SonicMaster  
-Built-in speaker  
-Built-in array microphone  
-with Cortana voice-recognition support  
-Battery | 42WHrs, 3S1P, 3-cell Li-io  
-Weight | 1.60 kg (3.53 lbs)  
-Warranty | 2 Year Int'l Warranty | 1 year Perfect Warranty  
-Price in Nepal | Rs:
-"
-"https://itti.com.np/product/asus-vivobook-14-x1405va-13th-gen-price-nepal-intel-core-i5-13420h-8gb-512gb-ssd-14-win11-backlit-keyboard-fingerprint"
-
-
-------End the Product------
-
-
-"# Acer Aspire 5 15 2023 13th Gen i7 | 8GB RAM | 512GB SSD | 15.6" WUXGA Display | 2 Year Warranty
-Add to Cart
-Brand  | [Acer](https://itti.com.np/laptops-by-brands/acer-laptop-nepal)  
----|---  
-Series | [Acer Aspire Series](https://itti.com.np/laptops-by-brands/acer-laptop-nepal/aspire-series)  
-Product Model No  | Acer Aspire 5 **A515-58P-70KL**  
-Type  | [Budget Notebook](https://itti.com.np/laptops-by-brands)  
-CPU / Processor | Intel® Core™ i7-1355U processor (Up to 5GHz, 12MB smart cache , Deca Core )  
-Memory | 8GB DDR5 RAM  
-Storage | 512GB PCIe NVMe Gen3 SSD  
-Storage Capability | NA  
-Graphic Card | Intel IRIS XE Graphics  
-Display Screen / Design / Resolution | 15.6-inch IPS display; FHD (1920 x 1080 pixels) resolution, high-brightness Acer ComfyView LEDbacklit TFT LCD  
-Camera | FHD (1920 x 1080) with Blue Glass  
-Operation System | Windows 11 Home  
-Optical Drive | -  
-Audio & Video | Speakers  
-Network / Connectivity Technology | 802.11a/b/g/n/ac+ax wireless LAN  
-Dual Band (2.4 GHz and 5 GHz)  
-2x2 MU-MIMO Technology  
-Supports Bluetooth® 5.1 or above  
-Keyboard Feature | Backlit  
-Sensors | FingerPrint  
-Interface | 1x USB Type-C port supporting:  
-• USB 3.2 Gen 2 (up to 10 Gbps)  
-• DisplayPort over USB-C  
-• USB charging 5 V; 3 A  
-• DC-in port 19 V; 45 W  
-2x USB Standard A ports supporting  
-• One port for USB 3.2 Gen 1  
-• One port for USB 3.2 Gen 2  
-1x HDMI® 2.1 port with HDCP support  
-1x DC-in jack for AC adapter  
-1x 3.5 mm headphone/speaker jack, supporting headsets with built-in microphone  
-Battery / Power Supply | 50 Wh 3-cell Li-ion battery  
-Dimensions | 14.2" (W) x 9.3" (D) x 0.70" (H)  
-Weight  | 4.2 Lbs  
-Warranty | 2-Year Local Warranty   
-Acer Aspire 5 14 2023 Price in Nepal | Rs. 96,000
-"
-"https://itti.com.np/product/acer-aspire-5-15-2023-price-nepal-i7"
-
-
-------End the Product------
-
-
-"# Dell Inspiron 7391 i5 10th Gen / 8GB RAM / 256GB SSD / 13.3'' FHD Display
-Add to Cart
-CPU | 10th Generation Intel Core i5-10210U Processor   
----|---  
-RAM | 8GB, onboard, LPDDR3, 2133MHz  
-Graphics | Intel UHD Graphic  
-Display | 13.3-inch Truelife LED (1920 x 1080 pixels) Narrow Border Wide Viewing Angle Display  
-Connections | 1 x HDMI 1.4b  
-1 x USB 3.1 Gen 1 Type-C (PD/power delivery)  
-1 x USB 3.1 Gen 1  
-1 x Micro SD card reader  
-1 x Headphone & Microphone Audio Jack  
-Networking | 802.11ac + Bluetooth 4.1, Dual Band 2.4&5 GHz, 1x1  
-Storage | 256GB SSD  
-Size: Height x width x depth  | Height: 14.9 – 16.8mm (0.59 – 0.66") x Width: 307.6mm (12.11") x Depth: 204.7mm (8.06"  
-Battery | 4-cell 52Whr "smart" lithium-ion  
-Camera Webcam | HD RGB camera  
-Weight | 955 Gram 2.1Lbs  
-Audio | (2) tuned speakers, audio processing by Waves MaxxAudio® Pro  
-(1) combo headphone/microphone jack
-"
-"https://itti.com.np/product/dell-inspiron-7391-price-nepal-i5"
-
-
-------End the Product------
-
-
-"# Dell Inspiron 16 5620 - i5 1235U | 8GB | 256SSD | Intel UHD | FHD | Office | Silver
-Add to Cart
-Brand | [Dell](https://itti.com.np/laptops-by-brands/dell)  
----|---  
-Series | [Inspiron Series](https://itti.com.np/laptops-by-brands/dell/inspiron-series)  
-CPU | 12th Gen Intel® Core™ i5-1235U (12 MB cache, 10 cores, 12 threads, up to 4.40 GHz Turbo)  
-Graphics | Intel® UHD Graphics  
-Memory | 8GB, DDR4, 3200MHz  
-Expandable up to 16GB  
-Display | 16.1-inch IPS display; Full-HD+ (1920 x 1200, pixels) resolution; 60Hz, Non-Touch, AG, Wide Viewing Angle, 250 nits, ComfortView  
-Type | [Thin and Light Ultrabook](https://itti.com.np/ultrabook-laptop-nepal)  
-Connections | 2 USB 3.2 Gen 1 Type-A ports  
-1 USB 3.2 Gen 2x1 Type-C port with Power Delivery and DisplayPort  
-1 Audio jack*  
-1 HDMI 1.4 port  
-HDMI 1.4 (Maximum resolution supported over HDMI is 1920x1080 @60Hz. No 4K/2K output)  
-1 Power-adapter port  
-Networking | ntel® Wi-Fi 6E AX211, 2x2, 802.11ax, Bluetooth® wireless card  
-Storage | 256GB SSD; Additional HDD slot available  
-Size :Height x width x depth  | Height: 0.62" - 0.72" (15.67mm - 18.3mm)  
-Width: 14.05" (356.78 mm)  
-Depth: 9.92" (251.9 mm)  
-Battery | 4-Cell 54 Watt-Hours Integrated  
-Camera Webcam | 1080p at 30 fps FHD camera  
-Dual-array microphones  
-Weight | 1.87Kg  
-Audio | Stereo speakers with Waves MaxxAudio® Pro, 2 W x 2 = 4 W total  
-Dell Inspiron 16 5625 Price in Nepal | Rs.113,400
-"
-"https://itti.com.np/product/dell-inspiron-16-i5-price-nepal"
-
-
-------End the Product------
-
-
-"# Dell Inspiron 14 7445 - AMD Ryzen™ 5 8640HS | 8GB RAM 512GB SSD | 14" FHD + | Backlight Keyboard | 2-1 Touch
+# Dell Inspiron 14 7445 - AMD Ryzen™ 5 8640HS | 8GB RAM 512GB SSD | 14" FHD + | Backlight Keyboard | 2-1 Touch
 Add to Cart
 Brand | [Dell](https://itti.com.np/laptops-by-brands/dell)  
 ---|---  
@@ -2452,14 +1042,14 @@ Camera Webcam | 1080p at 30 fps widescreen FHD-RGB camera, Dual-array microphone
 Weight | Weight (Maximum): 1.71Kg  
 Keyboard | English International backlit keyboard  
 Dell Inspiron 14 7445 Price in Nepal | Rs.115000
-"
-"https://itti.com.np/product/dell-inspiron-14-7445-amd-ryzen-5-price-nepal"
+
+ URL = https://itti.com.np/product/dell-inspiron-14-7445-amd-ryzen-5-price-nepal
 
 
 ------End the Product------
 
 
-"# HP 15S-EQ2120AU Ryzen 7 5700U | AMD VEGA 8 | 8GB RAM | 512GB SSD |15.6" FHD Display
+# HP 15S-EQ2120AU Ryzen 7 5700U | AMD VEGA 8 | 8GB RAM | 512GB SSD |15.6" FHD Display
 Add to Cart
 CPU | AMD Ryzen™ 7 5700U (1.8 GHz base clock, up to 4.3 GHz max boost clock, 8 MB L3 cache, 8 cores, 16 threads)  
 ---|---  
@@ -2475,14 +1065,14 @@ AUDIO | Dual speaker
 Dimensions | 32.68 x 22.55 x 1.79 cm  
 Batteries | 3-cell, 41 Wh Li-ion  
 Weight | 1.75 kg
-"
-"https://itti.com.np/product/hp-pavilion-15-price-nepal-ryzen-5"
+
+ URL = https://itti.com.np/product/hp-pavilion-15-price-nepal-ryzen-5
 
 
 ------End the Product------
 
 
-"# MSI MODERN 14 C12M 2022 I5 12TH GEN / 512GB SSD / 8GB RAM / 14" FHD / 2 YEAR WARRANTY
+# MSI MODERN 14 C12M 2022 I5 12TH GEN / 512GB SSD / 8GB RAM / 14" FHD / 2 YEAR WARRANTY
 Price:
 रु 92,000
 ### Key Specification:
@@ -2533,14 +1123,14 @@ SERVICE
 Base Warranty | 2-year local, 2 year international   
 Bundle  | MSI Topload Bag_Grey   
 MSI Modern 14 C12M 2022 Price in Nepal | Rs. 92,000 
-"
-"https://itti.com.np/product/msi-modern-14-2022-price-nepal"
+
+ URL = https://itti.com.np/product/msi-modern-14-2022-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo IdeaPad Slim 3 14 2025 i7 13620H | 16GB RAM | 512GB SSD | 14.0" FHD display
+# Lenovo IdeaPad Slim 3 14 2025 i7 13620H | 16GB RAM | 512GB SSD | 14.0" FHD display
 Price:
 रु 92,000
 ### Key Features
@@ -2617,14 +1207,14 @@ Price:
   
 **Mil-Spec Test** | MIL-STD-810H military test passed (21 test items)  
 **Other Certifications** | TÜV Rheinland® Low Blue Light (Software Solution)
-"
-"https://itti.com.np/product/lenovo-ideapad-slim-3-14-2025-i7-13620h-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-ideapad-slim-3-14-2025-i7-13620h-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo Yoga 7 2-in-1 14AHP9 2024 AMD Ryzen™ 5 8640HS | 8GB RAM | 512GB SSD | 14" WUXGA, 360-degree Touch display
+# Lenovo Yoga 7 2-in-1 14AHP9 2024 AMD Ryzen™ 5 8640HS | 8GB RAM | 512GB SSD | 14" WUXGA, 360-degree Touch display
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -2698,14 +1288,14 @@ Add to Cart
   
 **Other Certifications** | Models with WUXGA IPS panel: TÜV Rheinland® Low Blue Light (Software Solution)  
 **Mil-Spec Test** | MIL-STD-810H military test passed (21 test items)
-"
-"https://itti.com.np/product/lenovo-yoga-7-2024-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-yoga-7-2024-price-nepal
 
 
 ------End the Product------
 
 
-"# Asus VivoBook 16 2024 X1605VA i5 13240H | 8GB RAM | 512GB SSD | 16" WUXGA display | Backlight Keyboard | Magic NumPad | 2 Year Warranty
+# Asus VivoBook 16 2024 X1605VA i5 13240H | 8GB RAM | 512GB SSD | 16" WUXGA display | Backlight Keyboard | Magic NumPad | 2 Year Warranty
 Add to Cart
 Brand | [Asus](https://itti.com.np/laptops-by-brands/asus-laptop-nepal)  
 ---|---  
@@ -2737,14 +1327,14 @@ Built-in speaker
 Built-in array microphone  
 with Cortana and Alexa voice-recognition support  
 Asus VivoBook 16 2024 X1605VA Price in Nepal | Rs. 95,000/-
-"
-"https://itti.com.np/product/asus-vivobook-16-2024-x1605-i5-price-nepal"
+
+ URL = https://itti.com.np/product/asus-vivobook-16-2024-x1605-i5-price-nepal
 
 
 ------End the Product------
 
 
-"# Acer Aspire 5 15 2024 14th Gen Core 7 | 8GB RAM | 512GB SSD | 15.6" FHD Display | 2 Year Warranty
+# Acer Aspire 5 15 2024 14th Gen Core 7 | 8GB RAM | 512GB SSD | 15.6" FHD Display | 2 Year Warranty
 Add to Cart
 Brand  | [Acer](https://itti.com.np/laptops-by-brands/acer-laptop-nepal)  
 ---|---  
@@ -2770,14 +1360,14 @@ Dimensions | 318.5 (W) x 225.5 (D) x 18.9 (H) mm
 Weight | 1.77Kg  
 Warranty | 2-Year Local Warranty   
 Acer Aspire 5 2024 Price in Nepal | Rs.110,000 
-"
-"https://itti.com.np/product/acer-aspire-5-15-2024-14th-gen-8gb-core-7-price-nepal"
+
+ URL = https://itti.com.np/product/acer-aspire-5-15-2024-14th-gen-8gb-core-7-price-nepal
 
 
 ------End the Product------
 
 
-"# Microsoft Surface Laptop Go - i5 10th Gen | 8GB RAM | 128GB SSD | 12.4” Touch Display
+# Microsoft Surface Laptop Go - i5 10th Gen | 8GB RAM | 128GB SSD | 12.4” Touch Display
 Add to Cart
 CPU | 10th Gen Intel Core i5-1035G4 processor; Quad-Core CPU  
 ---|---  
@@ -2802,14 +1392,14 @@ Batteries | Up to 8 hours of typical device usage
 Dimensions | 278.18mm x 205.67mm x 15.69mm  
 Weight | 1110 Gram  
 Microsoft Surface Laptop Go Price in Nepal | Rs. 120,000
-"
-"https://itti.com.np/product/microsoft-surface-laptop-3-price-nepal"
+
+ URL = https://itti.com.np/product/microsoft-surface-laptop-3-price-nepal
 
 
 ------End the Product------
 
 
-"# Asus VivoBook 14 2024 X1404VAP 14th Gen Core 5 | 8GB RAM | 512GB SSD | 14" FHD display | Backlight Keyboard | Magic NumPad | 2 Year Warranty
+# Asus VivoBook 14 2024 X1404VAP 14th Gen Core 5 | 8GB RAM | 512GB SSD | 14" FHD display | Backlight Keyboard | Magic NumPad | 2 Year Warranty
 Add to Cart
 Brand | [Asus](https://itti.com.np/laptops-by-brands/asus-laptop-nepal)  
 ---|---  
@@ -2841,14 +1431,14 @@ Built-in speaker
 Built-in array microphone  
 with Cortana and Alexa voice-recognition support  
 Asus VivoBook 14 2024 X1404VAP Price in Nepal | Rs. 101900/-
-"
-"https://itti.com.np/product/asus-vivobook-14-x1404vap-core5-price-nepal"
+
+ URL = https://itti.com.np/product/asus-vivobook-14-x1404vap-core5-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo V14 G5 - 15th Gen Core 5 210H | 14" FHD Display | 16GB DDR5 RAM | 512GB NVMe SSD | Fingerprint | Iron Grey | 1 Year Warranty
+# Lenovo V14 G5 - 15th Gen Core 5 210H | 14" FHD Display | 16GB DDR5 RAM | 512GB NVMe SSD | Fingerprint | Iron Grey | 1 Year Warranty
 Add to Cart
 **Brand** | Lenovo  
 ---|---  
@@ -2886,14 +1476,14 @@ Add to Cart
 **Other Security** | Camera privacy shutter  
 **Base Warranty** | 1-year Authorized Warranty  
 **Price in Nepal** |  Rs- 104900
-"
-"https://itti.com.np/product/lenovo-v14-g5-15th-gen-core-5-210h-14-price-nepal-16gb-ddr5-ram-512gb-nvme-ssd-1-year-warranty"
+
+ URL = https://itti.com.np/product/lenovo-v14-g5-15th-gen-core-5-210h-14-price-nepal-16gb-ddr5-ram-512gb-nvme-ssd-1-year-warranty
 
 
 ------End the Product------
 
 
-"# HP Pavilion X360 13 2022 i5 12th Gen / 8GB RAM / 512GB SSD / 14" FHD TouchScreen Display
+# HP Pavilion X360 13 2022 i5 12th Gen / 8GB RAM / 512GB SSD / 14" FHD TouchScreen Display
 Add to Cart
 Brand | [Hewlett Packard (HP)](https://itti.com.np/laptops-by-brands/hp-laptops-nepal)  
 ---|---  
@@ -2917,14 +1507,14 @@ Keyboard  | Full-size island-style backlit keyboard
 Batteries | 4-cell, 53.2 Wh Li-ion  
 Weight | Starting at 1.61Kg  
 HP Pavilion X360 13 2022 Price in Nepal | Rs. 108000
-"
-"https://itti.com.np/product/hp-pavilion-13-x360-2022-price-nepal"
+
+ URL = https://itti.com.np/product/hp-pavilion-13-x360-2022-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Inspiron 5310 i5 11th Gen / 8GB RAM / 512GB SSD / 13.3" FHD Display
+# Dell Inspiron 5310 i5 11th Gen / 8GB RAM / 512GB SSD / 13.3" FHD Display
 Add to Cart
 Brand | [Dell](https://itti.com.np/laptops-by-brands/dell)  
 ---|---  
@@ -2950,14 +1540,14 @@ Audio | Stereo speakers with Waves MaxxAudio® Pro, 2.5 W x 2 = 5 W total
 2.1 digital-audio out using HDMI-out connection  
 3.50 mm headset (headphone and microphone combo) port  
 Dell Inspiron 5310 Price in Nepal | Rs. 122000 (i5 Variant)
-"
-"https://itti.com.np/product/dell-inspiron-5310-i5-price-nepal"
+
+ URL = https://itti.com.np/product/dell-inspiron-5310-i5-price-nepal
 
 
 ------End the Product------
 
 
-"# Acer Nitro 5 2021 Intel i5 10Th Gen | RTX 3060 | 16GB RAM | 512 SSD | 15.6" FHD 144Hz display | 1 Year Warranty
+# Acer Nitro 5 2021 Intel i5 10Th Gen | RTX 3060 | 16GB RAM | 512 SSD | 15.6" FHD 144Hz display | 1 Year Warranty
 Add to Cart
 Brand | [Acer](https://itti.com.np/laptops-by-brands/acer-laptop-nepal)  
 ---|---  
@@ -2976,14 +1566,14 @@ Camera Webcam | 720p
 Weight | 5.29Lbs  
 Maximum Power Supply Wattage | 135 watt  
 Acer Nitro 5 2021 Price in Nepal | Rs. 129,000
-"
-"https://itti.com.np/product/acer-nitro-5-gaming-laptop-price-nepal"
+
+ URL = https://itti.com.np/product/acer-nitro-5-gaming-laptop-price-nepal
 
 
 ------End the Product------
 
 
-"# HP Victus 15 2023 i5 12450H 8 Core | NVIDIA RTX 3050 | 8GB RAM | 512GB SSD | 15.6" 144Hz FHD display
+# HP Victus 15 2023 i5 12450H 8 Core | NVIDIA RTX 3050 | 8GB RAM | 512GB SSD | 15.6" 144Hz FHD display
 Add to Cart
 **Brand** | [Hewlett-Packard (HP)](https://itti.com.np/laptops-by-brands/hp-laptops-nepal)  
 ---|---  
@@ -3010,14 +1600,14 @@ Add to Cart
 **Webcam** | HP Wide Vision 720p HD camera with integrated dual array digital microphones  
 **Audio** | Audio by B&O; Dual speakers; HP Audio Boost  
 **HP Victus 15 2022 Price in Nepal** | Rs. 126,000 (i5 variant)
-"
-"https://itti.com.np/product/hp-victus-15-2022-rtx-3050-price-nepal"
+
+ URL = https://itti.com.np/product/hp-victus-15-2022-rtx-3050-price-nepal
 
 
 ------End the Product------
 
 
-"# Acer Nitro V 15 2023 i5 13420H | RTX 2050 4GB | 1 Year Warranty | 8GB RAM | 512GB SSD | 15.6" FHD 144Hz display
+# Acer Nitro V 15 2023 i5 13420H | RTX 2050 4GB | 1 Year Warranty | 8GB RAM | 512GB SSD | 15.6" FHD 144Hz display
 Add to Cart
 Brand | [Acer](https://itti.com.np/laptops-by-brands/acer-laptop-nepal)  
 ---|---  
@@ -3042,14 +1632,14 @@ Power Supply | 3-pin 135 W AC adapter
 Ports |  HDMI - Yes Number of USB 3.2 Gen 1 Type-A Ports - 3 Number of USB 3.2 Gen 2 Type-C Ports - 1 Total Number of USB Ports - 4 USB Type-C - Yes Network (RJ-45) - Yes  
 [Audio](https://itti.com.np/accessories/audio-devices) | DTS X: Ultra Audio  
 Acer Nitro V 15 2023 Price in Nepal | Rs. 110,000
-"
-"https://itti.com.np/product/acer-nitro-v-15-2023-price-nepal-i5-rtx-2050"
+
+ URL = https://itti.com.np/product/acer-nitro-v-15-2023-price-nepal-i5-rtx-2050
 
 
 ------End the Product------
 
 
-"# HP OmniBook 5 Flip 14 (Intel Core 5 120U Processor | 8GB RAM | 512GB SSD | Integrated Intel® Graphics | 14.1" FHD+ x360 Touch Display)
+# HP OmniBook 5 Flip 14 (Intel Core 5 120U Processor | 8GB RAM | 512GB SSD | Integrated Intel® Graphics | 14.1" FHD+ x360 Touch Display)
 Add to Cart
 **Brand** | 
   * HP
@@ -3183,14 +1773,14 @@ Add to Cart
   * HP Support
 
 
-"
-"https://itti.com.np/product/hp-omnibook-5-flip-14-intel-core-i5-price-nepal-120u-processor-8gb-ram-512gb-ssd-141-fhd-x360-touch-display"
+
+ URL = https://itti.com.np/product/hp-omnibook-5-flip-14-intel-core-i5-price-nepal-120u-processor-8gb-ram-512gb-ssd-141-fhd-x360-touch-display
 
 
 ------End the Product------
 
 
-"# Lenovo V14 G4 - 13th Gen, Intel i7 13620H, 14" FHD, 16GB DDR4 RAM, 512GB NVMe SSD, Iron Grey Color, 1 Year Warranty
+# Lenovo V14 G4 - 13th Gen, Intel i7 13620H, 14" FHD, 16GB DDR4 RAM, 512GB NVMe SSD, Iron Grey Color, 1 Year Warranty
 Add to Cart
 Processor | Core i7-13620H 10 (6 P-core + 4 E-core) 16 P-core 2.4GHz / E-core 1.8GHz P-core 4.9GHz / E-core 3.6GHz 24MB  
 ---|---  
@@ -3230,14 +1820,14 @@ Physical Locks | Kensington® Nano Security Slot, 2.5 x 6 mm
 Other Security | Camera privacy shutter  
 SERVICE  
 Base Warranty | 1-year
-"
-"https://itti.com.np/product/lenovo-v14-g4-13th-gen-intel-i7-13620h-price-nepal-14-fhd-16gb-ddr4-ram-512gb-ssd-1-year-warranty"
+
+ URL = https://itti.com.np/product/lenovo-v14-g4-13th-gen-intel-i7-13620h-price-nepal-14-fhd-16gb-ddr4-ram-512gb-ssd-1-year-warranty
 
 
 ------End the Product------
 
 
-"# Acer Nitro V 15 AMD Ryzen 5 6600H | RTX 2050-4GB GDDR6 | 8GB RAM | 512 SSD | Full HD IPS, 15.6" | 165 Hz | Obsidian Black, 2.1 kg | Gaming Laptop
+# Acer Nitro V 15 AMD Ryzen 5 6600H | RTX 2050-4GB GDDR6 | 8GB RAM | 512 SSD | Full HD IPS, 15.6" | 165 Hz | Obsidian Black, 2.1 kg | Gaming Laptop
 Add to Cart
 Component | Specification  
 ---|---  
@@ -3278,14 +1868,14 @@ Bluetooth 5.1 (or newer)
 **Physical / Dimensions / Weight** | • Dimensions: 362.3 × 239.89 × 23.5 mm (approx)  
 • Weight: ~2.10 kg  
 • Body: plastic / polycarbonate (as typical in this class)
-"
-"https://itti.com.np/product/acer-nitro-v-15-price-nepal-amd-ryzen-5-6600h-rtx-2050-8gb-ram-512-ssd-gaming-laptop"
+
+ URL = https://itti.com.np/product/acer-nitro-v-15-price-nepal-amd-ryzen-5-6600h-rtx-2050-8gb-ram-512-ssd-gaming-laptop
 
 
 ------End the Product------
 
 
-"# Lenovo IdeaPad 5 16 2-in-1 16IRU9 2024 14Th Gen Intel® Core™ 5 120U | 8GB RAM | 512GB SSD | 16" WUXGA (1920x1200) , 360-degree Touch display
+# Lenovo IdeaPad 5 16 2-in-1 16IRU9 2024 14Th Gen Intel® Core™ 5 120U | 8GB RAM | 512GB SSD | 16" WUXGA (1920x1200) , 360-degree Touch display
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -3353,14 +1943,14 @@ Add to Cart
   
 **Other Certifications** | Models with IPS panel: TÜV Rheinland® Low Blue Light (Software Solution)  
 **Mil-Spec Test** | MIL-STD-810H military test passed (21 test items)
-"
-"https://itti.com.np/product/lenovo-ideapad-5-16-2-in-1-16iru9-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-ideapad-5-16-2-in-1-16iru9-price-nepal
 
 
 ------End the Product------
 
 
-"# HP Envy x360 16 2024 AMD Ryzen 5 8640HS | 8GB RAM | 512GB SSD | 16" FHD 360 TouchScreen Display
+# HP Envy x360 16 2024 AMD Ryzen 5 8640HS | 8GB RAM | 512GB SSD | 16" FHD 360 TouchScreen Display
 Add to Cart
 **Brand** | [Hewlett Packard (HP)](https://itti.com.np/laptops-by-brands/hp-laptops-nepal)  
 ---|---  
@@ -3383,14 +1973,14 @@ Add to Cart
 **Video Playback Battery life** | Up to 15 hours  
 **Webcam** | 5MP IR camera with temporal noise reduction and integrated dual array digital microphones  
 **Audio features** | Poly Studio with dual speakers
-"
-"https://itti.com.np/product/hp-envy-x360-16-2024-amd-ryzen-5-8640hs-price-nepal"
+
+ URL = https://itti.com.np/product/hp-envy-x360-16-2024-amd-ryzen-5-8640hs-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Inspiron 14 5445 - AMD Ryzen™ 5 8540U | 8GB RAM 512GB SSD | 14" FHD + | 2 Year Warranty
+# Dell Inspiron 14 5445 - AMD Ryzen™ 5 8540U | 8GB RAM 512GB SSD | 14" FHD + | 2 Year Warranty
 Add to Cart
 Brand | [Dell](https://itti.com.np/laptops-by-brands/dell)  
 ---|---  
@@ -3421,14 +2011,14 @@ Camera Webcam | 1080p at 30 fps widescreen FHD-RGB camera, Dual-array microphone
 Weight | Weight (Maximum): 1.59 kg (3.51 lb)*  
 Keyboard | English International backlit keyboard  
 Dell Inspiron 14 5445 Price in Nepal | Rs.105000
-"
-"https://itti.com.np/product/dell-inspiron-14-5445-amd-ryzen-5-price-nepal"
+
+ URL = https://itti.com.np/product/dell-inspiron-14-5445-amd-ryzen-5-price-nepal
 
 
 ------End the Product------
 
 
-"# Asus VivoBook 15 K513EQ i5 11th Gen | 16GB RAM | 1TB SSD | NVIDIA MX350 2GB | 15.6" FHD display
+# Asus VivoBook 15 K513EQ i5 11th Gen | 16GB RAM | 1TB SSD | NVIDIA MX350 2GB | 15.6" FHD display
 Add to Cart
 CPU | Intel Core i5 1135G7 Processor  
 ---|---  
@@ -3452,14 +2042,14 @@ Audio | Supports Windows 10 Cortana with Voice
 Harman Kardon  
 Included in the Box |  Asus VivoBook 15 K513EA Power adaptor with power cord (65W)  
 Asus VivoBook 15 K513EQ Price in Nepal | Rs. 110,000
-"
-"https://itti.com.np/product/asus-vivobook-15-k513eq-i5-price-nepal"
+
+ URL = https://itti.com.np/product/asus-vivobook-15-k513eq-i5-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo Yoga 7 2-in-1 16AHP9 2024 AMD Ryzen™ 5 8640HS | 8GB RAM | 512GB SSD | 16" WUXGA, 360-degree Touch display
+# Lenovo Yoga 7 2-in-1 16AHP9 2024 AMD Ryzen™ 5 8640HS | 8GB RAM | 512GB SSD | 16" WUXGA, 360-degree Touch display
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -3533,14 +2123,14 @@ Add to Cart
   
 **Other Certifications** | TÜV Rheinland® Low Blue Light (Software Solution)  
 **Mil-Spec Test** | MIL-STD-810H military test passed (21 test items)
-"
-"https://itti.com.np/product/lenovo-yoga-7-16-2024-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-yoga-7-16-2024-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Inspiron 5515 Ryzen 7 5700U | 8GB RAM | 512GB SSD | Vega 8 | 15.6" FHD display
+# Dell Inspiron 5515 Ryzen 7 5700U | 8GB RAM | 512GB SSD | Vega 8 | 15.6" FHD display
 Add to Cart
 Brand | [Dell](https://itti.com.np/laptops-by-brands/dell)  
 ---|---  
@@ -3563,14 +2153,14 @@ Camera Webcam | 720p
 Weight | 1.6g  
 Audio | 2 tuned speakers with Waves MaxxAudio Pro 1 combo headphone/microphone jack  
 Dell Inspiron 5515 Price in Nepal | Rs.119,000 (Ryzen 7)
-"
-"https://itti.com.np/product/dell-inspiron-5515-price-nepal-ryzen-7"
+
+ URL = https://itti.com.np/product/dell-inspiron-5515-price-nepal-ryzen-7
 
 
 ------End the Product------
 
 
-"# Lenovo IdeaPad Flex 5 2022 i7 12th Gen | 16GB RAM | 1TB SSD | 16" FHD Touch display | Active Stylus
+# Lenovo IdeaPad Flex 5 2022 i7 12th Gen | 16GB RAM | 1TB SSD | 16" FHD Touch display | Active Stylus
 Out of stock
 Brand | [Lenovo](https://itti.com.np/laptops-by-brands/lenovo-laptops-nepal)  
 ---|---  
@@ -3629,14 +2219,14 @@ Security Chip | Firmware TPM 2.0
 Fingerprint Reader | Touch Style, on Palm Rest  
 Other Security | Camera privacy shutter  
 Lenovo IdeaPad Flex 5 2022 Price in Nepal | Rs. 153,000
-"
-"https://itti.com.np/product/lenovo-ideapad-flex-5-2022-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-ideapad-flex-5-2022-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo ThinkPad L13 Gen 3 2022 Intel i5 1235U | 16GB RAM | 512GB SSD | 13.3" FHD Display | Backlight Keyboard
+# Lenovo ThinkPad L13 Gen 3 2022 Intel i5 1235U | 16GB RAM | 512GB SSD | 13.3" FHD Display | Backlight Keyboard
 Add to Cart
 PERFORMANCE  
 ---  
@@ -3713,14 +2303,14 @@ Green Certifications |
 
   
 Mil-Spec Test | MIL-STD-810H military test passed
-"
-"https://itti.com.np/product/lenovo-thinkpad-l13-gen-3-i5-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-thinkpad-l13-gen-3-i5-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Pro 14 Inch PC14250 | Intel Core 5 120U | 8GB RAM | 512GB SSD | 14'' inch FHD+ Display | Non-Backlit | 2 Year Authorized Warranty
+# Dell Pro 14 Inch PC14250 | Intel Core 5 120U | 8GB RAM | 512GB SSD | 14'' inch FHD+ Display | Non-Backlit | 2 Year Authorized Warranty
 Price:
 रु 99,990
 ### Key Features
@@ -3750,14 +2340,14 @@ Price:
 **Color** | Magnetite color, textured finish  
 **Warranty** | 2 years warranty, Dell's Terms and Conditions apply  
 **Price in Nepal** | Rs: 99,990 /-
-"
-"https://itti.com.np/product/dell-pro-14-inch-pc14250-core-5-120u-8gb-512gb-ssd-fhd-non-backlit-ubt-price-nepal"
+
+ URL = https://itti.com.np/product/dell-pro-14-inch-pc14250-core-5-120u-8gb-512gb-ssd-fhd-non-backlit-ubt-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo LOQ Gaming Laptop 2024 Intel Core i5 12450HX | 2 Year warranty | RTX 2050 | 8GB RAM | 512GB SSD | 15.6" FHD (1920x1080)144Hz display
+# Lenovo LOQ Gaming Laptop 2024 Intel Core i5 12450HX | 2 Year warranty | RTX 2050 | 8GB RAM | 512GB SSD | 15.6" FHD (1920x1080)144Hz display
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -3823,14 +2413,14 @@ Add to Cart
 **Other Certifications** | TÜV Rheinland® Low Blue Light (Software Solution)  
 **Mil-Spec Test** | MIL-STD-810H military test passed  
 **Price in Nepal** | Rs- 111,900 /-
-"
-"https://itti.com.np/product/lenovo-loq-gaming-laptop-i5-2050-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-loq-gaming-laptop-i5-2050-price-nepal
 
 
 ------End the Product------
 
 
-"# MSI Modern 14 F1MG 2025 14Th Gen Intel Core 5 120U | 512GB SSD | 16GB RAM | 14" FHD | 2 Year Warranty
+# MSI Modern 14 F1MG 2025 14Th Gen Intel Core 5 120U | 512GB SSD | 16GB RAM | 14" FHD | 2 Year Warranty
 Add to Cart
 Brand | [MSI](https://itti.com.np/laptops-by-brands/msi-laptops-nepal)  
 ---|---  
@@ -3870,14 +2460,14 @@ SECURITY & PRIVACY
 SERVICE  
 Base Warranty | 2-year local, 2-year international   
 MSI Modern 14 2024 F1MG Price in Nepal | Rs. 102000 (i5 variant)
-"
-"https://itti.com.np/product/msi-modern-14-f1mg-2024-price-nepal"
+
+ URL = https://itti.com.np/product/msi-modern-14-f1mg-2024-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo LOQ Gaming Laptop 2023 AMD Ryzen 5 7235HS | RTX 3050 | 12 GB RAM | 512GB SSD | 15.6" FHD 144Hz display | 1 Year Warranty
+# Lenovo LOQ Gaming Laptop 2023 AMD Ryzen 5 7235HS | RTX 3050 | 12 GB RAM | 512GB SSD | 15.6" FHD 144Hz display | 1 Year Warranty
 Out of stock
 PERFORMANCE  
 ---  
@@ -3943,14 +2533,14 @@ PERFORMANCE
   * RoHS compliant
 
 
-"
-"https://itti.com.np/product/lenovo-loq-gaming-laptop-2023-amd-ryzen-5-7640hs-rtx-3050-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-loq-gaming-laptop-2023-amd-ryzen-5-7640hs-rtx-3050-price-nepal
 
 
 ------End the Product------
 
 
-"# Asus VivoBook S 14 Flip 2023 TP3402VA Core i5 13500H | 8GB RAM | 512GB SSD | 14" FHD 2-in-1 Touch Display | 2 Year warranty
+# Asus VivoBook S 14 Flip 2023 TP3402VA Core i5 13500H | 8GB RAM | 512GB SSD | 14" FHD 2-in-1 Touch Display | 2 Year warranty
 Price:
 रु 1,04,000
 ### Key Specification:
@@ -3993,14 +2583,14 @@ with Cortana and Alexa voice-recognition support
 Included in the BOX | Sleeve  
 Palmrest  
 Asus VivoBook S 14 Flip 2023 Price in Nepal | Rs. 104,000 ( i5 13500H Varient )
-"
-"https://itti.com.np/product/asus-vivobook-s-14-flip-2023-price-nepal-i5-tp3402va"
+
+ URL = https://itti.com.np/product/asus-vivobook-s-14-flip-2023-price-nepal-i5-tp3402va
 
 
 ------End the Product------
 
 
-"# Apple M1 MacBook Air 2020 13.3" Retina Display | Apple M1 Chip | 8GB RAM | 256GB SSD | Authorised Warranty
+# Apple M1 MacBook Air 2020 13.3" Retina Display | Apple M1 Chip | 8GB RAM | 256GB SSD | Authorised Warranty
 Add to Cart
 CPU |  Apple M1 chip
   * 8-core CPU with 4 perform­ance cores and 4 efficiency cores
@@ -4062,14 +2652,14 @@ Keyboard and Trackpad |  Backlit Magic Keyboard with:
 
   
 Apple M1 MacBook Air 2020 Price in Nepal | Rs. 120,000
-"
-"https://itti.com.np/product/apple-m1-macbook-air-2020-price-nepal"
+
+ URL = https://itti.com.np/product/apple-m1-macbook-air-2020-price-nepal
 
 
 ------End the Product------
 
 
-"# MSI MODERN 15 B13M 2023 I5 13TH GEN / 512GB SSD / 8GB RAM / 15.6" FHD / 2 YEAR WARRANTY
+# MSI MODERN 15 B13M 2023 I5 13TH GEN / 512GB SSD / 8GB RAM / 15.6" FHD / 2 YEAR WARRANTY
 Price:
 रु 1,05,000
 ### Key Specification:
@@ -4120,14 +2710,14 @@ SERVICE
 Base Warranty | 2-year local , 2 year international   
 Bundle  | MSI Topload Bag_Grey   
 MSI Modern 15 2023 B13M Price in Nepal | Rs. 105,000 (i5 variant)
-"
-"https://itti.com.np/product/msi-modern-15-2023-i5-price-nepal"
+
+ URL = https://itti.com.np/product/msi-modern-15-2023-i5-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo ThinkBook 14 G8 IAL Ultra 5 225U | 16GB RAM | 512GB SSD | Integrated Intel Graphics | 14″ WUXGA (1920×1200) IPS Display | Backlit Keyboard
+# Lenovo ThinkBook 14 G8 IAL Ultra 5 225U | 16GB RAM | 512GB SSD | Integrated Intel Graphics | 14″ WUXGA (1920×1200) IPS Display | Backlit Keyboard
 Add to Cart
 **Brand** | **Lenovo**  
 ---|---  
@@ -4159,14 +2749,14 @@ Add to Cart
 **Fingerprint** | Yes  
 **Warranty** | 1 Year (Against manufacturing defects).  
 **Price** | Rs-125,000 /-
-"
-"https://itti.com.np/product/lenovo-thinkbook-14-gen-8-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-thinkbook-14-gen-8-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Inspiron G15 2021 G5515 Ryzen 7 5800H | RTX 3050 | 16GB RAM | 512GB SSD | 15.6" 120Hz FHD Display
+# Dell Inspiron G15 2021 G5515 Ryzen 7 5800H | RTX 3050 | 16GB RAM | 512GB SSD | 15.6" 120Hz FHD Display
 Add to Cart
 Brand | [Dell](https://itti.com.np/laptops-by-brands/dell)  
 ---|---  
@@ -4193,14 +2783,14 @@ Additional features | 1 headset (headphone and microphone combo) port
 Stereo speakers with Realtek ALC3254, 2 W x 2.5 W  
 Dual-array microphones  
 Dell G5 2021 G5515 Price in Nepal | Rs. 162,000 (Ryzen 7)
-"
-"https://itti.com.np/product/dell-g5-5515-3050-gaming-laptop-price-nepal"
+
+ URL = https://itti.com.np/product/dell-g5-5515-3050-gaming-laptop-price-nepal
 
 
 ------End the Product------
 
 
-"# HP Envy x360 14 2024 Intel Core 5 14th Gen | 8GB RAM | 512GB SSD | 14" FHD 360 TouchScreen Display
+# HP Envy x360 14 2024 Intel Core 5 14th Gen | 8GB RAM | 512GB SSD | 14" FHD 360 TouchScreen Display
 Price:
 रु 1,05,000
 ### Key Features
@@ -4234,14 +2824,14 @@ Price:
 **Video Playback Battery life** | Up to 15 hours  
 **Webcam** | HP True Vision 5MP camera with temporal noise reduction and integrated dual array digital microphones  
 **Audio features** | Audio by Bang & Olufsen; Dual speakers; HP Audio Boost
-"
-"https://itti.com.np/product/hp-envy-x360-14-2024-price-nepal"
+
+ URL = https://itti.com.np/product/hp-envy-x360-14-2024-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo IdeaPad Slim 5 16IRU9 | Intel Core 5 120U | 16GB RAM | 1TB SSD | 16″ WUXGA IPS Display | Backlight Keyboard
+# Lenovo IdeaPad Slim 5 16IRU9 | Intel Core 5 120U | 16GB RAM | 1TB SSD | 16″ WUXGA IPS Display | Backlight Keyboard
 Out of stock
 **Brand** | Lenovo  
 ---|---  
@@ -4275,14 +2865,14 @@ TPM 2.0 (Trusted Platform Module)
 **Window (OS)** | Windows 11 Home   
 **Warranty** | 1 Year Warranty  
 **Price** | Rs-105,000 /-
-"
-"https://itti.com.np/product/lenovo-ideapad-slim-5-16iru9-price-nepal-core-5"
+
+ URL = https://itti.com.np/product/lenovo-ideapad-slim-5-16iru9-price-nepal-core-5
 
 
 ------End the Product------
 
 
-"# Asus VivoBook S 14 Flip 2023 TN3402YA Ryzen 5 7430U | 8GB RAM | 512GB SSD | 14" FHD 2-in-1 Touch Display | Active Stylus | Backlit KB | Magic NumPad | 2 Year Warranty
+# Asus VivoBook S 14 Flip 2023 TN3402YA Ryzen 5 7430U | 8GB RAM | 512GB SSD | 14" FHD 2-in-1 Touch Display | Active Stylus | Backlit KB | Magic NumPad | 2 Year Warranty
 Add to Cart
 Brand | [Asus](https://itti.com.np/laptops-by-brands/asus-laptop-nepal)  
 ---|---  
@@ -4318,14 +2908,14 @@ Included in the BOX | Sleeve
 Palmrest  
 Stylus (ASUS Pen 2.0 SA203H-MPP2.0 support)  
 Asus VivoBook S 14 Flip 2024 Ryzen 5 7430U Price in Nepal | Rs. 1,08,900/- ( Ryzen 5 7430U Varient )
-"
-"https://itti.com.np/product/asus-vivobook-s-14-flip-2024-ryzen5-price-nepal"
+
+ URL = https://itti.com.np/product/asus-vivobook-s-14-flip-2024-ryzen5-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Inspiron 15 3530 - i7 1355U | 16GB RAM | 512GB SSD | 15.6" FHD Display | 1 Year Warranty
+# Dell Inspiron 15 3530 - i7 1355U | 16GB RAM | 512GB SSD | 15.6" FHD Display | 1 Year Warranty
 Add to Cart
 CPU | 13th Generation Intel® Core i7-1355U Processor (12MB Cache, up to 5.00 GHz)  
 ---|---  
@@ -4349,14 +2939,14 @@ Camera | 720p at 30 fps HD camera, single-integrated microphone
 Battery | 3-Cell Battery, 41WHr  
 Weight | 1.65 kg (3.65 lbs.)  
 Audio | Stereo speakers, 2 W x 2 = 4 W total
-"
-"https://itti.com.np/product/dell-inspiron-15-3530-price-nepal-i7"
+
+ URL = https://itti.com.np/product/dell-inspiron-15-3530-price-nepal-i7
 
 
 ------End the Product------
 
 
-"# ASUS TUF Gaming A15 FA506NF AMD RYZEN 5 7535HS | RTX 2050 | 8GB RAM | 512GB SSD | 15.6" FHD 144Hz display | 2 Year Warranty
+# ASUS TUF Gaming A15 FA506NF AMD RYZEN 5 7535HS | RTX 2050 | 8GB RAM | 512GB SSD | 15.6" FHD 144Hz display | 2 Year Warranty
 Price:
 रु 1,06,600
 ### Key Specification:
@@ -4399,14 +2989,14 @@ Support Microsoft Cortana near field/Far field
 Built-in array microphone  
 2-speaker system  
 Asus TUF A15 FA506NF 2023 Price in Nepal | Rs. 106600/-
-"
-"https://itti.com.np/product/asus-tuf-a15-2023-fa506nf-ryzen-5-price-nepal"
+
+ URL = https://itti.com.np/product/asus-tuf-a15-2023-fa506nf-ryzen-5-price-nepal
 
 
 ------End the Product------
 
 
-"# MSI MODERN 14 H D2RMG - INTEL CORE ULTRA 5 210 H | 16GB DDR4 3200MHZ RAM | 512GB NVME SSD | 14″ FHD IPS DISPLAY | 2 YEAR WARRANTY
+# MSI MODERN 14 H D2RMG - INTEL CORE ULTRA 5 210 H | 16GB DDR4 3200MHZ RAM | 512GB NVME SSD | 14″ FHD IPS DISPLAY | 2 YEAR WARRANTY
 Price:
 रु 1,07,000
 ### **Key Features**
@@ -4444,14 +3034,14 @@ _Height (thickness): 1.86 cm (18.6 mm)_
 **Warranty** | _2-year warranty_  
 **Security** |  _It has TPM support (likely fTPM integrated in the CPU)_  
 _secure boot, enhancing system integrity_
-"
-"https://itti.com.np/product/modern-14-h-d2rmg-price-nepal-intel-core-ultra-5-210-h-15th-gen-2025-16gb-ddr4-3200mhz-ram-512gb-nvme-ssd-14-fhd-ips-display-2-year-hardware-warranty"
+
+ URL = https://itti.com.np/product/modern-14-h-d2rmg-price-nepal-intel-core-ultra-5-210-h-15th-gen-2025-16gb-ddr4-3200mhz-ram-512gb-nvme-ssd-14-fhd-ips-display-2-year-hardware-warranty
 
 
 ------End the Product------
 
 
-"# Acer Spin 5 2023 Core i5 1335U | 16GB RAM | 512GB SSD | 14" WUXGA TouchScreen Display | Rechargeable Stylus | 2 Year Warranty
+# Acer Spin 5 2023 Core i5 1335U | 16GB RAM | 512GB SSD | 14" WUXGA TouchScreen Display | Rechargeable Stylus | 2 Year Warranty
 Add to Cart
 Brand | [Acer](https://itti.com.np/laptops-by-brands/acer-laptop-nepal)  
 ---|---  
@@ -4469,14 +3059,14 @@ Batteries | 56Wh, 4-cell
 Dimensions | 31.1 x 21.8 x 1.69 cm  
 Weight | 1.6Kg  
 Acer Spin 5 2023 Price in Nepal | Rs. 121,000
-"
-"https://itti.com.np/product/acer-spin-5-2023-price-nepal"
+
+ URL = https://itti.com.np/product/acer-spin-5-2023-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Inspiron 16 5645 - AMD Ryzen™ 5 8540U | 8GB RAM 512GB SSD | 16" FHD + | Backlight Keyboard | 2 Year Warranty
+# Dell Inspiron 16 5645 - AMD Ryzen™ 5 8540U | 8GB RAM 512GB SSD | 16" FHD + | Backlight Keyboard | 2 Year Warranty
 Add to Cart
 Brand | [Dell](https://itti.com.np/laptops-by-brands/dell)  
 ---|---  
@@ -4503,14 +3093,14 @@ Camera Webcam | 1080p at 30 fps widescreen FHD-RGB camera, Dual-array microphone
 Weight | Starting Weight: 4.12 lbs (1.87 kg)  
 Keyboard | English International backlit keyboard  
 Dell Inspiron 16 5645 Price in Nepal | Rs.117000
-"
-"https://itti.com.np/product/dell-inspiron-5645-price-nepal"
+
+ URL = https://itti.com.np/product/dell-inspiron-5645-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo IdeaPad 5 16 2-in-1 16AKP10 2025 AMD Ryzen™ AI 5 340 | 16GB RAM | 512GB SSD | 16" WUXGA (1920x1200) | 360-degree Touch display | Lenovo Active Pen
+# Lenovo IdeaPad 5 16 2-in-1 16AKP10 2025 AMD Ryzen™ AI 5 340 | 16GB RAM | 512GB SSD | 16" WUXGA (1920x1200) | 360-degree Touch display | Lenovo Active Pen
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -4587,14 +3177,14 @@ Add to Cart
   
 **Mil-Spec Test** | MIL-STD-810H military test passed (21 test items)  
 **Other Certifications** | Models with IPS panel: TÜV Rheinland® Low Blue Light (Software Solution)
-"
-"https://itti.com.np/product/lenovo-ideapad-5-16-2-in-1-16akp10-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-ideapad-5-16-2-in-1-16akp10-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo ThinkBook 14 Gen 7 AMD Ryzen™ 5 7535HS | 16GB RAM | 512GB SSD | 14" FHD Display | Backlight Keyboard
+# Lenovo ThinkBook 14 Gen 7 AMD Ryzen™ 5 7535HS | 16GB RAM | 512GB SSD | 14" FHD Display | Backlight Keyboard
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -4664,14 +3254,14 @@ Add to Cart
   
 **Other Certifications** | TÜV Rheinland® Low Blue Light (Software Solution)  
 **Mil-Spec Test** | MIL-STD-810H military test passed
-"
-"https://itti.com.np/product/lenovo-thinkbook-14-gen-7-amd-ryzen-5-7535hs-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-thinkbook-14-gen-7-amd-ryzen-5-7535hs-price-nepal
 
 
 ------End the Product------
 
 
-"# Asus VivoBook 14 X1405VA -13th Gen Intel Core i7 13620H | 16GB | 512GB SSD | 14'' WUXGA | Win11 | Backlit Keyboard | Fingerprint | Cool Silver | 2 Year Int'l Warranty | 1 year Perfect Warranty
+# Asus VivoBook 14 X1405VA -13th Gen Intel Core i7 13620H | 16GB | 512GB SSD | 14'' WUXGA | Win11 | Backlit Keyboard | Fingerprint | Cool Silver | 2 Year Int'l Warranty | 1 year Perfect Warranty
 Add to Cart
 Brand | ASUS  
 ---|---  
@@ -4698,14 +3288,14 @@ Battery | 42WHrs, 3S1P, 3-cell Li-io
 Weight | 1.60 kg (3.53 lbs)  
 Warranty | 2 Year Int'l Warranty | 1 year Perfect Warranty  
 Price in Nepal | Rs:
-"
-"https://itti.com.np/product/asus-vivobook-14-x1405va-13th-gen-intel-price-nepal-i7-13620h-16gb-512gb-ssd-14-win11-backlit-keyboard"
+
+ URL = https://itti.com.np/product/asus-vivobook-14-x1405va-13th-gen-intel-price-nepal-i7-13620h-16gb-512gb-ssd-14-win11-backlit-keyboard
 
 
 ------End the Product------
 
 
-"# Asus VivoBook 16 2024 X1605VA i7 13620H | 16GB RAM | 512GB SSD | 16" WUXGA display | Backlight Keyboard | Magic NumPad | 2 Year Warranty
+# Asus VivoBook 16 2024 X1605VA i7 13620H | 16GB RAM | 512GB SSD | 16" WUXGA display | Backlight Keyboard | Magic NumPad | 2 Year Warranty
 Add to Cart
 Brand | [Asus](https://itti.com.np/laptops-by-brands/asus-laptop-nepal)  
 ---|---  
@@ -4737,14 +3327,14 @@ Built-in speaker
 Built-in array microphone  
 with Cortana and Alexa voice-recognition support  
 Asus VivoBook 16 2024 X1605VA Price in Nepal | Rs. 1,15,000/-
-"
-"https://itti.com.np/product/asus-vivobook-16-2024-x1605va-i7-13620h-price-nepal"
+
+ URL = https://itti.com.np/product/asus-vivobook-16-2024-x1605va-i7-13620h-price-nepal
 
 
 ------End the Product------
 
 
-"# Acer Aspire Go 14 2024 14th Gen Intel Core Ultra 7 155H Processor | 16GB DDR5 RAM | 512GB SSD | Intel Arc Graphics | 14" WUXGA (1920 x 1200) IPS Display | 1 Years Warranty
+# Acer Aspire Go 14 2024 14th Gen Intel Core Ultra 7 155H Processor | 16GB DDR5 RAM | 512GB SSD | Intel Arc Graphics | 14" WUXGA (1920 x 1200) IPS Display | 1 Years Warranty
 Add to Cart
 Processor | Intel Core Ultra 7 155H Processor (16 Cores/22 Threads, 1.40GHz-4.80GHz Max Bost Clock, 24MB L3 Cache)  
 ---|---  
@@ -4805,14 +3395,14 @@ BIOS Security
 Included Freebies | Laptop Bag, Gaming Mouse, and Mousepad  
 Warranty | 1 Years Warranty  
 Acer Aspire Go 14 Ultra 7 Price in Nepal | NPR 
-"
-"https://itti.com.np/product/acer-aspire-go-14-2024-14th-gen-intel-ultra-7-155h-price-nepal-16gb-ddr5-ram-512gb-ssd-14-wuxga-1920-x-1200-ips-display-"
+
+ URL = https://itti.com.np/product/acer-aspire-go-14-2024-14th-gen-intel-ultra-7-155h-price-nepal-16gb-ddr5-ram-512gb-ssd-14-wuxga-1920-x-1200-ips-display-
 
 
 ------End the Product------
 
 
-"# HP OmniBook 7 Aero 13-BG1000 AMD Ryzen™ AI 5 340 | 512GB SSD | 16GB RAM | 13.3" (1920x1200) WIN11 | Backlit Keyboard .
+# HP OmniBook 7 Aero 13-BG1000 AMD Ryzen™ AI 5 340 | 512GB SSD | 16GB RAM | 13.3" (1920x1200) WIN11 | Backlit Keyboard .
 Price:
 रु 1,10,000
 ### **Key Features**
@@ -4852,14 +3442,14 @@ Price:
 **Dimensions** | Approx. 297 x 210 x 15.9 mm  
 **Weight** | Starting at 1.2 kg (2.65 lbs)  
 **Warranty** | 1-Year Limited Warranty
-"
-"https://itti.com.np/product/hp-omnibook-7-aero-13-bg1000-amd-ryzen-ai-5-340-price-nepal-512gb-ssd-16gb-ram-133-1920x1200-win11-backlit-keyboard"
+
+ URL = https://itti.com.np/product/hp-omnibook-7-aero-13-bg1000-amd-ryzen-ai-5-340-price-nepal-512gb-ssd-16gb-ram-133-1920x1200-win11-backlit-keyboard
 
 
 ------End the Product------
 
 
-"# Acer Aspire 16 2024 14th Gen Core 7 | 16GB RAM | 512GB SSD | NVIDIA RTX 2050 4GB | 16" WUXGA Display | 2 Year Warranty
+# Acer Aspire 16 2024 14th Gen Core 7 | 16GB RAM | 512GB SSD | NVIDIA RTX 2050 4GB | 16" WUXGA Display | 2 Year Warranty
 Add to Cart
 Brand  | [Acer](https://itti.com.np/laptops-by-brands/acer-laptop-nepal)  
 ---|---  
@@ -4885,14 +3475,14 @@ Dimensions | 318.5 (W) x 225.5 (D) x 18.9 (H) mm
 Weight | 1.88Kg  
 Warranty | 2-Year Local Warranty   
 Acer Aspire 16 2024 Price in Nepal | Rs.135,000 
-"
-"https://itti.com.np/product/acer-aspire-16-a16-price-nepal"
+
+ URL = https://itti.com.np/product/acer-aspire-16-a16-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Inspiron 16 5630 - i5 1355U | 8GB RAM | 512GB SSD | 16.1" FHD Display | 2 Year Warranty
+# Dell Inspiron 16 5630 - i5 1355U | 8GB RAM | 512GB SSD | 16.1" FHD Display | 2 Year Warranty
 Add to Cart
 Brand | [Dell](https://itti.com.np/laptops-by-brands/dell)  
 ---|---  
@@ -4921,14 +3511,14 @@ Camera Webcam | 1080p at 30fps FHD camera, Dual-array microphones
 Weight | Weight (Minimum): 1.531 kg (3.375 lb)  
 Keyboard | English International backlit keyboard  
 Dell Inspiron 14 5630 Price in Nepal | Rs.127,000 (i5 Variant)
-"
-"https://itti.com.np/product/dell-inspiron-16-5630-price-nepal-i5"
+
+ URL = https://itti.com.np/product/dell-inspiron-16-5630-price-nepal-i5
 
 
 ------End the Product------
 
 
-"# Lenovo IdeaPad Slim 5 Gen 10 2025 16 Intel® Core™ Ultra 5 210H | 16GB RAM | 512GB SSD | 16" WUXGA (1920x1200) 300nits Touchscreen | Backlight Keyboard
+# Lenovo IdeaPad Slim 5 Gen 10 2025 16 Intel® Core™ Ultra 5 210H | 16GB RAM | 512GB SSD | 16" WUXGA (1920x1200) 300nits Touchscreen | Backlight Keyboard
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -5008,14 +3598,14 @@ Add to Cart
   * TÜV Rheinland® Flicker Free
 
 
-"
-"https://itti.com.np/product/lenovo-ideapad-slim-5-gen-10-2025-ultra-5-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-ideapad-slim-5-gen-10-2025-ultra-5-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo ThinkPad X13 Intel Core i5-10210U | 8GB RAM | 512GB SSD | 13.3" FHD Display
+# Lenovo ThinkPad X13 Intel Core i5-10210U | 8GB RAM | 512GB SSD | 13.3" FHD Display
 Add to Cart
 CPU | Intel® CoreTM i5-10210U  
 ---|---  
@@ -5046,14 +3636,14 @@ Camera Webcam | Hybrid Infrared (IR) & HD 720p
 Keyboard | Backlight  
 Weight | 1.28Kg  
 Lenovo Thinkpad X13 Price in Nepal | Rs. 143000
-"
-"https://itti.com.np/product/lenovo-thinkpad-x13-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-thinkpad-x13-price-nepal
 
 
 ------End the Product------
 
 
-"# Acer Nitro Lite 16 2025 Intel Core i5-13420H Processor | RTX 3050 6GB | 2 Year Warranty | 16GB RAM DDR5 | 512GB SSD | 16″ 165Hz WUXGA IPS Display
+# Acer Nitro Lite 16 2025 Intel Core i5-13420H Processor | RTX 3050 6GB | 2 Year Warranty | 16GB RAM DDR5 | 512GB SSD | 16″ 165Hz WUXGA IPS Display
 Add to Cart
 **Brand** | Acer  
 ---|---  
@@ -5074,14 +3664,14 @@ Add to Cart
 **Weight** | 1.95 kg  
 **OS** | Windows 11 Home  
 **Link to check warranty** | https://support.acer.com.sg/regional/
-"
-"https://itti.com.np/product/acer-nitro-lite-16-2025-price-nepal-i5-rtx-3050"
+
+ URL = https://itti.com.np/product/acer-nitro-lite-16-2025-price-nepal-i5-rtx-3050
 
 
 ------End the Product------
 
 
-"# Asus VivoBook 14 2023 X1404VA i7 13th Gen | 16GB RAM | 512GB SSD | 14" FHD display | Backlight Keyboard | Magic NumPad
+# Asus VivoBook 14 2023 X1404VA i7 13th Gen | 16GB RAM | 512GB SSD | 14" FHD display | Backlight Keyboard | Magic NumPad
 Price:
 रु 1,13,000
 **Key Specification:**
@@ -5122,14 +3712,14 @@ Built-in speaker
 Built-in array microphone  
 with Cortana and Alexa voice-recognition support  
 Asus VivoBook 14 2023 X1404ZA Price in Nepal | Rs. 113000 (i7 Variant)
-"
-"https://itti.com.np/product/asus-vivobook-14-2023-x1404va-price-nepal-i7"
+
+ URL = https://itti.com.np/product/asus-vivobook-14-2023-x1404va-price-nepal-i7
 
 
 ------End the Product------
 
 
-"# MSI Modern 15 H B13M 2023 i5 13TH GEN 13420H | 512GB SSD | 16GB RAM | 15.6" FHD | 2 Year Warranty
+# MSI Modern 15 H B13M 2023 i5 13TH GEN 13420H | 512GB SSD | 16GB RAM | 15.6" FHD | 2 Year Warranty
 Add to Cart
 Brand | [MSI](https://itti.com.np/laptops-by-brands/msi-laptops-nepal)  
 ---|---  
@@ -5169,14 +3759,14 @@ SERVICE
 Base Warranty | 2-year local, 2-year international   
 Bundle  | MSI Topload Bag_Grey   
 MSI Modern 15 H 2023 B13M Price in Nepal | Rs. 119,000 (i5 variant)
-"
-"https://itti.com.np/product/msi-modern-15-h-b13m-2023-i5-13th-gen-13420h-price-nepal"
+
+ URL = https://itti.com.np/product/msi-modern-15-h-b13m-2023-i5-13th-gen-13420h-price-nepal
 
 
 ------End the Product------
 
 
-"# ASUS TUF Gaming A15 FA506NFR AMD RYZEN 7 7435HS | RTX 2050 | 8GB RAM | 512GB SSD | 15.6" FHD 144Hz display | 2 Year Warranty
+# ASUS TUF Gaming A15 FA506NFR AMD RYZEN 7 7435HS | RTX 2050 | 8GB RAM | 512GB SSD | 15.6" FHD 144Hz display | 2 Year Warranty
 Add to Cart
 Brand | [Asus](https://itti.com.np/laptops-by-brands/asus-laptop-nepal)  
 ---|---  
@@ -5208,14 +3798,14 @@ Support Microsoft Cortana near field/Far field
 Built-in array microphone  
 2-speaker system  
 Asus TUF A15 FA506NFR 2024 Price in Nepal | Rs. 124500/-
-"
-"https://itti.com.np/product/asus-tuf-a15-2023-fa506nfr-ryzen-7-price-nepal"
+
+ URL = https://itti.com.np/product/asus-tuf-a15-2023-fa506nfr-ryzen-7-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Inspiron G15 15 G5500 2020 i7 10th Gen | RTX 2060 6GB | 16GB RAM | 512GB SSD | 15.6" FHD 144Hz Display
+# Dell Inspiron G15 15 G5500 2020 i7 10th Gen | RTX 2060 6GB | 16GB RAM | 512GB SSD | 15.6" FHD 144Hz Display
 Add to Cart
 Brand | [Dell](https://itti.com.np/laptops-by-brands/dell)  
 ---|---  
@@ -5235,14 +3825,14 @@ Camera Webcam | 720p
 Weight | 2.39 kg  
 Chasis | 12-zone chassis lighting  
 Dell G5 15 2020 Price in Nepal | Rs. 170,000
-"
-"https://itti.com.np/product/dell-g5-gaming-laptop-price-nepal"
+
+ URL = https://itti.com.np/product/dell-g5-gaming-laptop-price-nepal
 
 
 ------End the Product------
 
 
-"# Apple iPad Air 4 2020 (Wifi+Cellular) - 10.9" display, A14 Bionic, 64GB Storage, 12MP Camera, Stereo Speakers, 9 Hours battery life
+# Apple iPad Air 4 2020 (Wifi+Cellular) - 10.9" display, A14 Bionic, 64GB Storage, 12MP Camera, Stereo Speakers, 9 Hours battery life
 Price:
 रु 1,15,000
 Brand New Factory Sealed Apple iPad Air 4 2020 Model with A14 Bionic chip with 64‑bit architecture and Neural Engine, 64GB Storage, 10.9-inch Liquid Retina display, 2360-by-1640-pixel resolution, 264 pixels per inch (PPI) pixel density, P3 Wide color gamut, True Tone display, 500 nits brightness, Supports Apple Pencil (2nd generation), 12MP Rear-facing Camera, Stereo Speakers, iPadOS 15, Up to 9 hours of battery life
@@ -5282,14 +3872,14 @@ Touch ID |
 Charging And Expansion | USB‑C  
 Battery | Up to 9 hours of surfing the web using cellular data network  
 OS |  iPadOS 15 iPadOS comes with powerful features and built-in apps designed to take advantage of the unique capabilities of iPad.
-"
-"https://itti.com.np/product/apple-ipad-air-4-2020-64gb-wifi-cellular-price-nepal"
+
+ URL = https://itti.com.np/product/apple-ipad-air-4-2020-64gb-wifi-cellular-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Latitude 14 3440 - i5 1335U | 8GB RAM | 512GB SSD | 14" Full-HD Display | 3 Year Warranty
+# Dell Latitude 14 3440 - i5 1335U | 8GB RAM | 512GB SSD | 14" Full-HD Display | 3 Year Warranty
 Price:
 रु 1,15,000
 ### Key Features
@@ -5371,14 +3961,14 @@ Screen to Body Ratio: 84.5% |
 Weight | Starting weight: 1.54kg / 3.40lbs |   
 **Warranty**  
 Warranty Details | 03-years Warranty | 
-"
-"https://itti.com.np/product/dell-latitude-14-3440-price-nepal-i5"
+
+ URL = https://itti.com.np/product/dell-latitude-14-3440-price-nepal-i5
 
 
 ------End the Product------
 
 
-"# Acer Nitro V 15 2023 i5 13420H | RTX 4050 6GB | 16GB RAM | 512GB SSD | 15.6" FHD 144Hz display | 1 Year Warranty
+# Acer Nitro V 15 2023 i5 13420H | RTX 4050 6GB | 16GB RAM | 512GB SSD | 15.6" FHD 144Hz display | 1 Year Warranty
 Add to Cart
 Brand | [Acer](https://itti.com.np/laptops-by-brands/acer-laptop-nepal)  
 ---|---  
@@ -5403,14 +3993,14 @@ Power Supply | 3-pin 135 W AC adapter
 Ports |  HDMI - Yes Number of USB 3.2 Gen 1 Type-A Ports - 3 Number of USB 3.2 Gen 2 Type-C Ports - 1 Total Number of USB Ports - 4 USB Type-C - Yes Network (RJ-45) - Yes  
 [Audio](https://itti.com.np/accessories/audio-devices) | DTS X: Ultra Audio  
 Acer Nitro V 15 2023 Price in Nepal | Rs. 126,000
-"
-"https://itti.com.np/product/acer-nitro-v-15-2023-price-nepal-i5-rtx-4050-6gb"
+
+ URL = https://itti.com.np/product/acer-nitro-v-15-2023-price-nepal-i5-rtx-4050-6gb
 
 
 ------End the Product------
 
 
-"# Asus VivoBook 15 X1502VA i7 13620H | 16GB RAM | 1TB SSD | 15.6" FHD display | Backlight Keyboard | Magic NumPad | 2 Year Warranty
+# Asus VivoBook 15 X1502VA i7 13620H | 16GB RAM | 1TB SSD | 15.6" FHD display | Backlight Keyboard | Magic NumPad | 2 Year Warranty
 Add to Cart
 Brand | [Asus](https://itti.com.np/laptops-by-brands/asus-laptop-nepal)  
 ---|---  
@@ -5444,14 +4034,14 @@ Built-in speaker
 Built-in array microphone  
 with Cortana and Alexa voice-recognition support  
 Asus VivoBook 15 X1502VA Price in Nepal | Rs. Rs 1,22,000/-
-"
-"https://itti.com.np/product/asus-vivobook-15-x1502va-i7-price-nepal"
+
+ URL = https://itti.com.np/product/asus-vivobook-15-x1502va-i7-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo Yoga 7 2024 Intel Core Ultra 5 125U | 16GB RAM | 512GB SSD | 14" FHD+, 60Hz 360-degree Touch display
+# Lenovo Yoga 7 2024 Intel Core Ultra 5 125U | 16GB RAM | 512GB SSD | 14" FHD+, 60Hz 360-degree Touch display
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -5524,14 +4114,14 @@ Add to Cart
   
 **Other Certifications** | Models with WUXGA IPS panel: TÜV Rheinland® Low Blue Light (Software Solution)  
 **Mil-Spec Test** | MIL-STD-810H military test passed (21 test items)
-"
-"https://itti.com.np/product/lenovo-yoga-7i-ultra5-2024-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-yoga-7i-ultra5-2024-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo LOQ 15 Gaming Laptop 2025 Intel Core i5 13450HX | RTX 3050 | 24GB RAM | 512GB SSD | 15.6" FHD (1920x1080)144Hz display | 1 Year warranty
+# Lenovo LOQ 15 Gaming Laptop 2025 Intel Core i5 13450HX | RTX 3050 | 24GB RAM | 512GB SSD | 15.6" FHD (1920x1080)144Hz display | 1 Year warranty
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -5588,14 +4178,14 @@ Add to Cart
 **Base Warranty** | 1-year, Courier or Carry-in  
 **ACCESSORIES**  
 **Bundled Accessories** | None
-"
-"https://itti.com.np/product/lenovo-loq-15-gaming-laptop-2025-intel-core-i5-13450hx-rtx-3050-24gb-ram-512gb-ssd-156-fhd-1920x1080144hz-display-1-year-warranty"
+
+ URL = https://itti.com.np/product/lenovo-loq-15-gaming-laptop-2025-intel-core-i5-13450hx-rtx-3050-24gb-ram-512gb-ssd-156-fhd-1920x1080144hz-display-1-year-warranty
 
 
 ------End the Product------
 
 
-"# Asus VivoBook S 14 Flip 2023 TN3402YA Ryzen 7 7730U | 8GB RAM | 512GB SSD | 14" FHD 2-in-1 Touch Display | Active Stylus | Backlit KB | Magic NumPad | 2 Year Warranty
+# Asus VivoBook S 14 Flip 2023 TN3402YA Ryzen 7 7730U | 8GB RAM | 512GB SSD | 14" FHD 2-in-1 Touch Display | Active Stylus | Backlit KB | Magic NumPad | 2 Year Warranty
 Add to Cart
 Brand | [Asus](https://itti.com.np/laptops-by-brands/asus-laptop-nepal)  
 ---|---  
@@ -5631,14 +4221,14 @@ Included in the BOX | Sleeve
 Palmrest  
 Stylus (ASUS Pen 2.0 SA203H-MPP2.0 support)  
 Asus VivoBook S 14 Flip 2023 Ryzen 7 7730U Price in Nepal | Rs. 1,24,000/- ( Ryzen 7 7730U Varient )
-"
-"https://itti.com.np/product/asus-vivobook-s-14-flip-2023-tn3402ya-price-nepal"
+
+ URL = https://itti.com.np/product/asus-vivobook-s-14-flip-2023-tn3402ya-price-nepal
 
 
 ------End the Product------
 
 
-"# ASUS TUF Gaming A15 FA506NC AMD RYZEN 5 7535HS | RTX 3050 | 8GB RAM | 512GB SSD | 15.6" FHD 144Hz display | 2 Year Warranty
+# ASUS TUF Gaming A15 FA506NC AMD RYZEN 5 7535HS | RTX 3050 | 8GB RAM | 512GB SSD | 15.6" FHD 144Hz display | 2 Year Warranty
 Add to Cart
 Brand | [Asus](https://itti.com.np/laptops-by-brands/asus-laptop-nepal)  
 ---|---  
@@ -5670,14 +4260,14 @@ Support Microsoft Cortana near field/Far field
 Built-in array microphone  
 2-speaker system  
 Asus TUF A15 FA506NC 2023 Price in Nepal | Rs. 125000/-
-"
-"https://itti.com.np/product/asus-tuf-a15-2023-fa506nc-ryzen-5-price-nepal"
+
+ URL = https://itti.com.np/product/asus-tuf-a15-2023-fa506nc-ryzen-5-price-nepal
 
 
 ------End the Product------
 
 
-"# Acer Swift Go 14 2024 Ultra 5 125H Processor | 16GB RAM | 512GB SSD | 14" 2.8K 90Hz OLED display | 2 Year Warranty | Backlight Keyboard | Win 11 Home Genuine
+# Acer Swift Go 14 2024 Ultra 5 125H Processor | 16GB RAM | 512GB SSD | 14" 2.8K 90Hz OLED display | 2 Year Warranty | Backlight Keyboard | Win 11 Home Genuine
 Add to Cart
 Brand | [Acer](https://itti.com.np/laptops-by-brands/acer-laptop-nepal)  
 ---|---  
@@ -5707,14 +4297,14 @@ Batteries | 65 Whr Battery
 Weight | 2.91Lb  
 Acer Swift GO 2024 Price in Nepal | Rs. 125000/- Intel® Core™ Ultra 5 125H  
 Link To check Authorised Warranty For Nepal | <https://support.acer.com.sg/regional/>
-"
-"https://itti.com.np/product/acer-swift-go-14-2024-ultra-4-125h-processor-16gb-ram-512gb-price-nepal"
+
+ URL = https://itti.com.np/product/acer-swift-go-14-2024-ultra-4-125h-processor-16gb-ram-512gb-price-nepal
 
 
 ------End the Product------
 
 
-"# Dell Inspiron 16 5635 - Ryzen 7 7730U | 16GB RAM | 512GB SSD | 16.1" FHD Display | 2 Year Warranty
+# Dell Inspiron 16 5635 - Ryzen 7 7730U | 16GB RAM | 512GB SSD | 16.1" FHD Display | 2 Year Warranty
 Add to Cart
 Brand | [Dell](https://itti.com.np/laptops-by-brands/dell)  
 ---|---  
@@ -5743,14 +4333,14 @@ Camera Webcam | Integrated Widescreen FHD (1080p) Webcam with Dual Digital Micro
 Weight | Weight (Minimum): 4.01 lb (1.82 kg)  
 Keyboard | English International backlit keyboard  
 Dell Inspiron 14 5635 Price in Nepal | Rs.133,000 (Ryzen 7)
-"
-"https://itti.com.np/product/dell-inspiron-16-5635-price-nepal-ryzen-7"
+
+ URL = https://itti.com.np/product/dell-inspiron-16-5635-price-nepal-ryzen-7
 
 
 ------End the Product------
 
 
-"# Apple iPad Air 4 2020 (Wifi) - 10.9" display, A14 Bionic, 256GB Storage, 12MP Camera, Stereo Speakers, 9 Hours battery life
+# Apple iPad Air 4 2020 (Wifi) - 10.9" display, A14 Bionic, 256GB Storage, 12MP Camera, Stereo Speakers, 9 Hours battery life
 Price:
 रु 1,19,000
 Brand New Factory Sealed Apple iPad Air 4 2020 Wi-Fi Model with A14 Bionic chip with 64‑bit architecture and Neural Engine, 256GB Storage, 10.9-inch Liquid Retina display, 2360-by-1640-pixel resolution, 264 pixels per inch (PPI) pixel density, P3 Wide color gamut, True Tone display, 500 nits brightness, Supports Apple Pencil (2nd generation), 12MP Rear-facing Camera, Stereo Speakers, iPadOS 15, Up to 10 hours of battery life
@@ -5796,14 +4386,14 @@ Battery |
 
   
 OS |  iPadOS 15 iPadOS comes with powerful features and built-in apps designed to take advantage of the unique capabilities of iPad.
-"
-"https://itti.com.np/product/apple-ipad-air-4-2020-256gb-wifi-price-nepal"
+
+ URL = https://itti.com.np/product/apple-ipad-air-4-2020-256gb-wifi-price-nepal
 
 
 ------End the Product------
 
 
-"# Lenovo LOQ Gaming Laptop 2024 Intel Core i5 12450HX | RTX 3050 | 16GB RAM | 512GB SSD | 15.6" FHD (1920x1080)144Hz display | 1 Year warranty
+# Lenovo LOQ Gaming Laptop 2024 Intel Core i5 12450HX | RTX 3050 | 16GB RAM | 512GB SSD | 15.6" FHD (1920x1080)144Hz display | 1 Year warranty
 Add to Cart
 **PERFORMANCE**  
 ---  
@@ -5868,14 +4458,14 @@ Add to Cart
   
 **Other Certifications** | TÜV Rheinland® Low Blue Light (Software Solution)  
 **Mil-Spec Test** | MIL-STD-810H military test passed
-"
-"https://itti.com.np/product/lenovo-loq-gaming-laptop-i5-12450hx-3050-price-nepal"
+
+ URL = https://itti.com.np/product/lenovo-loq-gaming-laptop-i5-12450hx-3050-price-nepal
 
 
 ------End the Product------
 
 
-"# Asus VivoBook 14X 2023 X1405VA Intel Core i5 13500H | 8GB RAM | 512GB SSD | 14" 2K Oled display | 2 Year Warranty
+# Asus VivoBook 14X 2023 X1405VA Intel Core i5 13500H | 8GB RAM | 512GB SSD | 14" 2K Oled display | 2 Year Warranty
 Price:
 रु 1,20,000
 ### Key Specification:
@@ -5909,14 +4499,14 @@ Keyboard | Backlit Chiclet keyboard
 Weight | 1.6 KG  
 Audio | Harman Kardon Speaker  
 Asus VivoBook 14X 2023 X1405VA Price in Nepal | Rs.1,20,000/-
-"
-"https://itti.com.np/product/asus-vivobook-14x-2023-x1405va-price-nepal"
+
+ URL = https://itti.com.np/product/asus-vivobook-14x-2023-x1405va-price-nepal
 
 
 ------End the Product------
 
 
-"# Acer Nitro 5 2021 i7 11TH GEN 11800H | RTX 3050ti | 15.6" FHD 144Hz | 16GB RAM | 1TB SSD | 1 Year Warranty
+# Acer Nitro 5 2021 i7 11TH GEN 11800H | RTX 3050ti | 15.6" FHD 144Hz | 16GB RAM | 1TB SSD | 1 Year Warranty
 Add to Cart
 Model Name | Nitro 5 AN515  
 ---|---  
@@ -5938,14 +4528,14 @@ Power Supply | 3-pin 135 W AC adapter
 Keyboard and Mouse | FineTip RGB-backlit keyboard  
 Ports | USB Type-C, USB 3.2 Gen 2 (up to 10 Gbps), One USB 3.2 Gen 2, Two USB 3.2 Gen 1 ports, HDMI  
 Audio | DTS® X:Ultra Audio
-"
-"https://itti.com.np/product/acer-nitro-5-2021-gaming-laptop-price-nepal-i7-3050ti"
+
+ URL = https://itti.com.np/product/acer-nitro-5-2021-gaming-laptop-price-nepal-i7-3050ti
 
 
 ------End the Product------
 
 
-"# HP OmniBook 5 Flip 14-fp0023 14th Gen Intel Core 7 150U Processor | 16GB RAM | 512GB SSD | Intel Graphics | 14" (1920 x 1200) Multi-Touch 2-in-1 IPS Display | Backlit Keyboard | Wi-Fi 6E | 1-Year Warranty
+# HP OmniBook 5 Flip 14-fp0023 14th Gen Intel Core 7 150U Processor | 16GB RAM | 512GB SSD | Intel Graphics | 14" (1920 x 1200) Multi-Touch 2-in-1 IPS Display | Backlit Keyboard | Wi-Fi 6E | 1-Year Warranty
 Price:
 रु 1,20,000
 ### **Key Features**
@@ -6005,11 +4595,38 @@ Weight | 1.65 Kg (3.64 lbs)
 Dimension (W x D x H) | 12.32" x 8.66" x 0.73"  
 Freebies | Laptop Bag, Mouse, Mousepad  
 Warranty | 1-Year Warranty
-"
-"https://itti.com.np/product/hp-omnibook-5-flip-14-fp0023-14th-gen-intel-core-7-150u-processor-price-nepal-16gb-ram-512gb-ssd-14-touch-2-in-1-display-backlit-keyboard"
+
+ URL = https://itti.com.np/product/hp-omnibook-5-flip-14-fp0023-14th-gen-intel-core-7-150u-processor-price-nepal-16gb-ram-512gb-ssd-14-touch-2-in-1-display-backlit-keyboard
 
 
 ------End the Product------
 
 
-"
+# HP EliteBook 8 G1i 14-inch Notebook AI PC | 15th Gen Intel Core Ultra 5 225H | 16GB RAM | 512GB SSD | 14" (1920 x 1200) | 1 Year Warranty
+Add to Cart
+Processor | Intel® Core™ Ultra 5 Processor 225H 2.0 GHz (24MB Cache, up to 5.1 GHz, 16 cores, 16 Threads); Intel® AI Boost NPU up to 13TOPS  
+---|---  
+Processor Speed | Up to 5.1 GHz with Intel Turbo Boost Technology  
+Processor Cache | 24MB  
+Operating System | Windows 11 Pro  
+Memory | 16 GB DDR5 5600Mhz  
+Storage | 512GB PCIe Gen4 NVMe M.2 SSD  
+Display | 14" diagonal WUXGA LED UWVA Anti-Glare for 5MP IR Webcam 60Hz (1920x1200)(400 Nits)  
+Graphics | Integrated: Intel® Arc™ 130T GPU  
+Network & Communication | Wi-Fi 6E (2x2) and Bluetooth 5.3 wireless card (supporting gigabit data rate)  
+Standard Ports | 2 Thunderbolt™ 4 with USB Type-C® 40Gbps signaling rate (USB Power Delivery, DisplayPort™ 2.1, HP Sleep and Charge); 1 USB Type-C® 10Gbps signaling rate (USB Power Delivery, DisplayPort™ 1.4, HP Sleep and Charge); 1 HDMI 2.1; 1 stereo headphone/microphone combo jack; 1 USB Type-A 5Gbps signaling rate (powered)  
+1 smart card reader[12]  
+Camera | 5MP IR camera with temporal noise reduction and integrated dual array digital microphones  
+Sound | Audio by Poly Studio, dual stereo speakers with discrete amplifiers, integrated dual array microphones  
+Keyboard | HP Premium Keyboard – spill-resistant, backlit keyboard  
+Weight | 3.06 Lbs  
+Dimensions | 12.43 x 8.74 x 0.46 in (front); 12.43 x 8.74 x 0.61 in (rear)  
+Power |  HP Long Life 3-cell, 62 Wh Li-ion polymer 65 W USB Type-C power adapter  
+Warranty | 1 Year
+
+ URL = https://itti.com.np/product/hp-elitebook-8-g1i-14-price-nepal
+
+
+------End the Product------
+
+

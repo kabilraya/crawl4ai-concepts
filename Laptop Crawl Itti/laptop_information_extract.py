@@ -47,6 +47,6 @@ async def crawl_for_information(internal_links):
                     print(results_one.markdown)
 
                     with open("laptop-info.md","a",encoding="utf-8") as f:
-                        f.write(f'{results_one.markdown}"\n"{internal_link}"\n\n\n------End the Product------\n\n\n"')
+                        f.write(f'{results_one.markdown}\n URL = {internal_link}\n\n\n------End the Product------\n\n\n')
 
                 
