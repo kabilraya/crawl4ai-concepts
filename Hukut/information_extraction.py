@@ -12,7 +12,7 @@ async def crawl_for_information(internal_links):
     css_selector="section:nth-of-type(1)>section>div:nth-child(2)>div:nth-child(2),div.overview,section#specs",
     word_count_threshold=10,  
         
-    excluded_tags=["header", "footer", "nav", "aside", "form", "script", "style"],
+    excluded_tags=["header", "footer", "nav", "aside", "form", "script", "style","img","a"],
     markdown_generator=DefaultMarkdownGenerator(),
     cache_mode=CacheMode.DISABLED,
     delay_before_return_html=20.0,
@@ -25,7 +25,9 @@ async def crawl_for_information(internal_links):
     return true;
         """,
         scan_full_page=True,
-        
+        exclude_all_images=True,
+        exclude_external_links=True,
+        exclude_internal_links=True,
         remove_overlay_elements=True,
         simulate_user=True,
         verbose=True,
@@ -46,5 +48,5 @@ async def crawl_for_information(internal_links):
                     print(results.markdown)
 
                     with open("info.md","a",encoding="utf-8") as f:
-                        f.write(results.markdown + "\n\n\n\n---------End of the Product---------\n\n\n\n")
+                        f.write(f'{results.markdown} \n\n URL: {link} \n\n-----End of Product-----\n\n')
     

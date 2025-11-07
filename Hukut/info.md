@@ -20,9 +20,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Honor Play 10 Overview
 ### Design and Build
@@ -126,13 +125,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 4, 5, 7, 8, 13, 26, 28, 38, 40, 41, 66
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/honor-play-10 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Infinix Smart 10
 6.67 inches, IPS LCD, 120Hz, Unisoc T7250
@@ -156,9 +153,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # Infinix Smart 10: Overview
 **Display and Design**
@@ -258,13 +254,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/infinix-smart-10 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Tecno Spark Go 1
 6.67 inch, 120Hz IPS LCD, Unisoc T615, 13 MP Camera
@@ -290,9 +284,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ### Tecno Spark Go 1: Overview 
 The Tecno Spark Go 1 is a budget-friendly smartphone that offers a unique blend of design, performance, and essential features. Here’s why it stands out:
@@ -391,13 +384,11 @@ Charging
 SECURITY
 Fingerprint
 Fingerprint (side-mounted); unspecified sensors
+ 
 
+ URL: https://hukut.com/tecno-spark-go-1-price-in-nepal 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Infinix Smart 10 Plus
 6.67 inches, IPS LCD, 120Hz, Unisoc T7250
@@ -421,9 +412,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # Infinix Smart 10 Plus: Overview
 **Display and Design**
@@ -523,13 +513,141 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41
 Speed
 HSPA, LTE
+ 
+
+ URL: https://hukut.com/infinix-smart-10-plus 
+
+-----End of Product-----
+
+# Motorola Moto G05
+6.67 inch, 90Hz IPS LCD, Mediatek Helio G81 Extreme, 50 MP Camera
+3 (1)
+Rs. 12,999
+* * *
+Variant: 
+4GB + 64GB
+Colors: Plum Red
+Key Specifications
+  * OS: Android 15
+  * CPU: Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)
+  * GPU : Mali-G52 MC2
+  * Size: 6.67 inches, 107.2 cm2 (~85.2% screen-to-body ratio)
+  * Resolution: 720 x 1604 pixels, 20:9 ratio (~264 ppi density)
 
 
+* * *
+Buy Now
+Add To Cart
+* * *
+Pickup
+Available Today at Hukut Store
+Free Delivery
+Get it by 5th November
+* * *
+## Moto G05 Overview
+### Design and Display
+In terms of design, the Moto G05 has a vegan leather back with a hole-punched display upfront. The power key and volume rocker are placed on the right side. Motorola ships this guy in four colorways: Plum Red, and Forest Green. The display is a 6.67-inch HD+ LCD panel with a 90Hz refresh rate and Gorilla Glass 3 protection. For sunlight readability, you get 1000nits of peak brightness.
+### Performance
+The smartphone’s underside features a Mediatek Helio G81 Ultra chipset built using a 12nm fabrication process. Cores-wise, you get two Cortex-A75 running at 2.0GHz and six Cortex-A55 cores clocking at 1.7GHz frequency. Handling the graphics is a Mali-G52 MC2 GPU. Likewise, Moto has paired the chip with 4GB of RAM and 64/128GB of internal storage. On the software side, it boots on Android 15.
+### Camera and Battery
+Getting to the optics, the Moto G05 sports a single 50MP rear camera. Which is capable of shooting 1080p videos at 30fps. Upfront, you get an 8MP front shooter for selfies and video calls.
+Likewise, fueling the Moto G05 is a 5200mAh battery with 18W fast charging support. Connectivity options include 4G, VoLTE, WiFi 5 (Dual-band), Bluetooth 5.4, GPS, NFC, and a USB Type-C port.
+Motorola Moto G05 Price in Nepal
+Variant
+Price
+4GB + 64GB | Rs. 12,999  
+### 
+Specifications
+BODY
+Dimension
+165.7 x 76 x 8.2 mm (6.52 x 2.99 x 0.32 in)
+Weight
+188.8 g (6.67 oz)
+Build
+Glass front (Gorilla Glass 3), plastic frame, silicone polymer back (eco leather)
+SIM
+Nano-SIM + Nano-SIM
+Colors
+Plum Red, Fresh Lavender, Forest Green, Misty Blue
+DISPLAY
+Type
+IPS LCD, 90Hz
+Size
+6.67 inches, 107.2 cm2 (~85.2% screen-to-body ratio)
+Resolution
+720 x 1604 pixels, 20:9 ratio (~264 ppi density)
+Protection
+Corning Gorilla Glass 3
+PERFORMANCE
+OS
+Android 15
+Chipset
+Mediatek Helio G81 Extreme (12 nm)
+CPU
+Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)
+GPU 
+Mali-G52 MC2
+MEMORY
+Internal
+microSDXC (dedicated slot)
+Card Slot
+64GB/4GB RAM
+BACK CAMERA
+Dual
+50 MP, f/1.8, (wide), PDAF
+Features
+LED flash, HDR
+Video
+1080p@30fps
+FRONT CAMERA
+Single
+8 MP, f/2.1, (wide), 1.12µm
+Features
+HDR
+Video
+1080p@30fps
+SOUND
+3.5mm jack 
+Yes
+Loudspeaker
+Yes, with stereo speakers
+CONNECTIVITY
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac, dual-band
+Bluetooth
+5.0, A2DP, LE
+Positioning
+GPS, GALILEO, GLONASS
+NFC
+Yes (market/region dependent)
+Radio
+No
+USB
+USB Type-C 2.0
+FEATURES
+Sensors
+Fingerprint (side-mounted), accelerometer, proximity
+BATTERY
+Type
+5200 mAh
+Charging
+18W wired
+Network
+Technology
+GSM / HSPA / LTE
+2G band
+GSM 850 / 900 / 1800 / 1900
+3G band
+HSDPA 850 / 900 / 2100
+4G band
+1, 3, 5, 7, 8, 20, 28, 38, 40, 41
+Speed
+HSPA, LTE
+ 
 
+ URL: https://hukut.com/motorola-moto-g05 
 
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Realme Note 60x
 6.74-inch HD+ IPS LCD, 90Hz refresh rate, 560 nits brightness
@@ -553,9 +671,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Realme Note 60x Overview 
 ### Display and Performance
@@ -656,13 +773,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/realme-note-60x 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Realme Narzo N61
 6.74 inch, 90Hz IPS LCD, Unisoc Tiger T612, 32 MP Camera
@@ -684,9 +799,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Realme Narzo N61 Overview
 ### Design and Display
@@ -780,13 +894,11 @@ Face Unlock
 Face Unlock
 Fingerprint
 Side-mounted fingerprint sensor
+ 
 
+ URL: https://hukut.com/realme-narzo-n61-price-in-nepal 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # vivo Y04
 6.74 inches, IPS LCD, 90Hz, Unisoc T7225
@@ -811,9 +923,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 vivo Y04 Price in Nepal
 Variant
@@ -901,13 +1012,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41 - International 1, 3, 5, 8, 38, 40, 41 - India
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/vivo-y04 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Honor X5b Plus 4G
 6.56 inch, 90Hz TFT LCD, Mediatek Helio G36, 50 MP Camera
@@ -931,9 +1040,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Honor X5b Plus Overview
 ### Display
@@ -1029,13 +1137,11 @@ HSDPA 850 / 900 / 1900 / 2100
 LTE
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/honor-x5b-plus-4G 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Redmi 15C 4G
 6.9 inch, 120Hz IPS LCD, Mediatek Helio G81 Ultra, 50 MP Dual Camera, 6000 mAh Battery
@@ -1061,9 +1167,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 Vivo V60 5G
 Redmi 15C 4G Price in Nepal
@@ -1157,13 +1262,11 @@ HSDPA 850 / 900 / 2100
 LTE
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/redmi-15c-4g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Vivo Y19s
 6.68 inch, 90Hz IPS LCD, Unisoc Tiger T612, 50 MP Camera
@@ -1192,9 +1295,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Vivo Y19s Overview
 The Vivo Y19s is a budget-friendly smartphone that offers a decent blend of performance and features. Powered by a capable processor and backed by ample RAM and storage, it delivers smooth multitasking and ample space for apps and media. The device boasts a vibrant display that brings content to life, while the long-lasting battery ensures you stay connected throughout the day. The Y19s also captures impressive photos and videos, thanks to its versatile camera setup.
@@ -1214,8 +1316,8 @@ Additionally, FuntouchOS 14, which is based on Android 14, is released with the 
 Vivo Y19s Price in Nepal
 Variant
 Price
-4GB | Get Free Vibes 211 Earbuds worth Rs.1500 | 128GB | Rs. 16,499  
-6GB | 128GB | Get Free Vibes 211 Earbuds worth Rs.1500 | Rs. 17,499  
+Get Free Vibes 211 Earbuds worth Rs.1500 | 4GB | 128GB | Rs. 16,499  
+128GB | Get Free Vibes 211 Earbuds worth Rs.1500 | 6GB | Rs. 17,499  
 ### 
 Specifications
 BODY
@@ -1288,13 +1390,11 @@ Charging
 FEATURES
 Additional Features
 Fingerprint (side-mounted), accelerometer, proximity, compass
+ 
 
+ URL: https://hukut.com/vivo-y19s 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Honor X6c
 6.61 inches, TFT LCD, Mediatek Helio G81 Ultra 
@@ -1319,9 +1419,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # Honor X6c : Overview
 **Design and Display**
@@ -1418,13 +1517,11 @@ HSDPA 850 / 900 / 1900 / 2100 HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - LATAM
 1, 2, 3, 4, 5, 7, 8, 13, 26, 28, 38, 40, 41, 66 - LATAM 
 Speed
 HSPA, LTE 
+ 
 
+ URL: https://hukut.com/honor-x6c 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # HMD Crest 5G
 6.67 inch, OLED, Unisoc T760 (6 nm), 50 MP
@@ -1450,9 +1547,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## HMD Crest: A Versatile Mid-Range Smartphone for 2024
 ### Design and Display
@@ -1556,13 +1652,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 28, 40, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/hmd-crest 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Redmi 15 4G
 6.9 inch, 144Hz IPS LCD, Qualcomm SM6225 Snapdragon, 50 MP Dual Camera, 7000 mAh Battery
@@ -1587,9 +1681,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 Vivo V60 5G
 Redmi 15 4G Price in Nepal
@@ -1680,268 +1773,11 @@ HSDPA 850 / 900 / 1900 / 2100
 LTE
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/redmi-15-4g 
 
-
-
----------End of the Product---------
-
-
-
-# Redmi 14C
-6.88 inch, 120Hz IPS LCD, Mediatek Helio G81 Ultra, 50 MP Camera
-5 (3)
-Rs. 18,999
-* * *
-Variant: 
-4GB+128GB
-6GB+128GB
-8GB+256GB
-Colors: Midnight Black
-Key Specifications
-  * OS: Android 14, HyperOS
-  * CPU: Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)
-  * GPU : Mali-G52 MC2
-  * Size: 6.88 inches, 112.4 cm2 (~84.0% screen-to-body ratio)
-  * Resolution: 720 x 1640 pixels (~260 ppi density)
-
-
-* * *
-Buy Now
-Add To Cart
-* * *
-Pickup
-Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
-Free Delivery
-Get it by 17th October
-* * *
-## Redmi 14C Overview
-The Xiaomi Redmi 14C is a remarkable smartphone that offers exceptional value without compromising on performance. With its stylish design, powerful features, and affordable price, this device is perfect for those seeking a reliable and efficient companion.
-### Design and Display
-This phone, which is the Redmi 13C's replacement, has a very different appearance. Instead of a squircle camera island on the side, we have a huge circular one aligned at the center. In Nepal, the color options are Midnight Black, Sage Green, and Dreamy Purple.  
-  
-The Redmi 14C's 6.88-inch screen has expanded significantly in size. Even though it's enormous, the display is only average in quality. Only HD+ resolution and 8-bit color with 70% NTSC gamut coverage are available. This device has a maximum brightness of 600 nits. It does, however, have a touch sampling rate of 240 Hz and a smooth refresh rate of 120 Hz.
-### Performance
-The Redmi 14C was intended to come with the MediaTek Helio G91 Ultra, according to the leak. But instead, the Helio G81 Ultra phone has arrived. It is a new chipset that seems to be an improvement over the 2020 G80 processor. It might have used a more recent fabrication technique, even if the peak frequency and core architecture seem to have remained the same.
-Meanwhile, there are three alternative configurations available for this phone. 4GB + 128GB, 6GB + 128GB, and 8GB + 256GB are those. Here, the storage is eMMC 5.1 and the RAM is LPDDR4X. Up to 8GB of additional memory can be added to this phone. Storage expansion is also an option, however it's unclear how much it can hold.
-### Camera and the rest
-It appears that the phone has four cameras, but this is untrue. Not even any lenses are housed in two of the back cutouts. One serves as an LED flash, and the other is utilized to brand the "50MP AI Camera." Yes, a 50MP main sensor is included with the Redmi 14C. Even the firm dismisses another lens by calling it a "auxiliary lens." As a result, this phone essentially has a single camera. A 13MP camera for selfies and face unlock is located on the front.
-Regarding the battery, the Redmi 14C has a 5,160 mAh cell and is capable of 18W rapid charging via a USB Type-C connector. For further protection, a fingerprint sensor is built inside the power button. 
-Redmi 14C Price in Nepal
-Variant
-Price
-4GB+128GB | Rs. 13,999  
-6GB+128GB | Rs. 15,999  
-8GB+256GB | Rs. 18,999  
-### 
-Specifications
-BODY
-Dimension
-171.9 x 77.8 x 8.2 mm (6.77 x 3.06 x 0.32 in)
-Weight
-204 / 207 / 211 g (7.20 oz)
-SIM
-Dual SIM (Nano-SIM, dual stand-by)
-Build
-Glass front, plastic frame, glass back or silicone polymer (eco leather) back
-Colors
-Midnight Black, Sage Green, Dreamy Purple, Starry Blue
-DISPLAY
-Type
-IPS LCD, 120Hz, 450 nits (typ), 600 nits (HBM)
-Size
-6.88 inches, 112.4 cm2 (~84.0% screen-to-body ratio)
-Resolution
-720 x 1640 pixels (~260 ppi density)
-PERFORMANCE
-OS
-Android 14, HyperOS
-Chipset
-Mediatek Helio G81 Ultra
-CPU
-Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)
-GPU 
-Mali-G52 MC2
-MEMORY
-Card Slot
-microSDXC (dedicated slot)
-Internal
-128GB 4GB RAM, 128GB 6GB RAM, 256GB 8GB RAM
-BACK CAMERA
-Dual
-50 MP, f/1.8, 28mm (wide), PDAF 2 MP, f/2.4, (depth) 0.08 MP (auxiliary lens)
-Features
-LED flash, HDR
-Video
-1080p@30fps
-FRONT CAMERA
-Single
-13 MP, f/2.0
-Features
-HDR 
-Video
-1080p@30fps
-SOUND
-Loudspeaker
-Yes
-3.5mm jack 
-Yes
-CONNECTIVITY
-WLAN
-Wi-Fi 802.11 a/b/g/n/ac, dual-band
-Bluetooth
-5.4, A2DP, LE
-Positioning
-GPS, GLONASS, GALILEO, BDS
-NFC
-Yes (market/region dependent)
-Radio
-FM radio
-USB
-USB Type-C 2.0
-FEATURES
-Sensors
-Fingerprint (side-mounted), accelerometer, compass Virtual proximity sensing
-BATTERY
-Type
-5160 mAh, non-removable
-Charging
-18W wired, PD
-
-
-
-
----------End of the Product---------
-
-
-
-# Infinix Hot 50 Pro 4G
-6.78 inches, AMOLED, Mediatek Helio G100 
-0 (0)
-Rs. 20,999
-* * *
-Variant: 
-8/128GB
-Colors: Titanium Grey
-Key Specifications
-  * OS: Android 14, up to 1 major Android upgrades, XOS 14.5
-  * CPU: Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
-  * GPU : Mali-G57 MC2
-  * Size: 6.78 inches, 109.9 cm2 (~86.1% screen-to-body ratio)
-  * Resolution: 1080 x 2436 pixels (~393 ppi density) Always-on display
-
-
-* * *
-Buy Now
-Add To Cart
-* * *
-Pickup
-Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
-Free Delivery
-Get it by 17th October
-* * *
-# Infinix Hot 50 Pro Price in Nepal: Stylish Design Meets High-End Display
-The Infinix Hot 50 Pro stands out in Nepal’s mid-range smartphone market with its sleek, modern design and premium display features. Sharing its design DNA with the rest of the Hot 50 series, the phone features flat edges, a clean back panel, and unique squircle-shaped camera modules that give it a distinct look. The device also comes with IP54 rating, making it resistant to dust and splashes — a rare bonus at this price point. Infinix is offering three color variants, including a sleek Titanium Grey. Up front, the 6.78-inch AMOLED screen boasts FHD+ resolution and an adaptive refresh rate of up to 120Hz. Whether you're scrolling social media or gaming, the 1,800 nits peak brightness, 1,500Hz touch sampling rate, and full DCI-P3 color gamut.
-**Powerful Performance with Gaming in Mind**
-Under the hood, the Infinix Hot 50 Pro in Nepal runs on the MediaTek Helio G100 chipset, built on a power-efficient 6nm process. With a peak clock speed of 2.2GHz, the phone is paired with up to 8GB RAM and 256GB of storage — expandable via a microSD slot up to 2TB. The device supports Dynamic RAM Expansion, effectively giving you more multitasking power. This setup ensures smooth performance for casual users and mobile gamers alike. Infinix has optimized the phone for games like FreeFire and Mobile Legends, offering up to 90FPS gameplay. Backing it all is a large 5,000mAh battery with 33W fast charging. Battery features like bypass charging, liquid detection, and overnight protection further enhance longevity — ideal for users in Nepal who need all-day battery on the go.
-**Camera and AI Features Tailored for Daily Use**
-For photography lovers, the Infinix Hot 50 Pro price in Nepal delivers solid camera hardware for the budget. The main 50MP rear camera, powered by the Hi-5022Q sensor, captures clear daylight shots with good detail. There’s also a secondary 2MP sensor, primarily for depth, though Infinix hasn’t detailed it fully. On the front, the 8MP selfie camera uses the GC08A8 sensor and is backed by Infinix AI for improved skin tones and lighting. Whether you’re snapping portraits or shooting TikToks, the AI enhancements help balance colors and contrast well. All in all, the Hot 50 Pro is a value-packed smartphone that balances design, performance, and display — making it a strong contender in Nepal’s competitive mobile space.
-Infinix Hot 50 Pro 4G Price in Nepal
-Variant
-Price
-8/128GB | Rs. 20,999  
-### 
-Specifications
-BODY
-Dimension
-167 x 76.4 x 7.4 mm (6.57 x 3.01 x 0.29 in) 
-Weight
-190 g
-Build
-Glass front, plastic back, plastic frame
-SIM
-Nano-SIM + Nano-SIM IP54 dust protected and water resistant (water splashes)
-DISPLAY
-Type
-AMOLED, 1B colors, 120Hz, 550 nits (typ), 1800 nits (peak) 
-Size
-6.78 inches, 109.9 cm2 (~86.1% screen-to-body ratio) 
-Resolution
-1080 x 2436 pixels (~393 ppi density) Always-on display 
-PERFORMANCE
-OS
-Android 14, up to 1 major Android upgrades, XOS 14.5 
-Chipset
-Mediatek Helio G100 (6 nm) 
-CPU
-Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55) 
-GPU 
-Mali-G57 MC2 
-MEMORY
-Card Slot
-microSDXC (dedicated slot) 
-Internal
-128GB 8GB RAM UFS 
-BACK CAMERA
-Triple
-50 MP, f/1.6, 27mm (wide), 1/2.8", AF 2 MP, f/2.4, (depth) 3rd unspecified camera
-Features
-Quad-LED flash, HDR, panorama 
-Video
-1440p@30fps, 1080p@30/60fps 
-FRONT CAMERA
-Single
-8 MP, f/2.0, (wide), 1/4.0" 
-Features
-LED flash 
-Video
-Yes
-SOUND
-Loudspeaker
-Yes, with stereo speakers 
-3.5mm jack 
-Yes 24-bit/192kHz Hi-Res audio
-CONNECTIVITY
-WLAN
-Wi-Fi 802.11 a/b/g/n/ac, dual-band 
-Bluetooth
-5.4, A2DP, LE 
-Positioning
-GPS
-NFC
-Yes
-Radio
-FM radio 
-USB
-USB Type-C 2.0, OTG 
-FEATURES
-Sensors
-Fingerprint (under display, optical), accelerometer, proximity, compass 
-BATTERY
-Type
-5000 mAh 
-Charging
-33W wired, 50% in 27 min Reverse wired Bypass charging
-NETWORK
-Technology
-GSM / HSPA / LTE
-2G bands
-GSM 850 / 900 / 1800 / 1900 
-3G bands
-HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
-4G bands
-1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41 
-Speed
-HSPA, LTE 
-
-
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Vivo Y19s Pro
 6.68 inch, 90Hz LCD, Unisoc T612, 50 MP Dual Camera
@@ -1965,9 +1801,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Vivo Y19s Pro 
 The vivo Y19s Pro is designed for users who want lasting performance without breaking the bank. Running on Android 15 and powered by the UNISOC T612 chipset, it handles everyday tasks smoothly whether it's social media, browsing, or light gaming.
@@ -2048,13 +1883,11 @@ NETWORK
 B1/B5/B8
 4G bands
 B1/B3/B5/B7/B8/B20/B28 (FDD-LTE) B38/B40/B41 (TD-LTE)
+ 
 
+ URL: https://hukut.com/vivo-y19s-pro 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Realme C63
 6.75 inches, IPS LCD, 90Hz, Unisoc Tiger T612 (12 nm)
@@ -2074,7 +1907,6 @@ Key Specifications
 
 * * *
 Freebies
-![Freebies](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FimageMon%252C%252026%2520May%25202025%252010%253A40%253A10%2520GMT.jpg1748256011585&w=256&q=75)
 Free Vibes 311 Earbuds Worth Rs. 1600
 Rs. 1600
 Free
@@ -2083,9 +1915,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Realme C63 Overview
 ### Design and Display
@@ -2186,13 +2017,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/realme-c63 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Vivo Y21d
 6.68 inch, 90Hz IPS LCD, Unisoc T7225, 50 MP Dual Camera, 6500 mAh Battery
@@ -2216,9 +2045,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 Vivo Y21d
 Vivo Y21d Price in Nepal
@@ -2291,13 +2119,11 @@ Type
 6500 mAh (TYP) Li-ion battery
 Charging
 44W Wired
+ 
 
+ URL: https://hukut.com/vivo-y21d 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Realme C67 5G
 6.72 inch, 120Hz IPS LCD, Mediatek Dimensity 6100+, 50 MP Camera
@@ -2315,7 +2141,6 @@ Key Specifications
 
 * * *
 Freebies
-![Freebies](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FimageMon%252C%252026%2520May%25202025%252010%253A40%253A10%2520GMT.jpg1748256011585&w=256&q=75)
 Free Vibes 311 Earbuds Worth Rs. 1600
 Rs. 1600
 Free
@@ -2324,9 +2149,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 Realme C67 5G Price in Nepal
 Variant
@@ -2411,13 +2235,11 @@ Fingerprint
 Side-mounted fingerprint sensor
 Face Unlock
 Face Recognition 
+ 
 
+ URL: https://hukut.com/realme-c67-5g-price-in-nepal 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Tecno Spark 30
 6.78 inch, 90Hz IPS LCD, Mediatek Helio G91, 64 MP Camera
@@ -2435,7 +2257,6 @@ Key Specifications
 
 * * *
 Freebies
-![Freebies](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FimageMon%252C%252026%2520May%25202025%252010%253A40%253A10%2520GMT.jpg1748256011585&w=256&q=75)
 Free Vibes 311 Earbuds Worth Rs. 1600
 Rs. 1600
 Free
@@ -2444,9 +2265,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ### Tecno Spark 30 : Overview 
 The Tecno Spark 30 is a compelling choice for those seeking a reliable smartphone with standout features at an affordable price. Here’s why it shines:
@@ -2543,13 +2363,11 @@ Charging
 FEATURES
 Sensors
 Fingerprint (side-mounted); unspecified sensors
+ 
 
+ URL: https://hukut.com/tecno-spark-30 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # HMD Crest Max
 6.67 inches, OLED, Unisoc T760 (6 nm)
@@ -2573,9 +2391,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # HMD Crest Max Overview: A Mid-Range Powerhouse for Nepalese Users
 **Power Meets Efficiency:**
@@ -2671,13 +2488,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 28, 40, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/hmd-crest-max 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Motorola Moto G45 5G
 6.5-inches,IPS LCD, 120Hz, Qualcomm SD 6s Gen 3, 50 MP Camera
@@ -2695,7 +2510,6 @@ Key Specifications
 
 * * *
 Freebies
-![Freebies](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FimageMon%252C%252026%2520May%25202025%252010%253A40%253A10%2520GMT.jpg1748256011585&w=256&q=75)
 Free Vibes 311 Earbuds Worth Rs. 1600
 Rs. 1600
 Free
@@ -2704,9 +2518,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ### Moto G45 5G: A Budget Phone That Delivers
 The Moto G45 5G is a stylish and affordable smartphone packed with useful features. It comes in three eye-catching colors—Brilliant Blue, Brilliant Green, and Viva Magenta—all with a soft, leather-like back. It’s also water-repellent and has Gorilla Glass protection, making it durable for everyday life.
@@ -2814,13 +2627,11 @@ HSDPA 800 / 850 / 900 / 1900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/motorola-moto-g45-5G 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Vivo Y29 4G
 6.68 inches, IPS LCD, 120Hz, Qualcomm Snapdragon 685
@@ -2843,7 +2654,6 @@ Key Specifications
 
 * * *
 Freebies
-![Freebies](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FimageMon%252C%252026%2520May%25202025%252010%253A40%253A10%2520GMT.jpg1748256011585&w=256&q=75)
 Free Vibes 311 Earbuds Worth Rs. 1600
 Rs. 1600
 Free
@@ -2852,9 +2662,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # Vivo Y29 Overview
 Vivo has consistently aimed to deliver a blend of robust performance and innovative design with its Y-series smartphones. The Vivo Y29 is no exception, offering a comprehensive package that caters to a wide range of users. From its durable design to its impressive camera capabilities, the Y29 stands out as a reliable choice in the mid-range segment. Let's delve into the key features of this device.
@@ -2966,13 +2775,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 5, 8, 20, 28, 38, 40, 41
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/vivo-y29 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Samsung Galaxy M16 5G
 6.7 inch, 90Hz Super AMOLED, Mediatek Dimensity 6300, 50 MP Camera
@@ -2982,7 +2789,6 @@ Rs. 27,999
 Save Rs. 1000
 OR
 Rs. 2,250/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-m16-5g)
 * * *
 Variant: 
 6/128GB
@@ -3002,9 +2808,8 @@ From Rs.2,250/mo*
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Samsung Galaxy M16 5G Overview
 ### Design and Display
@@ -3108,13 +2913,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 3, 5, 7, 8, 28, 40, 41, 66, 77, 78 SA/NSA/Sub6
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/samsung-galaxy-m16-5g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Redmi Note 14 4G
 6.67 inch, 120Hz AMOLED, Mediatek Helio G99 Ultra, 108 MP Camera
@@ -3137,7 +2940,6 @@ Key Specifications
 
 * * *
 Freebies
-![Freebies](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FimageMon%252C%252026%2520May%25202025%252010%253A40%253A10%2520GMT.jpg1748256011585&w=256&q=75)
 Free Vibes 311 Earbuds Worth Rs. 1600
 Rs. 1600
 Free
@@ -3146,9 +2948,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ### Redmi Note 14 4G: Overview
 #### Design and Display
@@ -3275,13 +3076,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/xiaomi-redmi-note-14-4g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Honor X7d 4G
 6.77 inch, 120Hz TFT LCD, Qualcomm SM6225 Snapdragon 685, 108 MP Dual Camera, 6500 mAh Battery
@@ -3306,9 +3105,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Honor X7d 4G Overview
 ### Design and Build
@@ -3415,13 +3213,11 @@ HSDPA 850 / 900 / 1900 / 2100
 LTE
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/honor-x7d-4g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Infinix Hot 60 Pro+
 6.78 inch, 144Hz AMOLED, Mediatek Helio G200, 50 MP Camera
@@ -3445,9 +3241,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Infinix Hot 60 Pro+
 ### Camera Setup
@@ -3547,13 +3342,149 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
 Speed
 HSPA, LTE
+ 
+
+ URL: https://hukut.com/infinix-hot-60-pro+ 
+
+-----End of Product-----
+
+# Samsung Galaxy M17
+6.7 inch, 90Hz Super AMOLED, Exynos 1330, 50 MP Triple Camera
+0 (0)
+Rs. 27,999
+OR
+Rs. 2,333/mo*
+* * *
+Variant: 
+4/128GB
+6/128GB
+Colors: Sapphire Black
+Key Specifications
+  * OS: Android 15, up to 6 major Android upgrades, One UI 7
+  * CPU: Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)
+  * GPU : Mali-G68 MP2
+  * Size: 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio)
+  * Resolution: 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)
 
 
+* * *
+Buy Now
+Pay with EMI
+From Rs.2,333/mo*
+* * *
+Pickup
+Available Today at Hukut Store
+Free Delivery
+Get it by 5th November
+* * *
+## Samsung Galaxy M17 5G Overview
+### Design and Build Quality
+The Samsung Galaxy M17 5G brings a refined and durable design crafted with a Gorilla Glass Victus front, plastic back, and plastic frame. Measuring 7.5 mm thin and weighing 192 grams, it feels sleek and comfortable in hand. The phone also carries an IP54 rating, making it dust-protected and splash-resistant—ideal for everyday use.
+### Display
+It features a 6.7-inch Super AMOLED display with a 90Hz refresh rate, offering fluid visuals and vibrant colors. The screen reaches up to 1100 nits (HBM) brightness for better outdoor visibility and is protected by Corning Gorilla Glass Victus. With 1080 x 2340 resolution and a 19.5:9 ratio, it delivers crisp detail and immersive viewing for streaming and gaming.
+### Performance and Software
+Under the hood, the Galaxy M16 5G runs on the Exynos 1330 (5nm) chipset paired with an octa-core CPU and Mali-G68 GPU, ensuring smooth multitasking and efficient performance. It ships with Android 15 and One UI 7, and Samsung promises up to 6 major Android upgrades, ensuring long-term software support and security.
+### Cameras
+On the back, the phone features a triple-camera setup with a 50MP main sensor (OIS) for clear and stable shots, a 5MP ultrawide lens, and a 2MP macro camera for close-ups. The 13MP front camera handles selfies and video calls well, both supporting 1080p@30fps recording. Features like gyro-EIS, HDR, and panorama enhance image stability and detail.
+### Battery and Charging
+The Galaxy M16 5G is powered by a 5000mAh battery, offering excellent endurance for a full day of heavy use. It supports 25W wired fast charging, ensuring quick top-ups when you need them most.
+### Connectivity and Extras
+Connectivity options include Wi-Fi ac (dual-band), Bluetooth 5.3, USB Type-C, NFC, and GPS with multiple satellite systems for accurate positioning. The side-mounted fingerprint sensor ensures quick and secure unlocking. Although it lacks a 3.5mm headphone jack, it compensates with a reliable loudspeaker setup.
+Samsung Galaxy M17 Price in Nepal
+Variant
+Price
+4/128GB | Rs. 25,999  
+6/128GB | Rs. 27,999  
+### 
+Specifications
+BODY
+Dimension
+164.4 x 77.9 x 7.5 mm (6.47 x 3.07 x 0.30 in)
+Weight
+192 g (6.77 oz)
+Build
+Glass front (Gorilla Glass Victus), plastic back, plastic frame
+Colors
+Moonlight Silver, Sapphire Black
+DISPLAY
+Type
+Super AMOLED, 90Hz, 1100 nits (HBM)
+Size
+6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio)
+Resolution
+1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)
+Protection
+Corning Gorilla Glass Victus
+PERFORMANCE
+OS
+Android 15, up to 6 major Android upgrades, One UI 7
+Chipset
+Exynos 1330 (5 nm)
+CPU
+Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)
+GPU 
+Mali-G68 MP2
+MEMORY
+Card Slot
+microSDXC
+Internal
+128GB 4GB RAM, 128GB 6GB RAM
+BACK CAMERA
+Triple
+50 MP, f/1.8, (wide), 1/2.76", 0.64µm, AF, OIS 5 MP, f/2.2, (ultrawide), 1/5.0", 1.12µm 2 MP (macro)
+Features
+LED flash, panorama, HDR
+Video
+1080p@30fps, gyro-EIS
+FRONT CAMERA
+Single
+13 MP, f/2.0, (wide), 1/3.1", 1.12µm
+Video
+1080p@30fps
+SOUND
+Loudspeaker
+Yes
+3.5mm jack 
+No
+CONNECTIVITY
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct
+Bluetooth
+5.3, A2DP, LE
+Positioning
+GPS, GALILEO, GLONASS, BDS, QZSS
+NFC
+Yes
+Radio
+No
+USB
+USB Type-C 2.0
+BATTERY
+Type
+4900 mAh
+Charging
+45W wired, PD, QC2, 65% in 30 min 15W wireless, Qi2 compatible Reverse wireless
+FEATURES
+Sensors
+Fingerprint (side-mounted), accelerometer, gyro, proximity, compass
+NETWORK
+Technology
+GSM / HSPA / LTE / 5G
+2G bands
+GSM 850 / 900 / 1800 / 1900
+3G bands
+HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+4G bands
+1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 38, 40, 41, 66
+5G bands
+1, 3, 5, 7, 8, 28, 40, 41, 66, 77, 78 SA/NSA/Sub6
+Speed
+HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/samsung-galaxy-m17 
 
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Samsung Galaxy A17 5G
 6.67 inch, 90Hz Super AMOLED, Exynos 1330, 50 MP Triple Camera, 5000 mAh Battery
@@ -3561,7 +3492,6 @@ HSPA, LTE
 Rs. 28,999
 OR
 Rs. 2,417/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-a17-5g)
 * * *
 Variant: 
 6/128GB
@@ -3583,9 +3513,8 @@ From Rs.2,417/mo*
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 Samsung Galaxy A17 5G Price in Nepal
 Variant
@@ -3680,13 +3609,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/samsung-galaxy-a17-5g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Redmi Note 14 5G
 6.67-inches, MediaTek Dimensity 7025-Ultra, 120Hz eye-care display
@@ -3713,9 +3640,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Redmi Note 14 5G Overview
 ### Design and Display
@@ -3821,13 +3747,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/xiaomi-redmi-note-14-5g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Motorola Moto G64 5g
 6.5 inch, 120Hz IPS LCD, Mediatek Dimensity 7025, 50 MP Camera
@@ -3854,9 +3778,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ### Moto G64 5G: Overview
 The Moto G64 5G is a solid choice for anyone looking for a budget-friendly smartphone with excellent features. It comes in a sleek and durable design with an IP52 water-repellent body and three eye-catching color options: Mint Green, Pearl Blue, and Ice Lilac. Its 6.5-inch FHD+ display with a smooth 120Hz refresh rate ensures a great viewing experience for videos, browsing, and gaming.
@@ -3960,13 +3883,11 @@ HSDPA 800 / 850 / 900 / 1900 / 2100
 1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/motorola-moto-g64-5g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Infinix Note 50s
 6.78 inches, AMOLED, Mediatek Dimensity 7300 Ultimate
@@ -3990,9 +3911,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 Infinix Note 50s Price in Nepal
 Variant
@@ -4085,13 +4005,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/infinix-note-50s 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Honor X8c
 6.7 inches, AMOLED, 120Hz, Qualcomm SM6225 Snapdragon 685 
@@ -4111,7 +4029,6 @@ Key Specifications
 
 * * *
 Freebies
-![Freebies](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FimageThu%252C%252022%2520May%25202025%252011%253A51%253A46%2520GMT.jpg1747914706803&w=256&q=75)
 Free Zeblaze GTS 3 Smartwatch Worth Rs. 3,000
 Rs. 3,000
 Free
@@ -4120,9 +4037,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # Honor X8c Price in Nepal and Overview
 The Honor X8c is an excellent mid-range smartphone now available in Nepal at a starting price of around Rs. 28,000. It combines an attractive design, powerful performance, and premium features, making it a top choice for users seeking a reliable phone under a budget. With multiple variants including 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, and 512GB 8GB RAM, users in Nepal can choose a configuration that best fits their needs and budget. The phone is slim and lightweight, measuring 7.1mm in thickness and weighing just 174g, offering a comfortable grip and a premium in-hand feel.
@@ -4219,13 +4135,11 @@ HSDPA 850 / 900 / 1900 / 2100
 LTE
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/honor-x8c 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Nothing CMF Phone 1
 6.7 inch, 120Hz AMOLED, Mediatek Dimensity 7300, 50 MP Camera
@@ -4253,11 +4167,9 @@ Buy Now
 Add To Cart
 * * *
 Frequently bought together
-![Nothing CMF Phone 1](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2Fnothing-cmf-phone-%2520one.webp1720437026068&w=256&q=75)
 Nothing CMF Phone 1
 Rs. 34499
 Rs. 36300
-![CMF Watch Pro 2](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2Fcmf-watch-2-pro-orange.webp1720440558267&w=256&q=75)
 CMF Watch Pro 2
 Rs. 10499
 Rs. 12000
@@ -4265,9 +4177,8 @@ Buy 2 Together for Rs 44,998
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## CMF Phone 1 Overview
 ### Design and Display
@@ -4357,32 +4268,26 @@ Type
 5000 mAh
 Charging
 33W wired 5W reverse wired
+ 
 
+ URL: https://hukut.com/nothing-cmf-phone-1-price-in-nepal 
 
+-----End of Product-----
 
-
----------End of the Product---------
-
-
-
-# Nothing CMF Phone 2 Pro
-6.77 inch, 120Hz AMOLED, Mediatek Dimensity 7300 Pro, 50 MP Triple Camera
-4.5 (2)
-Rs. 34,999
+# ZTE nubia Neo 3 GT
+6.8 inch, 120Hz AMOLED, Unisoc T9100, 50 MP Dual Camera, 6000 mAh Battery
+0 (0)
+Rs. 36,999
 * * *
-Charger: 
-Charger included inside the box
-Without Charger
 Variant: 
-8/128GB
-8/256GB
-Colors: Orange
+12/256GB
+Colors: Interstellar Gray
 Key Specifications
-  * OS: Android 15, up to 3 major Android upgrades, Nothing OS 3.2
-  * CPU: Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
-  * GPU : Mali-G615 MC2
-  * Size: 6.77 inches, 110.9 cm2 (~86.7% screen-to-body ratio)
-  * Resolution: 1080 x 2392 pixels (~388 ppi density)
+  * OS: Android 15
+  * CPU: Octa-core (1x2.7 GHz Cortex-A76 & 3x2.3 GHz Cortex-A76 & 4x2.1 GHz Cortex-A55)
+  * GPU : Mali-G57
+  * Size: 6.8 inches, 111.9 cm2
+  * Resolution: 1080 x 2392 pixels (~386 ppi density)
 
 
 * * *
@@ -4391,123 +4296,120 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
-## CMF Phone 2 Pro Overview
-### Design and Display
-What if your phone didn’t just look different but _felt_ different too? That’s the vibe CMF is going for with the CMF Phone 2 Pro, a smartphone that offers a pleasantly personalized alternative to the typical glass slabs. Much like its predecessor, this phone comes with a user-replaceable back cover which you can unscrew and swap out in minutes. It’s a modular touch you don’t often see, especially in this price range.
-The design also packs subtle durability perks. It carries an IP54 rating and can survive water splashes and even shallow dips (up to 25cm for 20 minutes), according to the manufacturer. CMF is shipping the Phone 2 Pro in four colors in Nepal: White, Black, Orange, and Light Green.
-Flip it over, and you’re greeted with a massive 6.77-inch AMOLED display. It’s bright peaking at a crazy 3000 nits and supports HDR10+ and Ultra HDR, making it great for watching vivid, contrast-heavy content. With 120Hz refresh rate and 1 billion colors, this panel isn’t just smooth; it’s gorgeous.
+## ZTE nubia Neo 3 GT Overview:
+### Design and Build
+This gaming-centric smartphone blends futuristic aesthetics with practical design. It features pressure-sensitive zones that act as gaming triggers, providing a console-like experience for competitive play. Adding to its visual appeal, it includes RGB lighting on the back, giving it a bold, gamer-oriented look. Though the exact dimensions and weight aren’t specified, the overall design prioritizes ergonomics and cooling efficiency.
+### Display
+The device boasts a 6.8-inch AMOLED display with a 120Hz refresh rate, ensuring buttery-smooth visuals in games and daily use. The screen delivers up to 1300 nits peak brightness, offering excellent visibility even under sunlight. With a 1080 x 2392 resolution (~386 ppi), it provides crisp detail and vibrant color accuracy perfect for gaming, streaming, and entertainment.
 ### Performance
-At the core of the Phone 2 Pro is the MediaTek Dimensity 7300 Pro chip, built on a power-efficient 4nm process. The CPU here includes four high-performance Cortex-A78 cores, and it’s paired with a Mali-G615 MC2 GPU for graphics.
-This setup is backed by 8GB of RAM and up to 256GB of internal storage, with the bonus of microSD card support. The phone boots on Android 15 right out of the box, topped with Nothing OS 3.2. CMF is promising 3 major Android updates, which is reassuring in a world where midrange phones often get left behind.
-### Camera
-This is where the Phone 2 Pro really turns up the heat. On the back, you get a triple camera system featuring a 50MP main sensor, a 50MP telephoto lens with 2x optical zoom, and an 8MP ultrawide shooter. That’s a solid, versatile combo for a phone in this segment.
-For video lovers, it supports 4K recording at 30fps, and there’s gyro-EIS for steadier shots. Up front, a 16MP selfie camera gets the job done for video calls and social media snaps with 1080p video support.
+Powering the smartphone is the Unisoc T9100 (6nm) chipset, paired with a Mali-G57 GPU. Its octa-core CPU setup (1x2.7GHz Cortex-A76, 3x2.3GHz Cortex-A76, and 4x2.1GHz Cortex-A55) ensures a balance of speed, efficiency, and multitasking power. Running on Android 15, the phone offers an optimized interface with advanced gaming features and smooth UI transitions.
+### Memory and Storage
+Equipped with 12GB RAM and 256GB of internal storage, this phone provides ample space and memory for demanding applications and large game files. There’s no card slot, but the onboard storage should be sufficient for most users.
+### Camera System
+The rear setup includes a 50MP main camera (PDAF) and a 2MP depth sensor, supported by LED flash, HDR, and panorama modes for creative shots. It also supports video recording, suitable for casual photography and streaming. On the front, a 16MP selfie camera handles video calls and selfies with 1080p@30fps video capture.
 ### Battery and Charging
-Keeping the lights on is a 5000mAh battery, which should comfortably last a full day. It supports 33W wired charging and also comes with 5W reverse wired charging, letting you top up accessories like earbuds on the go.
-Connectivity-wise, you get the usual suspects: 5G, WiFi 6, Bluetooth 5.3, and NFC (depending on the region). And yes, there’s a USB Type-C port, but no headphone jack you probably saw that coming.
-Nothing CMF Phone 2 Pro Price in Nepal
+Power efficiency is one of its strong suits, with either a 6000mAh or 5000mAh battery depending on the model variant. The phone supports 80W wired fast charging, minimizing downtime between gaming sessions. Additionally, Bypass Charging helps reduce heat during charging-intensive gaming, enhancing both safety and performance.
+### Connectivity and Features
+This model supports 5G, 4G LTE, and dual Nano-SIM connectivity, ensuring fast, stable connections for online gaming. It includes Wi-Fi, Bluetooth, GPS, GLONASS, GALILEO, and BDS for precise positioning. NFC is available in select regions. The USB Type-C port ensures fast data transfer and charging support. The inclusion of stereo speakers enhances the overall audio experience, providing immersive sound while gaming or watching videos.
+### Security and Sensors
+The phone includes an under-display optical fingerprint sensor along with standard sensors like accelerometer, gyroscope, proximity, and compass. These enhance interactivity and control in both gaming and everyday use.
+### Price and Availability
+Announced on March 3, 2025, and released in June 2025, this smartphone targets gamers and power users. With its high-refresh AMOLED screen, gaming triggers, RGB lighting, and 80W charging, it delivers a performance-focused experience at a competitive midrange price.
+ZTE nubia Neo 3 GT Price in Nepal
 Variant
 Price
-8/128GB | Without Charger | Rs. 34,999  
-8/128GB | Charger included inside the box | Rs. 35,999  
-8/256GB | Without Charger | Rs. 39,499  
-8/256GB | Charger included inside the box | Rs. 40,499  
+12/256GB | Rs. 36,999  
 ### 
 Specifications
 BODY
 Dimension
-164 x 78 x 7.8 mm (6.46 x 3.07 x 0.31 in)
+Unspecified 
 Weight
-185 g (6.53 oz)
-Build
-User-replaceable back cover IP54 dust protected and water resistant (water splashes) Manufacturer-rated water-resistant (up to 25cm for 20 min)
+Unspecified 
 Colors
-White, Black, Orange, Light Green
+Interstellar Gray
+Build
+Pressure sensitive zones (Gaming triggers) RGB light (on the back)
 DISPLAY
 Type
-AMOLED, 1B colors, 120Hz, HDR10+, 800 nits (typ), 1300 nits (HBM), 3000 nits (peak)
+AMOLED, 120Hz, 1300 nits (peak)
 Size
-6.77 inches, 110.9 cm2 (~86.7% screen-to-body ratio)
+6.8 inches, 111.9 cm2
 Resolution
-1080 x 2392 pixels (~388 ppi density)
-Protection
-Panda Glass Always-on display Ultra HDR image support
+1080 x 2392 pixels (~386 ppi density)
 PERFORMANCE
 OS
-Android 15, up to 3 major Android upgrades, Nothing OS 3.2
+Android 15
 Chipset
-Mediatek Dimensity 7300 Pro (4 nm)
+Unisoc T9100 (6 nm)
 CPU
-Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
+Octa-core (1x2.7 GHz Cortex-A76 & 3x2.3 GHz Cortex-A76 & 4x2.1 GHz Cortex-A55)
 GPU 
-Mali-G615 MC2
+Mali-G57
 MEMORY
-Card Slot
-microSDXC
 Internal
-128GB 8GB RAM, 256GB 8GB RAM
+256GB 12GB RAM
+Card Slot
+No
 BACK CAMERA
 Features
-LED flash, panorama, HDR
+LED flash, HDR, panorama
 Video
-4K@30fps, 1080p@30/60/120fps, gyro-EIS
-Triple
-50 MP, f/1.9, 24mm (wide), 1/1.57", 1.0µm, dual pixel PDAF 50 MP, f/1.9, 50mm (telephoto), 1/2.88", PDAF, 2x optical zoom 8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0", 1.12µm
+Yes
+Dual
+50 MP, (wide), PDAF 2 MP, (depth)
 FRONT CAMERA
 Single
-16 MP, f/2.0, 22mm (wide), 1/3.0"
+16 MP
 Video
 1080p@30fps
 SOUND
-Loudspeaker
-Yes
 3.5mm jack 
-No
+Unspecified
+Loudspeaker
+Yes, with stereo speakers
 CONNECTIVITY
 WLAN
-Wi-Fi 802.11 a/b/g/n/ac/6, dual-band
+Yes
 Bluetooth
-5.3, A2DP, LE
+Yes
 Positioning
-GPS, GALILEO, GLONASS, BDS, QZSS
+GPS, GLONASS, GALILEO, BDS
 NFC
-market/region dependent
+Yes (market/region dependent)
 Radio
-No
+Unspecified
 USB
-USB Type-C
+USB Type-C 
 FEATURES
 Sensors
-Fingerprint (under display, optical), accelerometer, gyro, proximity, compass
+Fingerprint (under display, optical), accelerometer, gyro, compass, proximity
 BATTERY
 Type
-5000 mAh
+6000 mAh
 Charging
-33W wired 5W reverse wired
+80W wired Bypass Charging
 NETWORK
 Technology
 GSM / HSPA / LTE / 5G
 2G bands
 GSM 850 / 900 / 1800 / 1900
 3G bands
-HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
+HSDPA 850 / 900 / 1900 / 2100
 4G bands
-1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 20, 28, 38, 40, 41, 42, 48, 66, 71 - International
+LTE
 5G bands
-1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 20, 28, 38, 40, 41, 42, 48, 66, 71 SA/NSA - International
+SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/zte-nubia-neo-3-gt 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Infinix GT 30
 6.78 inch, 144Hz AMOLED, Mediatek Dimensity 7400, 64 MP Dual Camera, 5500 mAh Battery
@@ -4531,9 +4433,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 Infinix GT 30
 Infinix GT 30 Price in Nepal
@@ -4627,13 +4528,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA/Sub6
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/infinix-gt-30 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Samsung Galaxy M36
 6.7 inches, Super AMOLED, 120Hz, Exynos 1380 (5 nm), 0% EMI available
@@ -4641,7 +4540,6 @@ HSPA, LTE, 5G
 Rs. 36,999
 OR
 Rs. 3,083/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-m36)
 * * *
 Hukut Exclusive: 
 FREE 25W Samsung Charger worth Rs. 2499
@@ -4664,9 +4562,8 @@ From Rs.3,083/mo*
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # Samsung Galaxy M36: Overview
 **Display and Cameras**
@@ -4681,7 +4578,7 @@ Samsung Galaxy M36 Price in Nepal
 Variant
 Price
 FREE 25W Samsung Charger worth Rs. 2499 | 8/128GB | Rs. 36,999  
-FREE 25W Samsung Charger worth Rs. 2499 | 8/256GB | Rs. 41,999  
+8/256GB | FREE 25W Samsung Charger worth Rs. 2499 | Rs. 41,999  
 ### 
 Specifications
 BODY
@@ -4769,13 +4666,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 3, 5, 8, 28, 38, 40, 41, 78 SA/NSA/Sub6
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/samsung-galaxy-m36 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Realme 14T 5G
 6.67 inch, AMOLED, 120Hz, Mediatek Dimensity 6300, 50 MP Camera
@@ -4799,9 +4694,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Realme 14T 5G Overview
 The Realme 14T 5G features a 6.67-inch AMOLED display with a 120Hz refresh rate and up to 2100 nits peak brightness. It is powered by the MediaTek Dimensity 6300 chipset, paired with up to 12GB of RAM and 256GB of internal storage. The phone includes a dual rear camera setup with a 50MP main sensor and a 2MP secondary lens, along with a 16MP front camera. It runs on Android 15, has a 6000mAh battery with 45W fast charging support, and skips both the headphone jack and NFC.
@@ -4902,13 +4796,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/realme-14t-5g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Motorola Moto G85 5g
 6.67 inch, 120Hz P-OLED, Qualcomm SM6375 Snapdragon 6s Gen 3, 50 MP Camera
@@ -4933,9 +4825,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ### Moto G85 5G: Overview
 The Moto G85 5G is a stylish and feature-packed smartphone that builds on the popular G-series design language. It offers three attractive color options: Olive Green and Cobalt Blue with a vegan leather finish, and Urban Grey with a sleek PMMA material. The phone features a 6.67-inch FHD+ pOLED display with a smooth 120Hz refresh rate, 240Hz touch sampling, and vibrant 10-bit color depth, making it perfect for videos and gaming. With up to 1,600 nits peak brightness, it ensures excellent visibility even in bright sunlight.
@@ -5034,13 +4925,11 @@ HSDPA 850 / 900 / 1900 / 2100
 1, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 77, 78 SA/NSA/Sub6
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/motorola-moto-g85-5g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Vivo V50 Lite 4G
 6.67 inch, 120Hz AMOLED, Qualcomm SM6225 Snapdragon 685, 50 MP Dual Camera
@@ -5064,9 +4953,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Vivo V50 Lite 4G Overview
 ### Display and Design
@@ -5161,13 +5049,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/vivo-v50-lite-4g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Honor X9c Smart 5G
 6.8 inches, TFT LCD, Mediatek Dimensity 7025 Ultra
@@ -5176,8 +5062,6 @@ Rs. 38,999
 * * *
 Variant: 
 12/256GB
-Free: 
-Honor Choice Headphones worth Rs.7999
 Colors: Ocean Cyan
 Key Specifications
   * OS: Android 14, Magic OS 8
@@ -5193,9 +5077,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # Honor X9c Smart Overview
 ## Design and Display
@@ -5209,7 +5092,7 @@ The Honor X9c Smart is powered by a 5800mAh Li-ion Polymer battery, providing lo
 Honor X9c Smart 5G Price in Nepal
 Variant
 Price
-12/256GB | Honor Choice Headphones worth Rs.7999 | Rs. 38,999  
+12/256GB | Rs. 38,999  
 ### 
 Specifications
 BODY
@@ -5280,13 +5163,152 @@ Type
 Li-Po 5800 mAh
 Charging
 35W wired 5W reverse wired
+ 
+
+ URL: https://hukut.com/honor-x9c-smart 
+
+-----End of Product-----
+
+# Nothing CMF Phone 2 Pro
+6.77 inch, 120Hz AMOLED, Mediatek Dimensity 7300 Pro, 50 MP Triple Camera
+4.5 (2)
+Rs. 39,499
+* * *
+Charger: 
+Charger included inside the box
+Without Charger
+Variant: 
+8/128GB
+8/256GB
+Colors: White
+Key Specifications
+  * OS: Android 15, up to 3 major Android upgrades, Nothing OS 3.2
+  * CPU: Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
+  * GPU : Mali-G615 MC2
+  * Size: 6.77 inches, 110.9 cm2 (~86.7% screen-to-body ratio)
+  * Resolution: 1080 x 2392 pixels (~388 ppi density)
 
 
+* * *
+Buy Now
+Add To Cart
+* * *
+Pickup
+Available Today at Hukut Store
+Free Delivery
+Get it by 5th November
+* * *
+## CMF Phone 2 Pro Overview
+### Design and Display
+What if your phone didn’t just look different but _felt_ different too? That’s the vibe CMF is going for with the CMF Phone 2 Pro, a smartphone that offers a pleasantly personalized alternative to the typical glass slabs. Much like its predecessor, this phone comes with a user-replaceable back cover which you can unscrew and swap out in minutes. It’s a modular touch you don’t often see, especially in this price range.
+The design also packs subtle durability perks. It carries an IP54 rating and can survive water splashes and even shallow dips (up to 25cm for 20 minutes), according to the manufacturer. CMF is shipping the Phone 2 Pro in four colors in Nepal: White, Black, Orange, and Light Green.
+Flip it over, and you’re greeted with a massive 6.77-inch AMOLED display. It’s bright peaking at a crazy 3000 nits and supports HDR10+ and Ultra HDR, making it great for watching vivid, contrast-heavy content. With 120Hz refresh rate and 1 billion colors, this panel isn’t just smooth; it’s gorgeous.
+### Performance
+At the core of the Phone 2 Pro is the MediaTek Dimensity 7300 Pro chip, built on a power-efficient 4nm process. The CPU here includes four high-performance Cortex-A78 cores, and it’s paired with a Mali-G615 MC2 GPU for graphics.
+This setup is backed by 8GB of RAM and up to 256GB of internal storage, with the bonus of microSD card support. The phone boots on Android 15 right out of the box, topped with Nothing OS 3.2. CMF is promising 3 major Android updates, which is reassuring in a world where midrange phones often get left behind.
+### Camera
+This is where the Phone 2 Pro really turns up the heat. On the back, you get a triple camera system featuring a 50MP main sensor, a 50MP telephoto lens with 2x optical zoom, and an 8MP ultrawide shooter. That’s a solid, versatile combo for a phone in this segment.
+For video lovers, it supports 4K recording at 30fps, and there’s gyro-EIS for steadier shots. Up front, a 16MP selfie camera gets the job done for video calls and social media snaps with 1080p video support.
+### Battery and Charging
+Keeping the lights on is a 5000mAh battery, which should comfortably last a full day. It supports 33W wired charging and also comes with 5W reverse wired charging, letting you top up accessories like earbuds on the go.
+Connectivity-wise, you get the usual suspects: 5G, WiFi 6, Bluetooth 5.3, and NFC (depending on the region). And yes, there’s a USB Type-C port, but no headphone jack you probably saw that coming.
+Nothing CMF Phone 2 Pro Price in Nepal
+Variant
+Price
+8/128GB | Without Charger | Rs. 34,999  
+8/128GB | Charger included inside the box | Rs. 35,999  
+Without Charger | 8/256GB | Rs. 39,499  
+Charger included inside the box | 8/256GB | Rs. 40,499  
+### 
+Specifications
+BODY
+Dimension
+164 x 78 x 7.8 mm (6.46 x 3.07 x 0.31 in)
+Weight
+185 g (6.53 oz)
+Build
+User-replaceable back cover IP54 dust protected and water resistant (water splashes) Manufacturer-rated water-resistant (up to 25cm for 20 min)
+Colors
+White, Black, Orange, Light Green
+DISPLAY
+Type
+AMOLED, 1B colors, 120Hz, HDR10+, 800 nits (typ), 1300 nits (HBM), 3000 nits (peak)
+Size
+6.77 inches, 110.9 cm2 (~86.7% screen-to-body ratio)
+Resolution
+1080 x 2392 pixels (~388 ppi density)
+Protection
+Panda Glass Always-on display Ultra HDR image support
+PERFORMANCE
+OS
+Android 15, up to 3 major Android upgrades, Nothing OS 3.2
+Chipset
+Mediatek Dimensity 7300 Pro (4 nm)
+CPU
+Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
+GPU 
+Mali-G615 MC2
+MEMORY
+Card Slot
+microSDXC
+Internal
+128GB 8GB RAM, 256GB 8GB RAM
+BACK CAMERA
+Features
+LED flash, panorama, HDR
+Video
+4K@30fps, 1080p@30/60/120fps, gyro-EIS
+Triple
+50 MP, f/1.9, 24mm (wide), 1/1.57", 1.0µm, dual pixel PDAF 50 MP, f/1.9, 50mm (telephoto), 1/2.88", PDAF, 2x optical zoom 8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0", 1.12µm
+FRONT CAMERA
+Single
+16 MP, f/2.0, 22mm (wide), 1/3.0"
+Video
+1080p@30fps
+SOUND
+Loudspeaker
+Yes
+3.5mm jack 
+No
+CONNECTIVITY
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac/6, dual-band
+Bluetooth
+5.3, A2DP, LE
+Positioning
+GPS, GALILEO, GLONASS, BDS, QZSS
+NFC
+market/region dependent
+Radio
+No
+USB
+USB Type-C
+FEATURES
+Sensors
+Fingerprint (under display, optical), accelerometer, gyro, proximity, compass
+BATTERY
+Type
+5000 mAh
+Charging
+33W wired 5W reverse wired
+NETWORK
+Technology
+GSM / HSPA / LTE / 5G
+2G bands
+GSM 850 / 900 / 1800 / 1900
+3G bands
+HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
+4G bands
+1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 20, 28, 38, 40, 41, 42, 48, 66, 71 - International
+5G bands
+1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 26, 20, 28, 38, 40, 41, 42, 48, 66, 71 SA/NSA - International
+Speed
+HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/nothing-cmf-phone-2-pro 
 
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Redmi Note 14 Pro 5G
 6.67 inch, 120Hz AMOLED, Mediatek Dimensity 7300 Ultra, 200 MP Camera
@@ -5313,9 +5335,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ### Xiaomi Redmi Note 14 Pro 5G: Overview
 #### Design and Display
@@ -5445,13 +5466,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/xiaomi-redmi-note-14-pro-5g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Nothing phone (2a)
 6.7 inch, AMOLED, Mediatek Dimensity 7200 Pro, 50 MP Camera
@@ -5479,9 +5498,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Nothing Phone (2a): A Solid Mid-Ranger
 The Nothing Phone (2a) is a mid-range smartphone that retains the iconic Glyph Interface while introducing several improvements in design, performance, and camera capabilities.
@@ -5534,13 +5552,150 @@ Type Li-Po 5000 mAh, non-removable Charging 45W Fast Charging
 Network
 Technology
 Technology GSM / HSPA / LTE / 5G 2G bands GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 3G bands HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 4G bands 1, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 39, 40, 41, 42, 66 5G bands 1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA Speed HSPA, LTE (CA), 5G 
+ 
+
+ URL: https://hukut.com/nothing-phone-2a-price-in-nepal 
+
+-----End of Product-----
+
+# vivo V60 Lite 4G
+6.77 inch, 120Hz AMOLED, Qualcomm SM6225 Snapdragon 685, 50 MP Dual Camera, 6500 mAh Battery
+0 (0)
+Rs. 39,999
+* * *
+Variant: 
+8/256GB
+Colors: Ocean Night Black
+Key Specifications
+  * OS: Android 15, Funtouch 15
+  * CPU: Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53)
+  * GPU : Adreno 610
+  * Size: 6.77 inches, 110.9 cm2 (~88.7% screen-to-body ratio)
+  * Resolution: 1080 x 2392 pixels (~388 ppi density)
 
 
+* * *
+Buy Now
+Add To Cart
+* * *
+Pickup
+Available Today at Hukut Store
+Free Delivery
+Get it by 5th November
+* * *
+## VIVO V60 Lite Overview:
+### Design and Build
+The vivo V60 Lite offers a sleek and modern design, measuring 163.8 x 76.3 x 7.6 mm and weighing 194g. It features a glass front, plastic back, and plastic frame, striking a balance between elegance and durability. The phone carries an IP65 rating for dust and water resistance and is MIL-STD-810H compliant, providing added confidence against minor drops and environmental stress. Available in Vitality Pink, Titanium Mist Blue, and Ocean Night Black, it delivers both sophistication and style.
+### Display
+The device sports a vibrant 6.77-inch AMOLED display with 1 billion colors, a 120Hz refresh rate, and HDR10+ support. With a 1080 x 2392 resolution (~388 ppi) and an impressive ~88.7% screen-to-body ratio, visuals appear crisp, fluid, and immersive ideal for multimedia, gaming, and browsing.
+### Performance
+Under the hood, the vivo V60 Lite runs on the Qualcomm SM6225 Snapdragon 685 chipset paired with the Adreno 610 GPU. Its octa-core CPU Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53) ensures smooth multitasking and efficient performance for both productivity and entertainment. It ships with Android 15 based on Funtouch OS 15, offering a clean, intuitive, and customizable software experience.
+### Memory and Storage
+The phone comes with 256GB of UFS 3.1 storage paired with either 8GB RAM. While there’s no card slot, the generous built-in storage and fast read/write speeds ensure seamless performance and quick app loading times.
+### Camera System
+On the rear, the V60 Lite houses a dual-camera setup featuring:
+  * 50MP main camera (f/1.8, PDAF)
+  * 8MP ultrawide lens (120° FoV)
 
 
----------End of the Product---------
+It supports HDR, panorama, and a ring-LED flash for balanced lighting. Video recording is capped at 1080p@30fps, ideal for casual content creation.
+For selfies, there’s a 32MP front camera (f/2.5) with 1080p@30fps video capability, producing clear and detailed shots for social media and video calls.
+### Battery and Charging
+Powering the device is a large 6500mAh silicon-carbon Li-Ion battery, optimized for longevity and performance. It supports 90W wired fast charging, reaching 100% in just 52 minutes, along with 6W reverse wired charging and bypass charging to reduce heat during gaming or long sessions. This setup makes the V60 Lite one of the most power-efficient phones in its segment.
+### Security and Sensors
+For biometrics, it features an under-display optical fingerprint sensor, while standard sensors include accelerometer, gyroscope, proximity, and compass. It also supports Circle to Search, enhancing user interaction and accessibility.
+vivo V60 Lite 4G Price in Nepal
+Variant
+Price
+8/256GB | Rs. 39,999  
+### 
+Specifications
+BODY
+Dimension
+163.8 x 76.3 x 7.6 mm (6.45 x 3.00 x 0.30 in)
+Weight
+194 g (6.84 oz)
+Colors
+Titanium Mist Blue, Ocean Night Black
+Durability
+IP65 dust tight and water resistant (low pressure water jets)
+Build
+Glass front, plastic back, plastic frame
+DISPLAY
+Type
+AMOLED, 1B colors, 120Hz, HDR10+
+Size
+6.77 inches, 110.9 cm2 (~88.7% screen-to-body ratio)
+Resolution
+1080 x 2392 pixels (~388 ppi density)
+PERFORMANCE
+OS
+Android 15, Funtouch 15
+Chipset
+Qualcomm SM6225 Snapdragon 685 (6 nm)
+CPU
+Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53)
+GPU 
+Adreno 610
+MEMORY
+Internal
+256GB 8GB RAM UFS 2.2
+Card Slot
+No
+BACK CAMERA
+Features
+Ring-LED flash, panorama, HDR
+Video
+1080p@30fps
+Dual
+50 MP, f/1.8, (wide), 1/1.95", 0.8µm, PDAF 8 MP, f/2.2, 120˚ (ultrawide)
+FRONT CAMERA
+Single
+32 MP, f/2.5, (wide), 1/3.1"
+Video
+1080p@30fps
+SOUND
+3.5mm jack 
+No
+Loudspeaker
+Yes, with stereo speakers
+CONNECTIVITY
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac, dual-band
+Bluetooth
+5.0, A2DP, LE
+Positioning
+GPS, GLONASS, GALILEO, BDS, QZSS
+NFC
+Yes (market/region dependent)
+Radio
+No
+USB
+USB Type-C 2.0, OTG
+FEATURES
+Sensors
+Fingerprint (under display, optical), accelerometer, gyro, proximity, compass Circle to Search
+BATTERY
+Type
+Si/C Li-Ion 6500 mAh
+Charging
+90W wired, 100% in 52 min 6W reverse wired Bypass charging
+NETWORK
+Technology
+GSM / HSPA / LTE
+2G bands
+GSM 850 / 900 / 1800 / 1900
+3G bands
+HSDPA 850 / 900 / 2100
+4G bands
+1, 3, 5, 7, 8, 20, 28, 38, 40, 41
+Speed
+HSPA, LTE
+ 
 
+ URL: https://hukut.com/vivo-v60-lite-4g 
 
+-----End of Product-----
 
 # Honor 400 Lite 
 6.7 inches, AMOLED, 120Hz, Mediatek Dimensity 7025 Ultra
@@ -5564,9 +5719,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # Honor 400 Lite: Overview
 **Stylish Design and Bright AMOLED Display**
@@ -5662,13 +5816,11 @@ LTE
 SA/NSA 
 Speed
 HSPA, LTE, 5G 
+ 
 
+ URL: https://hukut.com/honor-400-lite 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Vivo V50 Lite 5G
 6.67 inch, 120Hz AMOLED, Mediatek Dimensity 6300, 50 MP Dual Camera
@@ -5692,9 +5844,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Vivo V50 Lite 5G Overview
 ### Design and Display
@@ -5792,152 +5943,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/vivo-v50-lite-5g 
 
-
-
----------End of the Product---------
-
-
-
-# Samsung Galaxy A26
-6.7 inches, Super AMOLED, Exynos 1380
-0 (0)
-Rs. 45,999
-OR
-Rs. 3,833/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-a26)
-* * *
-Variant: 
-8/256GB
-Colors: Green
-Key Specifications
-  * OS: Android 15, up to 6 major Android upgrades, One UI 7
-  * CPU: Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
-  * GPU : Mali-G68 MP5
-  * Size: 6.7 inches, 110.2 cm2 (~86.7% screen-to-body ratio)
-  * Resolution: 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)
-
-
-* * *
-Buy Now
-Pay with EMI
-From Rs.3,833/mo*
-* * *
-Pickup
-Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
-Free Delivery
-Get it by 17th October
-* * *
-**Samsung Galaxy A26 5G Overview**
-**Design and Display**
-The Samsung Galaxy A26 5G is designed with a sleek and modern aesthetic. It features a slimmer build compared to its predecessor, the Galaxy A25 5G, measuring 164 x 77.5 x 7.7 mm and weighing 200 grams. This makes it comfortable to hold and easy to carry around. The phone is available in three stylish color options: White, Black, and Mint, catering to different preferences. The highlight of the design is its 6.7-inch AMOLED display, which offers a 120Hz refresh rate and a resolution of 2340 x 1080p. This high refresh rate ensures smooth scrolling and a more responsive user experience. Additionally, the display boasts a peak brightness of 1000 nits, making it perfect for viewing content in various lighting conditions.
-**Performance and Software**
-Under the hood, the Galaxy A26 5G is powered by Samsung’s Exynos 1380 chipset, which provides a balanced performance for everyday use. The device supports up to 8GB of RAM and up to 256GB of internal storage, which can be expanded via a microSD card up to 2TB. This ample storage capacity ensures that users can store a significant amount of apps, photos, and videos without worrying about running out of space. The phone runs on Android 15 with Samsung’s One UI 7, offering a clean and intuitive user interface. Samsung guarantees 6 major Android updates, ensuring that the device stays up-to-date with the latest features and security patches. While the device is capable of handling most tasks efficiently, it may not be the best choice for avid gamers who require high-performance hardware.
-**Cameras**
-The Galaxy A26 5G is equipped with a versatile triple-camera setup on the back, making it a great choice for photography enthusiasts. The main camera features a 50MP sensor with Optical Image Stabilization (OIS), ensuring clear and stable photos even in low-light conditions. The 8MP ultrawide sensor allows for capturing wider landscapes and group photos, while the 2MP macro sensor is perfect for close-up shots of small objects. On the front, the phone boasts a 13MP selfie camera, which is ideal for taking high-quality selfies and making video calls. The combination of these cameras provides users with a comprehensive photography experience, covering various shooting scenarios.
-**Battery and Additional Features**
-The Galaxy A26 5G is powered by a substantial 5,000mAh battery, which is expected to provide all-day usage on a single charge. It supports 25W wired charging, allowing the battery to recharge quickly when needed. The device also includes a side-mounted fingerprint sensor for convenient and secure unlocking. Additionally, it offers IP67 water and dust resistance, making it more durable and suitable for use in various environments. Samsung Knox security ensures that users’ data is protected with advanced security features. The phone also features “Awesome Intelligence” capabilities, which were introduced in the latest A-series lineup, enhancing the overall user experience.
-Overall, the Samsung Galaxy A26 5G is a well-rounded device that offers a good balance of design, performance, camera capabilities, and additional features. It is suitable for users who are looking for a reliable smartphone with a large display, decent performance, and excellent camera quality, all at an affordable price.
-Samsung Galaxy A26 Price in Nepal
-Variant
-Price
-8/256GB | Rs. 45,999  
-### 
-Specifications
-BODY
-Dimension
-164 x 77.5 x 7.7 mm (6.46 x 3.05 x 0.30 in)
-Weight
-200 g 
-Build
-Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+)
-SIM
-Nano-SIM + Nano-SIM IP67 dust/water resistant (up to 1m for 30 min)
-Colors
-White, Green
-DISPLAY
-Type
-Super AMOLED, 120Hz
-Size
-6.7 inches, 110.2 cm2 (~86.7% screen-to-body ratio)
-Resolution
-1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)
-Protection
-Corning Gorilla Glass Victus+ Always-on display
-PERFORMANCE
-OS
-Android 15, up to 6 major Android upgrades, One UI 7
-Chipset
-Exynos 1380 (5 nm)
-CPU
-Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
-GPU 
-Mali-G68 MP5
-MEMORY
-Card Slot
-microSDXC (uses shared SIM slot)
-Internal
-8GB + 256GB
-BACK CAMERA
-Triple
-50 MP, f/1.8, 27mm (wide), 1/2.76", 0.64µm, PDAF, OIS 8 MP, f/2.2, 120˚ (ultrawide), 1/4", 1.12µm 2 MP, f/2.4, (macro)
-Features
-LED flash, panorama, HDR
-Video
-4K@30fps, 1080p@30fps, 720p@480fps, gyro-EIS
-FRONT CAMERA
-Single
-13 MP, f/2.2, (wide), 1/3.06", 1.12µm
-Video
-1080p@30fps
-SOUND
-Loudspeaker
-Yes
-3.5mm jack 
-No
-CONNECTIVITY
-WLAN
-Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct
-Bluetooth
-5.3, A2DP, LE
-Positioning
-GPS, GALILEO, GLONASS, BDS, QZSS
-NFC
-Yes (market/region dependent)
-Radio
-Unspecified
-USB
-USB Type-C 2.0, OTG
-FEATURES
-Sensors
-Fingerprint (side-mounted), accelerometer, gyro, compass Virtual proximity sensing Circle to Search
-BATTERY
-Type
-5000 mAh
-Charging
-25W wired
-NETWORK
-Technology
-GSM / HSPA / LTE / 5G
-2G bands
-GSM 850 / 900 / 1800 / 1900
-3G bands
-HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
-4G bands
-1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 26, 28, 32, 38, 40, 41, 66
-5G bands
-1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6
-Speed
-HSPA, LTE, 5G
-
-
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Motorola Edge 50 Fusion
 6.7 inch, 120Hz P-OLED, Qualcomm SM7435-AB Snapdragon 7s Gen 2, 50 MP Camera
@@ -5961,9 +5971,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ### Motorola Edge 50 Fusion: Stylish, Powerful, and Reliable
 The Motorola Edge 50 Fusion is a premium mid-range phone with the Snapdragon 7s Gen 2 processor, up to 12GB RAM, and 512GB storage for smooth performance and multitasking. Its 6.7” FHD+ OLED display with up to 144Hz refresh rate delivers stunning visuals, protected by Gorilla Glass 5 and an IP68 water-resistant build.
@@ -6068,13 +6077,11 @@ HSDPA 850 / 900 / 1900 / 2100
 1, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/motorola-edge-50-fusion 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Infinix GT 30 Pro
 6.78 inches, AMOLED, Mediatek Dimensity 8350 Ultimate
@@ -6101,9 +6108,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # Infinix GT 30 Pro Overview
 **Performance**
@@ -6210,13 +6216,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA/Sub6 
 Speed
 HSPA, LTE, 5G 
+ 
 
+ URL: https://hukut.com/infinix-gt-30-pro 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Honor X9c
 Qualcomm Snapdragon 6 Gen 1, AMOLED
@@ -6237,19 +6241,13 @@ Key Specifications
 
 
 * * *
-Freebies
-![Freebies](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FimageThu%252C%252022%2520May%25202025%252011%253A52%253A36%2520GMT.jpg1747914757152&w=256&q=75)
-Free Honor Choice X7 Lite Worth Rs. 5000
-Rs. 5000
-Free
 Buy Now
 Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Honor X9c Overview
 The Honor X9c is a stylish and feature-packed mid-range smartphone designed for users who prioritize durability, display quality, and battery life. With an elegant 6.78-inch AMOLED display boasting 1 billion colors, a 120Hz refresh rate, and a peak brightness of 4000 nits, the X9c delivers an immersive viewing experience with vibrant colors and smooth scrolling.
@@ -6356,21 +6354,160 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 48, 66, 71, 75, 77, 78, 79 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
+
+ URL: https://hukut.com/honor-x9c 
+
+-----End of Product-----
+
+# vivo V60 Lite 5G
+6.77 inch, 120Hz AMOLED, Mediatek Dimensity 7360 Turbo, 50 MP Dual Camera, 6500 mAh Battery
+0 (0)
+Rs. 48,999
+* * *
+Variant: 
+12/256GB
+Colors: Ocean Night Black
+Key Specifications
+  * OS: Android 15, Funtouch 15
+  * CPU: Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
+  * GPU : Mali-G615 MC2
+  * Size: 6.77 inches, 110.9 cm2 (~88.7% screen-to-body ratio)
+  * Resolution: 1080 x 2392 pixels (~388 ppi density)
 
 
+* * *
+Buy Now
+Add To Cart
+* * *
+Pickup
+Available Today at Hukut Store
+Free Delivery
+Get it by 5th November
+* * *
+## VIVO V60 Lite Overview:
+### Design and Build
+The vivo V60 Lite offers a sleek and modern design, measuring 163.8 x 76.3 x 7.6 mm and weighing 194g. It features a glass front, plastic back, and plastic frame, striking a balance between elegance and durability. The phone carries an IP65 rating for dust and water resistance and is MIL-STD-810H compliant, providing added confidence against minor drops and environmental stress. Available in Vitality Pink, Titanium Mist Blue, and Ocean Night Black, it delivers both sophistication and style.
+### Display
+The device sports a vibrant 6.77-inch AMOLED display with 1 billion colors, a 120Hz refresh rate, and HDR10+ support. With a 1080 x 2392 resolution (~388 ppi) and an impressive ~88.7% screen-to-body ratio, visuals appear crisp, fluid, and immersive ideal for multimedia, gaming, and browsing.
+### Performance
+Under the hood, the vivo V60 Lite runs on the MediaTek Dimensity 7360 Turbo (4nm) chipset paired with the Mali-G615 MC2 GPU. Its octa-core CPU (4x2.5GHz Cortex-A78 + 4x2.0GHz Cortex-A55) ensures smooth multitasking and efficient performance for both productivity and entertainment. It ships with Android 15 based on Funtouch OS 15, offering a clean, intuitive, and customizable software experience.
+### Memory and Storage
+The phone comes with 256GB of UFS 3.1 storage paired with either 8GB or 12GB RAM. While there’s no card slot, the generous built-in storage and fast read/write speeds ensure seamless performance and quick app loading times.
+### Camera System
+On the rear, the V60 Lite houses a dual-camera setup featuring:
+  * 50MP main camera (f/1.8, PDAF)
+  * 8MP ultrawide lens (120° FoV)
 
 
----------End of the Product---------
+It supports HDR, panorama, and a ring-LED flash for balanced lighting. Video recording is capped at 1080p@30fps, ideal for casual content creation.
+For selfies, there’s a 32MP front camera (f/2.5) with 1080p@30fps video capability, producing clear and detailed shots for social media and video calls.
+### Battery and Charging
+Powering the device is a large 6500mAh silicon-carbon Li-Ion battery, optimized for longevity and performance. It supports 90W wired fast charging, reaching 100% in just 52 minutes, along with 6W reverse wired charging and bypass charging to reduce heat during gaming or long sessions. This setup makes the V60 Lite one of the most power-efficient phones in its segment.
+### Connectivity and Features
+The vivo V60 Lite supports 5G, dual 4G LTE, and dual Nano-SIM connectivity. It includes Wi-Fi 6, Bluetooth 5.4, GPS, GLONASS, GALILEO, BDS, and QZSS for accurate positioning. Additional features include NFC, USB Type-C 2.0 with OTG, and stereo speakers for immersive audio. However, it omits the 3.5mm headphone jack, aligning with modern design trends.
+### Security and Sensors
+For biometrics, it features an under-display optical fingerprint sensor, while standard sensors include accelerometer, gyroscope, proximity, and compass. It also supports Circle to Search, enhancing user interaction and accessibility.
+vivo V60 Lite 5G Price in Nepal
+Variant
+Price
+12/256GB | Rs. 48,999  
+### 
+Specifications
+BODY
+Dimension
+163.8 x 76.3 x 7.6 mm (6.45 x 3.00 x 0.30 in)
+Weight
+194 g (6.84 oz)
+Colors
+Titanium Mist Blue, Ocean Night Black
+Durability
+IP65 dust tight and water resistant (low pressure water jets)
+Build
+Glass front, plastic back, plastic frame
+DISPLAY
+Type
+AMOLED, 1B colors, 120Hz, HDR10+
+Size
+6.77 inches, 110.9 cm2 (~88.7% screen-to-body ratio)
+Resolution
+1080 x 2392 pixels (~388 ppi density)
+PERFORMANCE
+OS
+Android 15, Funtouch 15
+Chipset
+Mediatek Dimensity 7360 Turbo (4 nm)
+CPU
+Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)
+GPU 
+Mali-G615 MC2
+MEMORY
+Internal
+256GB 12GB RAM UFS 3.1
+Card Slot
+No
+BACK CAMERA
+Features
+Ring-LED flash, panorama, HDR
+Video
+1080p@30fps
+Dual
+50 MP, f/1.8, (wide), 1/1.95", 0.8µm, PDAF 8 MP, f/2.2, 120˚ (ultrawide)
+FRONT CAMERA
+Single
+32 MP, f/2.5, (wide), 1/3.1"
+Video
+1080p@30fps
+SOUND
+3.5mm jack 
+No
+Loudspeaker
+Yes, with stereo speakers
+CONNECTIVITY
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac/6, dual-band
+Bluetooth
+5.4, A2DP, LE
+Positioning
+GPS, GLONASS, GALILEO, BDS, QZSS
+NFC
+Yes
+Radio
+No
+USB
+USB Type-C 2.0, OTG
+FEATURES
+Sensors
+Fingerprint (under display, optical), accelerometer, gyro, proximity, compass Circle to Search
+BATTERY
+Type
+Si/C Li-Ion 6500 mAh
+Charging
+90W wired, 100% in 52 min 6W reverse wired Bypass charging
+NETWORK
+Technology
+GSM / HSPA / LTE / 5G
+2G bands
+GSM 850 / 900 / 1800 / 1900
+3G bands
+HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+4G bands
+1, 2, 3, 4, 5, 7, 8, 19, 20, 28, 38, 39, 40, 41
+5G bands
+1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 77, 78 SA/NSA
+Speed
+HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/vivo-v60-lite-5g 
 
+-----End of Product-----
 
 # OnePlus Nord CE 5
 6.77 inch, 120Hz AMOLED, Mediatek Dimensity 8350 Apex, 50 MP Dual Camera, 7100 mAh Battery
 5 (1)
 Rs. 48,999
 * * *
-Launch Offer: 
-Free Anker K20i worth Rs. 2499
 Variant: 
 8/256GB
 Colors: Marble Mist
@@ -6388,9 +6525,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 OnePlus Nord CE 5
 OnePlus Nord CE 5 Price in Nepal
@@ -6482,13 +6618,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/oneplus-nord-ce-5 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Redmi Note 14 Pro+ 5G
 6.67 inch, 120Hz AMOLED, Qualcomm SM7635 Snapdragon 7s Gen 3, 200 MP Camera
@@ -6515,9 +6649,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Xiaomi Redmi Note 14 Pro+ 5G: Overview
 ### Design and Display
@@ -6650,13 +6783,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/xiaomi-redmi-note-14-pro+5g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Realme 14 5G
 6.67inch, 120Hz AMOLED, Qualcomm Snapdragon 6 Gen 4, 50 MP Camera
@@ -6680,9 +6811,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Realme 14 5G: Overview
 The Realme 14 5G features a 6.67-inch AMOLED display with a 120Hz refresh rate and peak brightness of 2000 nits. It is powered by the Snapdragon 6 Gen 4 processor paired with up to 12GB of RAM and 512GB of internal storage. The phone includes a 50MP main camera with OIS and a 16MP front-facing camera, both capable of recording in 1080p or higher. It runs on Android 15 with Realme UI 6.0 and houses a 6000mAh battery that supports 45W wired charging.
@@ -6786,13 +6916,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/realme-14-5g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Samsung Galaxy A54
 6.4 inch, 120Hz Super AMOLED, Exynos 1380, 50 MP Camera
@@ -6802,7 +6930,6 @@ Rs. 59,999
 Save Rs. 8000
 OR
 Rs. 4,333/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-a-54-price-in-nepal)
 * * *
 Variant: 
 8/256GB
@@ -6821,11 +6948,9 @@ Pay with EMI
 From Rs.4,333/mo*
 * * *
 Frequently bought together
-![Samsung Galaxy A54](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FF97AE858611B8D9-A54-Black.webp&w=256&q=75)
 Samsung Galaxy A54
 Rs. 51999
 Rs. 59999
-![Soundcore K20i TWS Earbuds](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FAnker-Soundcore-K20i-Price-in-Nepal-2.png1727070419037&w=256&q=75)
 Soundcore K20i TWS Earbuds
 Rs. 2499
 Rs. 3000
@@ -6833,9 +6958,8 @@ Buy 2 Together for Rs 54,498
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Samsung Galaxy A54 Overview:
 ### Design
@@ -6898,13 +7022,11 @@ Single
 BACK CAMERA
 Triple
 50 MP, f/1.8, (wide), 1/1.56", 1.0µm, PDAF, OIS 12 MP, f/2.2, 123˚ (ultrawide), 1.12µm 5 MP, f/2.4, (macro)
+ 
 
+ URL: https://hukut.com/samsung-galaxy-a-54-price-in-nepal 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Nothing Phone (2a) Plus
 6.7 inch, 120Hz AMOLED, Mediatek Dimensity 7350 Pro (4 nm), 50 MP Camera
@@ -6928,9 +7050,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Nothing Phone (2a) Plus Overview
 ### Display and Design
@@ -7036,13 +7157,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA
 Speed
 HSPA, LTE (CA), 5G
+ 
 
+ URL: https://hukut.com/nothing-phone-(2a)-plus 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Samsung Galaxy A36
 6.7 inches, Super AMOLED, Qualcomm Snapdragon 6 Gen 3
@@ -7050,7 +7169,6 @@ HSPA, LTE (CA), 5G
 Rs. 54,999
 OR
 Rs. 4,583/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-a36)
 * * *
 Variant: 
 8/128GB
@@ -7072,9 +7190,8 @@ From Rs.4,583/mo*
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # **Samsung Galaxy A36 Overview**
 **Design and Display**  
@@ -7177,13 +7294,148 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6
 Speed
 HSPA, LTE, 5G
+ 
+
+ URL: https://hukut.com/samsung-galaxy-a36 
+
+-----End of Product-----
+
+# Honor 200
+✅ 1-Year Breakage Insurance Included!
+0 (0)
+Rs. 54,999
+Rs. 64,999
+Save Rs. 10000
+* * *
+Internal Memory: 
+256GB
+512GB
+RAM: 
+12GB
+Colors: White
+Key Specifications
+  * OS: Android 14, MagicOS 8
+  * CPU: Octa-core (1x2.63 GHz Cortex-A715 & 4x2.4 GHz Cortex-A715 & 3x1.8 GHz Cortex-A510)
+  * GPU : Adreno 720
+  * Size: 6.7 inches, 108.5 cm2 (~90.0% screen-to-body ratio)
+  * Resolution: 1200 x 2664 pixels (~436 ppi density)
 
 
+* * *
+Freebies
+Free Honor Choice X7 Lite Worth Rs. 5000
+Rs. 5000
+Free
+Buy Now
+Add To Cart
+* * *
+Frequently bought together
+Honor 200
+Rs. 54999
+Rs. 64999
+Honor Watch 4
+Rs. 21990
+Rs. 21990
+Buy 2 Together for Rs 76,989
+* * *
+Pickup
+Available Today at Hukut Store
+Free Delivery
+Get it by 5th November
+* * *
+## Honor 200 Overview
+### Design and Display
+Design-wise, the Honor 200 looks almost similar to its “Pro” counterpart. That being said, it comes with a curved back and a large ovular camera island. It is available in four finishes wherein the Velvet Black is the only monotone option. Meanwhile, all three remaining options — Moonlight White, Coral Pink, and Sky Blue, have a unique patterned finish on the back.
+On the front, the phone has a slightly curved screen stretching 6.7 inches. The panel here is an AMOLED spanning FHD+ in resolution. Additionally, you get a 120Hz refresh rate, a peak brightness of 4,000 nits, and a 3,840Hz PWM dimming. Other than that, the Honor 200 covers the full DCI-P3 color gamut while also offering wet hand touch support.
+### Performance
+This phone does not stand out as much in terms of performance. The Honor 200 packs the Qualcomm Snapdragon 7 Gen 3 processor for primary computing. It is a decent midrange processor that launched in November 2023. This silicon comes with 4nm fabrication and offers a peak clock speed of up to 2.63 GHz.
+In addition to the chipset, the Honor 200 is available in five different memory and storage configurations. The latest offering is available in three RAM sizes — 8GB, 12GB, and 16. On the other hand, it comes in 256GB and 512GB storage options. Furthermore, this phone also packs a vapor chamber with an area of 5,029mm2 which regulates the phone’s temperature.
+### Camera and the rest
+The Honor 200 is well-equipped in the camera department. Starting with the 50MP primary camera that is coupled with the 1/1.56” Sony IMX906 sensor with OIS support. Moreover, it also houses a telephoto lens as well as an ultrawide/macro camera as auxiliary units. The former is a 50MP shooter with the Sony IMX856 sensor while the latter is a 12MP snapper. In the meantime, the front camera is also a 50MP unit.
+In the tank, this phone packs a large 5,200 mAh battery with 100W wired charging support. The cell in the Honor 200 is the company’s silicon-carbon battery that offers a leading level of endurance. Other than that, it comes with 5G cellular, WiFi 6, Bluetooth v5.3, and NFC support.
+Honor 200 Price in Nepal
+Variant
+Price
+12GB | 512GB | Rs. 64,999  
+### 
+Specifications
+BODY
+Dimension
+161.5 x 74.6 x 7.7 mm (6.36 x 2.94 x 0.30 in)
+Weight
+187 g (6.60 oz)
+SIM
+Nano-SIM + eSIM Nano-SIM + Nano-SIM
+Colors
+Moonlight White, Black
+DISPLAY
+Type
+OLED, 1B colors, 120Hz, HDR, 4000 nits (peak)
+Size
+6.7 inches, 108.5 cm2 (~90.0% screen-to-body ratio)
+Resolution
+1200 x 2664 pixels (~436 ppi density)
+PERFORMANCE
+OS
+Android 14, MagicOS 8
+Chipset
+Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)
+CPU
+Octa-core (1x2.63 GHz Cortex-A715 & 4x2.4 GHz Cortex-A715 & 3x1.8 GHz Cortex-A510)
+GPU 
+Adreno 720
+MEMORY
+Card Slot
+No
+Internal
+256GB 12GB RAM, 512GB 12GB RAM
+BACK CAMERA
+Triple
+50 MP, f/2.0, (wide), 1/1.56", 1.0µm, PDAF, OIS 50 MP, f/2.4, (telephoto), PDAF, OIS, 2.5x optical zoom 12 MP, f/2.2, 112˚ (ultrawide), AF
+Features
+LED flash, HDR, panorama
+Video
+4K@30fps, 1080p@30/60fps, gyro-EIS, OIS
+FRONT CAMERA
+Single
+50 MP, f/2.1, (wide)
+Features
+HDR
+Video
+4K@30fps, 1080p@30fps, gyro-EIS
+SOUND
+Loudspeaker
+Yes, with stereo speakers
+3.5mm jack 
+No
+CONNECTIVITY
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct
+Bluetooth
+5.3, A2DP, LE, aptX HD
+Positioning
+GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)
+NFC
+Yes
+Infrared port
+Yes
+Radio
+No
+USB
+USB Type-C 2.0, OTG
+FEATURES
+Sensors
+Fingerprint (under display, optical), accelerometer, gyro, compass, ultrasound proximity
+BATTERY
+Type
+Si/C Li-Ion 5200 mAh
+Charging
+100W wired, 57% in 15 min 5W reverse wired
+ 
 
+ URL: https://hukut.com/honor-200-price-in-nepal 
 
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Nothing Phone (3a)
 6.77 inches, AMOLED, Qualcomm Snapdragon 7s Gen 3 
@@ -7209,9 +7461,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Nothing Phone (3a) Overview
 ### Body Design and Build
@@ -7322,13 +7573,157 @@ LTE
 SA/NSA
 Speed
 HSPA, LTE (CA), 5G
+ 
+
+ URL: https://hukut.com/nothing-phone-(3a) 
+
+-----End of Product-----
+
+# Oppo Reno14 F
+6.57 inch, 120Hz AMOLED, Qualcomm SM6450 Snapdragon 6 Gen 1, 50 MP Triple Camera, 6000 mAh Battery
+0 (0)
+Rs. 57,999
+* * *
+Variant: 
+16/512GB
+Colors: Glossy Pink
+Key Specifications
+  * OS: Android 15, ColorOS 15
+  * CPU: Octa-core (4x2.2 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)
+  * GPU : Adreno 710
+  * Size: 6.57 inches, 105.0 cm2 (~88.6% screen-to-body ratio)
+  * Resolution: 1080 x 2372 pixels (~397 ppi density)
 
 
+* * *
+Buy Now
+Add To Cart
+* * *
+Pickup
+Available Today at Hukut Store
+Free Delivery
+Get it by 5th November
+* * *
+## Oppo Reno14 F Overview
+### Design and Build
+The Oppo Reno14 F features a slim and elegant design measuring 158.1 x 75 x 7.7 mm and weighing 180g. Its build quality stands out with IP68/IP69 certification, meaning it’s dust-tight and water-resistant against high-pressure jets and submersion up to 2 meters for 30 minutes. Users can choose from eye-catching finishes like Glossy Pink, Luminous Green, and Opal Blue, giving it a premium yet playful look.
+### Display
+On the front, the Reno14 F sports a 6.57-inch AMOLED panel with 1 billion colors and a smooth 120Hz refresh rate. It reaches 600 nits typical and 1400 nits (HBM) brightness, ensuring excellent visibility even outdoors. With a 1080 x 2372 resolution and ~88.6% screen-to-body ratio, visuals look crisp and vibrant. The display is protected by AGC Dragontrail DT-Star D+ glass with a Mohs hardness level of 5, offering solid scratch resistance.
+### Performance
+Under the hood, the smartphone is powered by the Snapdragon 6 Gen 1 (4nm) chipset paired with the Adreno 710 GPU. The octa-core CPU (4x2.2GHz Cortex-A78 + 4x1.8GHz Cortex-A55) provides balanced performance for multitasking, gaming, and everyday apps. It runs Android 15 with ColorOS 15, offering a smooth, customizable, and feature-rich user experience.
+### Memory and Storage
+The Reno14 F comes in multiple variants: 256GB with 8GB or 12GB RAM, and 512GB with 12GB RAM, using UFS 3.1 storage for faster read/write speeds. It also supports microSDXC expansion, ensuring plenty of room for apps, media, and files.
+### Camera System
+Oppo equips the Reno14 F with a versatile triple rear camera setup:
+  * 50MP main (f/1.8, OIS, PDAF)
+  * 8MP ultrawide (112° FoV)
+  * 2MP macro
 
 
----------End of the Product---------
+The system supports 4K@30fps and 1080p up to 120fps recording with gyro-EIS and optical image stabilization (OIS) for smooth footage. It also includes a color spectrum sensor, HDR, panorama, and LED flash for balanced, detailed shots.
+On the front, a 32MP selfie camera with autofocus captures sharp portraits and supports 1080p@30fps video recording.
+### Battery and Charging
+Powering the device is a robust 6000mAh battery, ideal for long hours of use. It supports 45W wired fast charging with PD2, QC2.0, and 44W PPS standards, as well as reverse wired charging. This combination ensures quick recharging and added flexibility on the go.
+### Connectivity and Features
+The Reno14 F offers extensive network support, including 5G, dual 4G LTE, and dual SIM or eSIM options. Connectivity options include Wi-Fi 5 (dual-band), Bluetooth 5.1 with aptX HD & LHDC 5, GPS, GLONASS, GALILEO, BDS, and QZSS for accurate navigation. It also features NFC (market-dependent), USB Type-C 2.0 with OTG, and stereo speakers for a rich multimedia experience. However, the 3.5mm headphone jack is omitted, as expected in modern midrange designs.
+### Security and Sensors
+Security is handled by an under-display optical fingerprint sensor, while additional sensors include accelerometer, gyro, proximity, and compass, ensuring smooth functionality across apps and features.
+Oppo Reno14 F Price in Nepal
+Variant
+Price
+16/512GB | Rs. 57,999  
+### 
+Specifications
+BODY
+Dimension
+158.1 x 75 x 7.7 mm (6.22 x 2.95 x 0.30 in)
+Weight
+180 g (6.35 oz)
+Colors
+Glossy Pink, Luminous Green, Opal Blue
+Durability
+IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)
+DISPLAY
+Type
+AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM)
+Size
+6.57 inches, 105.0 cm2 (~88.6% screen-to-body ratio)
+Resolution
+1080 x 2372 pixels (~397 ppi density)
+Protection
+AGC Dragontrail DT-Star D+, Mohs level 5
+PERFORMANCE
+OS
+Android 15, ColorOS 15
+Chipset
+Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)
+CPU
+Octa-core (4x2.2 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)
+GPU 
+Adreno 710
+MEMORY
+Internal
+512GB 12GB RAM UFS 3.1
+Card Slot
+microSDXC
+BACK CAMERA
+Features
+Color spectrum sensor, LED flash, HDR, panorama
+Video
+4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS
+Triple
+50 MP, f/1.8, 26mm (wide), 1/1.95", 0.8µm, PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0", 1.12µm, AF 2 MP, f/2.4, (macro)
+FRONT CAMERA
+Single
+32 MP, f/2.0, 22mm (wide), 1/2.74", 0.8µm, 
+Features
+Panorama
+Video
+1080p@30fps
+SOUND
+3.5mm jack 
+No
+Loudspeaker
+Yes, with stereo speakers
+CONNECTIVITY
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac, dual-band
+Bluetooth
+5.1, A2DP, LE, aptX HD, LHDC 5
+Positioning
+GPS, GLONASS, GALILEO, BDS, QZSS
+NFC
+Yes (market/region dependent)
+Radio
+Unspecified
+USB
+USB Type-C 2.0, OTG
+FEATURES
+Sensors
+Fingerprint (under display, optical), accelerometer, gyro, proximity, compass
+BATTERY
+Type
+6000 mAh
+Charging
+45W wired, PD2, QC2.0, 44W PPS Reverse wired
+NETWORK
+Technology
+GSM / HSPA / LTE / 5G
+2G bands
+GSM 850 / 900 / 1800 / 1900
+3G bands
+HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - version 1 HSDPA 850 / 900 / 2100 - version 2 HSDPA 900 / 2100 - version 2
+4G bands
+1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 38, 39, 40, 41, 42, 48, 66 - version 1 1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 42 - version 2 1, 3, 5, 8, 40 - version 3
+5G bands
+1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA - version 1 1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 71, 77, 78 SA/NSA - version 2 1, 3, 5, 8, 40 SA/NSA - version 3
+Speed
+HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/oppo-reno14-f 
 
+-----End of Product-----
 
 # Nothing Phone (3a) Pro
 6.77 inches, AMOLED, Qualcomm Snapdragon 7s Gen 3 
@@ -7355,9 +7750,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Nothing Phone (3a) Pro Price in Nepal
 ### Body Design and Build
@@ -7466,140 +7860,11 @@ LTE
 SA/NSA
 Speed
 HSPA, LTE (CA), 5G
+ 
 
+ URL: https://hukut.com/nothing-phone-(3a)-pro 
 
-
-
----------End of the Product---------
-
-
-
-# Xiaomi 15T
-6.83 inch, 120Hz AMOLED, Mediatek Dimensity 8400 Ultra, 50 MP Triple Camera, 5500 mAh Battery
-0 (0)
-Rs. 64,999
-* * *
-Variant: 
-12/512GB
-Colors: Black
-Key Specifications
-  * OS: Android 15, HyperOS 2
-  * CPU: Octa-core (1x3.25 GHz Cortex-A725 & 3x3.0 GHz Cortex-A725 & 4x2.1 GHz Cortex-A725)
-  * GPU : Mali-G720 MC7
-  * Size: 6.83 inches, 114.5 cm2 (~90.0% screen-to-body ratio)
-  * Resolution: 1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)
-
-
-* * *
-Buy Now
-Add To Cart
-* * *
-Pickup
-Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
-Free Delivery
-Get it by 17th October
-* * *
-Xiaomi 15T Price in Nepal
-Variant
-Price
-12/512GB | Rs. 64,999  
-### 
-Specifications
-BODY
-Dimension
-163.2 x 78 x 7.5 mm (6.43 x 3.07 x 0.30 in)
-Weight
-194 g (6.84 oz)
-Build
-Glass front (Gorilla Glass 7i), plastic frame, glass fiber back
-Colors
-Black, Gray, Mocha Gold
-Durability
-IP68 dust tight and water resistant (immersible up to 3m for 30 min)
-DISPLAY
-Type
-AMOLED, 68B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR10+, 3200 nits (peak)
-Size
-6.83 inches, 114.5 cm2 (~90.0% screen-to-body ratio)
-Resolution
-1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)
-Protection
-Corning Gorilla Glass 7i, Mohs level 6
-PERFORMANCE
-OS
-Android 15, HyperOS 2
-Chipset
-Mediatek Dimensity 8400 Ultra (4 nm)
-CPU
-Octa-core (1x3.25 GHz Cortex-A725 & 3x3.0 GHz Cortex-A725 & 4x2.1 GHz Cortex-A725)
-GPU 
-Mali-G720 MC7
-MEMORY
-Internal
-512GB 12GB RAM UFS 4.1
-Card Slot
-No
-BACK CAMERA
-Features
-Leica lens, Color spectrum sensor, Ultra HDR, LED flash, HDR, panorama
-Video
-4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, 10-bit Rec. 2020, HDR10+
-Triple
-50 MP, f/1.7, 23mm (wide), 1/1.55", 1.0µm, PDAF, OIS 50 MP, f/1.9, 46mm (telephoto), 1/2.76", 0.64µm, PDAF, 2x optical zoom 12 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/3.06", 1.12µm
-FRONT CAMERA
-Single
-32 MP, f/2.2, 21mm (wide), 1/3.44", 0.64µm
-Video
-4K@30fps, 1080p@30/60fps, HDR10+
-Features
-HDR
-SOUND
-3.5mm jack 
-No 24-bit/192kHz Hi-Res & Hi-Res Wireless audio
-Loudspeaker
-Yes, with stereo speakers (with Dolby Atmos)
-CONNECTIVITY
-WLAN
-Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band, Wi-Fi Direct
-Bluetooth
-6.0, A2DP, LE
-Positioning
-GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS
-NFC
-Yes (market/region dependent)
-Radio
-No
-USB
-USB Type-C 2.0, OTG
-FEATURES
-Sensors
-Fingerprint (under display, optical), accelerometer, gyro, proximity, compass Circle to Search
-BATTERY
-Type
-5500 mAh
-Charging
-67W wired, PD3.0, 100% in 50 min
-NETWORK
-Technology
-GSM / HSPA / LTE / 5G
-2G bands
-GSM 850 / 900 / 1800 / 1900
-3G bands
-HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
-4G bands
-1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66, 71
-5G bands
-1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 75, 77, 78 SA/NSA
-Speed
-HSPA, LTE, 5G
-
-
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Samsung Galaxy A56 5G
 6.7 inches, Super AMOLED, Exynos 1580, 50 MP Camera
@@ -7607,7 +7872,6 @@ HSPA, LTE, 5G
 Rs. 65,999
 OR
 Rs. 5,500/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-a56)
 * * *
 Variant: 
 8/256GB
@@ -7623,7 +7887,6 @@ Key Specifications
 
 * * *
 Freebies
-![Freebies](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FimageSun%252C%252008%2520Jun%25202025%252007%253A24%253A58%2520GMT.jpg1749367500201&w=256&q=75)
 Free 25W Charger
 Rs. 
 Free
@@ -7633,9 +7896,8 @@ From Rs.5,500/mo*
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 Samsung Galaxy A56 5G Price in Nepal
 Variant
@@ -7715,13 +7977,138 @@ Type
 5000 mAh
 Charging
 45W wired, 65% in 30 min, 100% in 68 min
+ 
+
+ URL: https://hukut.com/samsung-galaxy-a56 
+
+-----End of Product-----
+
+# OnePlus Nord 5
+6.83 inch, 144Hz AMOLED, Qualcomm Snapdragon 8s Gen 3, 50 MP Dual Camera, 6800 mAh Battery
+0 (0)
+Rs. 67,999
+* * *
+Variant: 
+8/256GB
+12/512GB
+Colors: Marble Sands
+Key Specifications
+  * OS: Android 15, up to 4 major Android upgrades, OxygenOS 15
+  * CPU: Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)
+  * GPU : Adreno 735
+  * Size: 6.83 inches, 113.3 cm2 (~90.1% screen-to-body ratio)
+  * Resolution: 1272 x 2800 pixels (~450 ppi density)
 
 
+* * *
+Buy Now
+Add To Cart
+* * *
+Pickup
+Available Today at Hukut Store
+Free Delivery
+Get it by 5th November
+* * *
+OnePlus Nord 5
+OnePlus Nord 5 Price in Nepal
+Variant
+Price
+8/256GB | Rs. 67,999  
+12/512GB | Rs. 75,499  
+### 
+Specifications
+BODY
+Dimension
+163.4 x 77 x 8.1 mm (6.43 x 3.03 x 0.32 in)
+Weight
+211 g (7.44 oz)
+Colors
+Black
+Build
+Glass front (Gorilla Glass 7i), glass back, plastic frame
+Durability
+IP65 dust tight and water resistant (low pressure water jets)
+DISPLAY
+Type
+Swift AMOLED, 1B colors, 144Hz, 3840Hz PWM, HDR10+, 800 nits (typ), 1400 nits (HBM), 1800 nits (peak)
+Size
+6.83 inches, 113.3 cm2 (~90.1% screen-to-body ratio)
+Resolution
+1272 x 2800 pixels (~450 ppi density)
+Protection
+Corning Gorilla Glass 7i Ultra HDR image support
+MEMORY
+Card Slot
+No
+Internal
+256GB 8GB RAM, 512GB 12GB RAM UFS 3.1
+PERFORMANCE
+OS
+Android 15, up to 4 major Android upgrades, OxygenOS 15
+Chipset
+Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)
+CPU
+Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)
+GPU 
+Adreno 735
+BACK CAMERA
+Features
+LED flash, Ultra HDR, panorama
+Video
+4K@30/60fps, 1080p@30/60/120fps, gyro-EIS
+Dual
+50 MP, f/1.8, 24mm (wide), 1/1.56", 1.0µm, PDAF, OIS 8 MP, f/2.2, 15mm, 116˚ (ultrawide), 1/4.0", 1.12µm, AF
+FRONT CAMERA
+Single
+50 MP, f/2.0, 21mm (wide), 1/2.76", 0.64µm, AF
+Features
+Panorama
+Video
+4K@30/60fps, 1080p@30/60fps; gyro-EIS
+SOUND
+Loudspeaker
+Yes, with stereo speakers
+3.5mm jack 
+No
+CONNECTIVITY
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct
+Bluetooth
+5.4, A2DP, LE, aptX HD, LHDC 5
+Positioning
+GPS, GLONASS, GALILEO, BDS, QZSS, NavIC
+NFC
+Yes
+USB
+Yes
+Radio
+No
+FEATURES
+Sensors
+Fingerprint (under display, optical), accelerometer, gyro, proximity, compass Circle to Search
+BATTERY
+Type
+6800 mAh
+Charging
+80W wired, 33W PPS, 18W PD, 100% in just 54 min 5W reverse wired Bypass charging
+NETWORK
+Technology
+GSM / HSPA / LTE / 5G
+2G bands
+GSM 850 / 900 / 1800 / 1900
+3G bands
+HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100 HSDPA 850 / 900 / 1900 / 2100
+4G bands
+1, 3, 4, 5, 8, 26, 28, 38, 39, 40, 41, 66
+5G bands
+1, 3, 5, 8, 28, 38, 40, 41, 66, 77, 78 SA/NSA
+Speed
+HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/oneplus-nord-5 
 
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Honor 400
 Adreno 720
@@ -7729,7 +8116,6 @@ Adreno 720
 Rs. 67,999
 OR
 Rs. 5,667/mo*
-[Get it on EMI](https://hukut.com/emi/honor-400)
 * * *
 Variant: 
 12/512GB
@@ -7748,9 +8134,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # Honor 400: Overview
 **Sleek Design and Smooth Display**
@@ -7850,152 +8235,11 @@ LTE
 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/honor-400 
 
-
-
----------End of the Product---------
-
-
-
-# Vivo V50 5G
-6.77 inches, AMOLED, Qualcomm Snapdragon 7 Gen 3
-0 (0)
-Rs. 67,999
-OR
-Rs. 5,667/mo*
-[Get it on EMI](https://hukut.com/emi/vivo-v50)
-* * *
-Variant: 
-12/256GB
-Colors: Starry Blue
-Key Specifications
-  * OS: Android 15, up to 3 major Android upgrades, Funtouch 15
-  * CPU: Octa-core (1x2.63 GHz Cortex-A715 & 3x2.4 GHz Cortex-A715 & 4x1.8 GHz Cortex-A510)
-  * GPU : Adreno 720
-  * Size: 6.77 inches, 110.9 cm2 (~88.5% screen-to-body ratio)
-  * Resolution: 1080 x 2392 pixels (~388 ppi density)
-
-
-* * *
-Buy Now
-Add To Cart
-* * *
-Pickup
-Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
-Free Delivery
-Get it by 17th October
-* * *
-# vivo V50: Overview
-## Design and Display
-The vivo V50 is a sleek and stylish smartphone that combines modern aesthetics with advanced technology. It features a curved AMOLED display that measures 6.77 inches, offering a stunning visual experience with a 120Hz refresh rate. This high refresh rate ensures smooth scrolling and fluid animations, making every interaction with the device a pleasure. The display supports HDR content and boasts impressive brightness levels, reaching up to 1500 nits at peak and 1300 nits under sunlight (HBM mode). The device is available in three elegant color options: Rose Red, Starry Night, and Titanium Grey. Despite its large battery, the vivo V50 maintains a slim design, making it comfortable to hold and use. It also includes an optical fingerprint scanner for secure and convenient unlocking, as well as stereo speakers for immersive audio.
-## Performance and Software
-Powered by the Snapdragon 7 Gen 3 chipset, the vivo V50 delivers reliable performance that can handle most games and applications at a satisfactory level. The processor is paired with up to 12GB of RAM and 512GB of storage, ensuring smooth multitasking and ample space for your media and files. While some may argue that the chipset is the same as its predecessor, the vivo V50 still offers a solid performance experience. The phone runs on Funtouch OS 15, which is based on Android 15. vivo has committed to providing three years of Android updates and four years of security patches, ensuring that your device stays up-to-date and secure over time.
-## Cameras
-One of the standout features of the vivo V50 is its Zeiss-branded triple-camera setup. The rear camera system includes a 50MP primary sensor with OIS (Optical Image Stabilization) and a 50MP ultrawide lens, allowing you to capture stunning photos with exceptional detail and clarity. The front camera is equally impressive, featuring a 50MP sensor that ensures high-quality selfies and video calls. The device supports Zeiss Multi-Focal Portraits, including the popular Biotar Portrait Mode and 35mm B-Speed Mode, which add a professional touch to your photos. The Smart Aura Light enhances lighting conditions, making it easier to take great shots in various environments. Both the front and rear cameras offer HDR support and 4K video recording, ensuring that you can capture high-quality content no matter the situation.
-## Battery and Charging
-The vivo V50 is equipped with a powerful 6,000mAh battery, providing long-lasting power to keep you connected throughout the day. This is an upgrade from its predecessor’s 5500mAh battery, ensuring even better battery life. The device supports 90W wired charging, which means you can quickly recharge your phone and get back to using it in no time. Additionally, the vivo V50 supports Wi-Fi 6 + 6GHz band, offering faster and more stable wireless connectivity. Whether you’re streaming videos, playing games, or simply browsing the web, the vivo V50’s battery and charging capabilities ensure that you can do so without worrying about running out of power.
-## Conclusion
-The vivo V50 is a well-rounded smartphone that offers a combination of stylish design, powerful performance, impressive cameras, and long-lasting battery life. With its curved AMOLED display, Snapdragon 7 Gen 3 chipset, Zeiss-branded cameras, and 6,000mAh battery with 90W charging, the vivo V50 is a great choice for anyone looking for a reliable and feature-packed device. Whether you’re a photography enthusiast, a gamer, or simply someone who wants a high-quality smartphone, the vivo V50 is definitely worth considering.
-Vivo V50 5G Price in Nepal
-Variant
-Price
-12/256GB | Rs. 66,999  
-### 
-Specifications
-BODY
-Dimension
-163.3 x 76.7 x 7.4 / 7.6 / 7.7 mm
-Weight
-189 g or 199 g
-SIM
-Nano-SIM + Nano-SIM IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)
-Colors
-Satin Black, Starry Blue
-DISPLAY
-Type
-AMOLED, HDR10+, 120Hz, 1300 nits (HBM), 4500 nits (peak)
-Size
-6.77 inches, 110.9 cm2 (~88.5% screen-to-body ratio)
-Resolution
-1080 x 2392 pixels (~388 ppi density)
-Protection
-Diamond Shield Glass
-MEMORY
-Card Slot
-No
-Internal
-12GB RAM + 256GB
-PERFORMANCE
-OS
-Android 15, up to 3 major Android upgrades, Funtouch 15
-Chipset
-Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)
-CPU
-Octa-core (1x2.63 GHz Cortex-A715 & 3x2.4 GHz Cortex-A715 & 4x1.8 GHz Cortex-A510)
-GPU 
-Adreno 720
-BACK CAMERA
-Dual
-50 MP, f/1.9, 23mm (wide), 1/1.55", 1.0µm, PDAF, OIS 50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.76", 0.64µm, AF
-Features
-Color spectrum sensor, Zeiss optics, Ring-LED flash, panorama, HDR
-Video
-4K@30fps, 1080p@30fps, gyro-EIS, OIS
-FRONT CAMERA
-Single
-50 MP, f/2.0, 21mm (wide), 1/2.76", 0.64µm, AF
-Features
-Zeiss optics, HDR
-Video
-4K@30fps, 1080p@30fps
-SOUND
-Loudspeaker
-Yes, with stereo speakers
-3.5mm jack 
-No
-CONNECTIVITY
-WLAN
-Yes
-Bluetooth
-5.4, A2DP, LE
-Positioning
-GPS, GALILEO, GLONASS, QZSS, BDS, NavIC
-NFC
-No
-USB
-USB Type-C 2.0, OTG
-Radio
-No
-FEATURES
-Sensors
-Fingerprint (under display, optical), accelerometer, gyro, proximity, compass
-BATTERY
-Type
-Si/C 6000 mAh
-Charging
-90W wired, PD Reverse wired
-NETWORK
-Technology
-GSM / HSPA / LTE / 5G
-2G bands
-GSM 850 / 900 / 1800 / 1900
-3G bands
-HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
-4G bands
-1, 3, 4, 5, 8, 18, 19, 26, 28, 38, 39, 40, 41, 42, 66
-5G bands
-1, 3, 5, 8, 28, 40, 66, 77, 78 SA/NSA
-Speed
-HSPA, LTE, 5G
-
-
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # OnePlus Nord 4 5G
 6.74 inches, LTPO AMOLED, Qualcomm Snapdragon 7+ Gen 3 
@@ -8019,19 +8263,16 @@ Buy Now
 Add To Cart
 * * *
 Frequently bought together
-![OnePlus Nord 4 5G](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2Foneplus-nord-4-green.png1738756049126&w=256&q=75)
 OnePlus Nord 4 5G
 Rs. 69999
-![OnePlus Buds 3](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FonePlus-Buds-3-Price-in-Nepal%2520\(1\).png1740637000071&w=256&q=75)
 OnePlus Buds 3
 Rs. 12499
 Buy 2 Together for Rs 82,498
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## OnePlus Nord 4 Overview
 ### Display and Design
@@ -8137,13 +8378,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100
 1, 2, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/oneplus-nord-4-5g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Vivo V60 5G
 6.67 inch, 120Hz AMOLED, Qualcomm SM7750-AB Snapdragon 7, 50 MP Triple Camera, 6500 mAh Battery
@@ -8168,9 +8407,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 Vivo V60 5G
 Vivo V60 5G Price in Nepal
@@ -8267,13 +8505,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/vivo-v60-5g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # OnePlus 13R
 6.78 inches, LTPO 4.1 AMOLED, Snapdragon 8 Gen 3
@@ -8281,7 +8517,6 @@ HSPA, LTE, 5G
 Rs. 78,999
 OR
 Rs. 6,583/mo*
-[Get it on EMI](https://hukut.com/emi/oneplus-13r)
 * * *
 Variant: 
 12/256GB
@@ -8300,9 +8535,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## OnePlus 13R: A Semi-Flagship Powerhouse for Nepal
 ### Design and Display
@@ -8409,13 +8643,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International
 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA - International
 Speed
 HSPA, LTE (CA), 5G
+ 
 
+ URL: https://hukut.com/oneplus-13r 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Honor 400 Pro
 Adreno 750
@@ -8423,7 +8655,6 @@ Adreno 750
 Rs. 88,480
 OR
 Rs. 7,373/mo*
-[Get it on EMI](https://hukut.com/emi/honor-400-pro)
 * * *
 Variant: 
 12/512GB
@@ -8442,9 +8673,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 # Honor 400 Pro: Overview
 **Premium Look, Built to Last**
@@ -8544,13 +8774,11 @@ LTE
 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/honor-400-pro 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Apple iPhone 14
 6.1 inch, Super Retina XDR OLED, Apple A15 Bionic, 12 MP Camera
@@ -8574,7 +8802,6 @@ Key Specifications
 
 * * *
 Freebies
-![Freebies](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FimageFri%252C%252011%2520Apr%25202025%252002%253A16%253A18%2520GMT.jpg1744337786064&w=256&q=75)
 Free 20W Apple Charger + Premium Quality Back Cover + Tempered Glass
 Rs. 
 Free
@@ -8582,11 +8809,9 @@ Buy Now
 Add To Cart
 * * *
 Frequently bought together
-![Apple iPhone 14](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2Fiphone_14_midnight.webp&w=256&q=75)
 Apple iPhone 14
 Rs. 90799
 Rs. 95999
-![Ultima Atom 820](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FUltima-Atom-820-Blue.webp&w=256&q=75)
 Ultima Atom 820
 Rs. 1899
 Rs. 2999
@@ -8594,9 +8819,8 @@ Buy 2 Together for Rs 92,698
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Apple iPhone 14: A Solid Upgrade
 The iPhone 14 is a reliable mid-range smartphone that retains the iconic design of its predecessor while introducing notable improvements in performance, camera capabilities, and safety features.
@@ -8662,13 +8886,147 @@ Type
 Li-Ion 3279 mAh, non-removable (12.68 Wh)
 Charging
 Wired, PD2.0, 50% in 30 min (advertised) 15W wireless (MagSafe) 7.5W wireless (Qi)
+ 
+
+ URL: https://hukut.com/iphone-14-price-in-nepal 
+
+-----End of Product-----
+
+# Samsung Galaxy S25 FE
+6.7 inch, 120Hz Dynamic LTPO AMOLED 2X, Exynos 2400, 50 MP Triple Camera
+0 (0)
+Rs. 99,999
+OR
+Rs. 8,333/mo*
+* * *
+Variant: 
+8/256GB
+Colors: Icyblue
+Key Specifications
+  * OS: Android 16, up to 7 major Android upgrades, One UI 8
+  * CPU: 10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520)
+  * GPU : Xclipse 940
+  * Size: 6.7 inches, 110.2 cm2 (~89.2% screen-to-body ratio)
+  * Resolution: 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)
 
 
+* * *
+Buy Now
+Pay with EMI
+From Rs.8,333/mo*
+* * *
+Pickup
+Available Today at Hukut Store
+Free Delivery
+Get it by 5th November
+* * *
+## Samsung Galaxy S25 FE Overview
+### Design and Build Quality
+The Samsung Galaxy S25 FE carries a sleek and durable design, featuring Gorilla Glass Victus+ protection on both the front and back with an enhanced aluminum frame. It’s IP68-rated, ensuring resistance against dust and water immersion up to 1.5 meters for 30 minutes. Measuring 7.4 mm thin and weighing 190 grams, it strikes a perfect balance between elegance and sturdiness.
+### Display
+The phone boasts a 6.7-inch Dynamic LTPO AMOLED 2X panel with a 120Hz refresh rate and HDR10+ support, ensuring ultra-smooth visuals and vivid colors. With 1900 nits of peak brightness, it remains easily viewable under direct sunlight. The 1080 x 2340 resolution delivers crisp detail, and Corning Gorilla Glass Victus+ keeps the screen scratch-resistant and tough.
+### Performance and Software
+Powered by the Exynos 2400 (4nm) chipset and a 10-core CPU, the Galaxy S24 FE is built for power efficiency and flagship-grade multitasking. Its Xclipse 940 GPU ensures console-level gaming visuals. The phone runs on Android 16 with One UI 8, promising up to 7 major Android upgrades, making it a strong long-term investment.
+### Cameras
+The triple rear camera setup includes a 50MP main sensor with OIS, an 8MP telephoto lens with 3x optical zoom, and a 12MP ultrawide for expansive shots. It supports 8K video recording and HDR10+, ensuring cinematic video quality. The 12MP front camera delivers sharp selfies with 4K video support, gyro-EIS, and HDR capabilities.
+### Battery and Charging
+Equipped with a 4900mAh battery, the S24 FE offers all-day endurance. It supports 45W fast wired charging (65% in 30 minutes), 15W wireless charging, and reverse wireless charging for powering accessories like Galaxy Buds or smartwatches.
+### Connectivity and Extras
+Connectivity options include Wi-Fi 6E/7 (region-dependent), Bluetooth 5.4, NFC, and USB Type-C 3.2. It also supports Samsung DeX, allowing users to transform the phone into a desktop-like experience. The stereo speakers enhance the entertainment experience, though the 3.5mm jack is omitted.
+Samsung Galaxy S25 FE Price in Nepal
+Variant
+Price
+8/256GB | Rs. 99,999  
+### 
+Specifications
+BODY
+Dimension
+161.3 x 76.6 x 7.4 mm (6.35 x 3.02 x 0.29 in)
+Weight
+190 g (6.70 oz)
+Build
+Glass front (Gorilla Glass Victus+), glass back (Gorilla Glass Victus+), aluminum frame
+Colors
+Icyblue, Jetblack, Navy, White
+DISPLAY
+Type
+Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 1900 nits (peak)
+Size
+6.7 inches, 110.2 cm2 (~89.2% screen-to-body ratio)
+Resolution
+1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density)
+Protection
+Corning Gorilla Glass Victus+, Mohs level 5
+PERFORMANCE
+OS
+Android 16, up to 7 major Android upgrades, One UI 8
+Chipset
+Exynos 2400 (4 nm)
+CPU
+10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520)
+GPU 
+Xclipse 940
+MEMORY
+Card Slot
+No
+Internal
+256GB 8GB RAM UFS 4.0
+BACK CAMERA
+Triple
+50 MP, f/1.8, 24mm (wide), 1/1.57", 1.0µm, dual pixel PDAF, OIS 8 MP, f/2.4, 75mm (telephoto), 1/4.4", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.0", 1.12µm
+Features
+LED flash, HDR, panorama, Best Face
+Video
+8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps; gyro-EIS, HDR10+
+FRONT CAMERA
+Single
+12 MP, f/2.2, 26mm (wide), 1/3.2", 1.12µm
+Video
+4K@30/60fps, 1080p@30/60fps; gyro-EIS, HDR10+
+SOUND
+Loudspeaker
+Yes, with stereo speakers
+3.5mm jack 
+No
+CONNECTIVITY
+WLAN
+Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band (market/region dependent), Wi-Fi Direct
+Bluetooth
+5.4, A2DP, LE
+Positioning
+GPS, GLONASS, GALILEO, BDS
+NFC
+Yes
+Radio
+No
+USB
+USB Type-C 3.2, OTG
+BATTERY
+Type
+4900 mAh
+Charging
+45W wired, PD, QC2, 65% in 30 min 15W wireless, Qi2 compatible Reverse wireless
+FEATURES
+Sensors
+Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer Wireless Samsung DeX (desktop experience support)
+NETWORK
+Technology
+GSM / HSPA / LTE / 5G
+2G bands
+GSM 850 / 900 / 1800 / 1900
+3G bands
+HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+4G bands
+LTE
+5G bands
+SA/NSA/Sub6
+Speed
+HSPA, LTE, 
+ 
 
+ URL: https://hukut.com/samsung-galaxy-s25-fe 
 
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Samsung Galaxy Z Flip 6
 6.7 inch, 120Hz Dynamic AMOLED 2x panel, Qualcomm Snapdragon 8 Gen 3 for Galaxy, 50 MP Camera
@@ -8678,7 +9036,6 @@ Rs. 1,54,999
 Save Rs. 55000
 OR
 Rs. 8,333/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-z-flip-6-price-in-nepal)
 * * *
 Festive Offer: 
 Silicone Case for free
@@ -8701,9 +9058,8 @@ From Rs.8,333/mo*
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Samsung Galaxy Z Flip 6: A Refined Foldable
 #### Design
@@ -8720,7 +9076,7 @@ The Samsung Galaxy Z Flip 6 is a refined and powerful foldable smartphone, offer
 Samsung Galaxy Z Flip 6 Price in Nepal
 Variant
 Price
-256GB | 12GB | Rs. 1,39,999  
+12GB | 256GB | Rs. 1,39,999  
 256GB | 12GB | Rs. 1,39,999  
 ### 
 Specifications
@@ -8751,13 +9107,11 @@ Nano-SIM, eSIM, WiFi 802.11 a/b/g/n/ac/ax, dual-band (2.4 & 5GHz), Bluetooth 5.3
 BATTERY
 Type
 Type 4000 mAh, non-removable Charging 25W wired, QC2.0, 50% in 30 min (advertised) 15W wireless 4.5W reverse wireless
+ 
 
+ URL: https://hukut.com/samsung-galaxy-z-flip-6-price-in-nepal 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Nothing Phone (3)
 6.77 inches, AMOLED, Qualcomm Snapdragon 8s Gen 4 
@@ -8786,15 +9140,14 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 Nothing Phone (3) Price in Nepal
 Variant
 Price
-CMF Buds Pro 2 Worth Rs. 9499 | 12/256GB | Rs. 1,09,999  
-CMF Buds Pro 2 Worth Rs. 9499 | 16/512GB | Rs. 1,24,999  
+12/256GB | CMF Buds Pro 2 Worth Rs. 9499 | Rs. 1,09,999  
+16/512GB | CMF Buds Pro 2 Worth Rs. 9499 | Rs. 1,24,999  
 ### 
 Specifications
 BODY
@@ -8884,13 +9237,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 30, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/nothing-phone-(3) 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # OnePlus 12
 Hukut Exclusive Offer! Unbeatable Price! 1 year Breakage Insurance 
@@ -8913,19 +9264,16 @@ Buy Now
 Add To Cart
 * * *
 Frequently bought together
-![OnePlus 12](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FOnePlus-12-Black.webp&w=256&q=75)
 OnePlus 12
 Rs. 139999
-![OnePlus Buds 3](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FonePlus-Buds-3-Price-in-Nepal%2520\(1\).png1740637000071&w=256&q=75)
 OnePlus Buds 3
 Rs. 12499
 Buy 2 Together for Rs 1,52,498
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 #  **OnePlus 12** Overview:
 Redefining the smartphone experience, the OnePlus 12 is a technological marvel. With its state-of-the-art features, gorgeous design, and unmatched performance, this phone is proof of OnePlus' dedication to quality. With the OnePlus 12, you can connect, create, and explore the world in ways that are truly remarkable. It's more than just a phone.
@@ -9032,13 +9380,11 @@ Wireless Charging
 Extrass
 Features
 Geomagnetic, Under-screen Proximity, Under-screen Light, Acceleration, Gravity, Gyroscope, IR Blaster, Under-screen Colour Temperature, Rear Spectrum, Hall
+ 
 
+ URL: https://hukut.com/oneplus-12-price-in-nepal 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # OnePlus 13
 ✅ 1-Year Breakage Insurance Included!
@@ -9048,7 +9394,6 @@ Rs. 1,49,999
 Save Rs. 8000
 OR
 Rs. 11,833/mo*
-[Get it on EMI](https://hukut.com/emi/oneplus-13)
 * * *
 Variant: 
 16/512GB
@@ -9066,11 +9411,9 @@ Buy Now
 Add To Cart
 * * *
 Frequently bought together
-![OnePlus 13](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FOne-Plus-13-Price-in-Nepal.png1738668265236&w=256&q=75)
 OnePlus 13
 Rs. 141999
 Rs. 149999
-![OnePlus Nord Buds 3](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FOnePlus-Nord-Buds-3-melodic-white.webp1735645018904&w=256&q=75)
 OnePlus Nord Buds 3
 Rs. 4499
 Rs. 4499
@@ -9078,9 +9421,8 @@ Buy 2 Together for Rs 1,46,498
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ### OnePlus 13 Overview: A Leap in Design, Performance, and Features
 The OnePlus 13 introduces a refined design, moving away from the bold camera module of its predecessor to a simpler, less protruding island. This minimalist approach gives the device a clean, modern look. A significant upgrade is the inclusion of IP68 and IP69 dust and water resistance, a leap from the OnePlus 12's IP65 rating. The screen features a flatter panel with slightly curved edges, providing a more stable viewing experience. The display is BOE's X2 OLED with 8T LTPO technology, offering QHD resolution and a peak brightness of up to 4500 nits. The 6.82-inch display is slightly shorter but wider, and it now includes a more secure ultrasonic fingerprint sensor under the screen, enhancing security and convenience.
@@ -9182,13 +9524,11 @@ Speed
 1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 30, 38, 40, 41, 48, 66, 71, 75, 77, 78 SA/NSA/Sub6 - International
 5G bands
 HSPA, LTE (CA), 5G
+ 
 
+ URL: https://hukut.com/oneplus-13 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Xiaomi 15 Ultra
 ✅ 6 months extended warranty & free screen replacement for the first 6 months
@@ -9217,11 +9557,9 @@ Buy Now
 Add To Cart
 * * *
 Frequently bought together
-![Xiaomi 15 Ultra](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FXiaomi-15-Ultra.webp1741259751483&w=256&q=75)
 Xiaomi 15 Ultra
 Rs. 149999
 Rs. 159999
-![Redmi Buds 5C True Wireless Earbuds](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FRedmi-Buds-5C-Symphony-blue-price-in-nepal.png1726654441530&w=256&q=75)
 Redmi Buds 5C True Wireless Earbuds
 Rs. 3199
 Rs. 3999
@@ -9229,9 +9567,8 @@ Buy 2 Together for Rs 1,53,198
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Xiaomi 15 Ultra – Overview
 The Xiaomi 15 Ultra is a flagship smartphone that pushes the boundaries of mobile technology with cutting-edge hardware, a premium design, and industry-leading camera capabilities. With a powerful Snapdragon chipset, a high-refresh-rate AMOLED display, and an advanced Leica-powered camera system, this device is designed for users who demand the best in performance, photography, and innovation.
@@ -9257,9 +9594,6 @@ The 5410 mAh Silicon-Carbon Li-Ion battery ensures all-day endurance. It support
 ### Connectivity & Features
 The device is equipped with Wi-Fi 7, Bluetooth 6.0, dual-SIM + eSIM support, 5G connectivity, and USB Type-C 3.2 Gen 2 with DisplayPort support. It also features an infrared port for remote control functionality. The under-display ultrasonic fingerprint sensor ensures fast and secure authentication, while two-way satellite communication provides emergency connectivity in remote locations.
 **Warranty Offers:**
-![✅](https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png) 6 months extended warranty
-![✅](https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png) One time free screen replacement for the first 6 months*
-![✅](https://static.xx.fbcdn.net/images/emoji.php/v9/t33/1/16/2705.png) Phone repair with free labor cost for the first 24 months*
 ### Conclusion
 The Xiaomi 15 Ultra is a powerhouse flagship that excels in every aspect—from its stunning AMOLED display and top-tier Snapdragon 8 Elite processor to its industry-leading Leica camera system and ultra-fast charging capabilities. Designed for power users, mobile photographers, and tech enthusiasts, this device sets a new benchmark in premium smartphone innovation.
 Xiaomi 15 Ultra Price in Nepal
@@ -9360,13 +9694,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 48, 66, 71, 75, 77, 78, 79 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/xiaomi-15-ultra 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Samsung Galaxy Z Fold 6
 7.6 inch, 120Hz Foldable Dynamic LTPO AMOLED 2X, Qualcomm SM8550-AC Snapdragon 8 Gen 3, 50 MP Camera
@@ -9376,7 +9708,6 @@ Rs. 2,26,999
 Save Rs. 62000
 OR
 Rs. 13,750/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-z-fold-6-price-in-nepal)
 * * *
 Festive Offer: 
 Silicone Case for free
@@ -9400,11 +9731,9 @@ Pay with EMI
 From Rs.13,750/mo*
 * * *
 Frequently bought together
-![Samsung Galaxy Z Fold 6](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2F10266812.webp1721197529042&w=256&q=75)
 Samsung Galaxy Z Fold 6
 Rs. 164999
 Rs. 226999
-![Samsung Galaxy Watch 8](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2Fsamsung-galaxy-watch-8-silver.webp1754032964704&w=256&q=75)
 Samsung Galaxy Watch 8
 Rs. 54999
 Rs. 54999
@@ -9412,9 +9741,8 @@ Buy 2 Together for Rs 2,19,998
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Samsung Galaxy Z Fold 6: A Refined Foldable Experience
 #### Design and Display
@@ -9429,8 +9757,8 @@ Samsung Galaxy Z Fold 6 Price in Nepal
 Variant
 Price
 12GB | 256GB | Rs. 2,14,999  
-256GB | 12GB | Rs. 2,14,999  
-12GB | 512GB | Rs. 2,29,999  
+12GB | 256GB | Rs. 2,14,999  
+512GB | 12GB | Rs. 2,29,999  
 ### 
 Specifications
 BODY
@@ -9460,13 +9788,11 @@ WLAN Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct Bluetooth 5.3, A2DP, LE,
 BATTERY
 Type
 Type Li-Po 4400 mAh, non-removable Charging 25W wired, QC2.0, 50% in 30 min (advertised) 15W wireless 4.5W reverse wireless
+ 
 
+ URL: https://hukut.com/samsung-galaxy-z-fold-6-price-in-nepal 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Tecno Phantom V Fold 2
 7.85 inch, 120Hz Foldable LTPO AMOLED, Mediatek Dimensity 9000+
@@ -9490,9 +9816,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Phantom V Fold 2 Overview
 ### Design and Display
@@ -9594,13 +9919,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/tecno-phantom-v-fold-2 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Samsung Galaxy S25 Ultra
 6.8 inches, Dynamic AMOLED, 120Hz
@@ -9610,7 +9933,6 @@ Rs. 1,84,999
 Save Rs. 5000
 OR
 Rs. 15,000/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-s25-ultra)
 * * *
 Variant: 
 12/256GB
@@ -9634,9 +9956,8 @@ From Rs.15,000/mo*
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Samsung Galaxy S25 Ultra Overview
 ### Display and Design
@@ -9652,8 +9973,8 @@ Samsung Galaxy S25 Ultra Price in Nepal
 Variant
 Price
 12/256GB | One-time Breakage Insurance for one year | Rs. 1,79,999  
-One-time Breakage Insurance for one year | 12/512GB | Rs. 1,94,999  
-12/1TB | One-time Breakage Insurance for one year | Rs. 2,29,999  
+12/512GB | One-time Breakage Insurance for one year | Rs. 1,94,999  
+One-time Breakage Insurance for one year | 12/1TB | Rs. 2,29,999  
 ### 
 Specifications
 BODY
@@ -9730,13 +10051,11 @@ Type
 Li-Ion 5000 mAh
 Charging
 45W wired, PD3.0, 65% in 30 min 25W wireless (Qi2/PMA) 4.5W reverse wireless
+ 
 
+ URL: https://hukut.com/samsung-galaxy-s25-ultra 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Vivo X200 Pro
 6.78 inch, 120Hz LTPO AMOLED, Mediatek Dimensity 9400 (3 nm), 50 MP Camera
@@ -9744,7 +10063,6 @@ Charging
 Rs. 1,84,999
 OR
 Rs. 15,417/mo*
-[Get it on EMI](https://hukut.com/emi/vivo-x200-pro)
 * * *
 Variant: 
 16/512GB
@@ -9764,9 +10082,8 @@ From Rs.15,417/mo*
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 ## Vivo X200 Pro Overview
 ### Design and Display
@@ -9876,13 +10193,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/vivo-x200-pro 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Oppo Find N5
 6.62 inch Foldable LTPO OLED, Qualcomm SM8750-3-AB Snapdragon 8 Elite, 50 MP Triple Camera
@@ -9906,9 +10221,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 Oppo Find N5 Price in Nepal
 Variant
@@ -10005,13 +10319,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 77, 78 SA/NSA
 Speed
 HSPA, LTE (CA), 5G
+ 
 
+ URL: https://hukut.com/oppo-find-n5 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Honor Magic V5
 7.95 inch, 120Hz Foldable LTPO AMOLED, Qualcomm SM8750-AB Snapdragon 8 Elite, 50 MP Triple Camera, 5820 mAh Battery
@@ -10035,9 +10347,8 @@ Add To Cart
 * * *
 Pickup
 Available Today at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
-Get it by 17th October
+Get it by 5th November
 * * *
 Honor Magic V5
 Honor Magic V5 Price in Nepal
@@ -10131,13 +10442,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1x
 1, 3, 5, 8, 28, 38, 41, 77, 78 SA/NSA
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/honor-magic-v5 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # VIVO Y03
 6.56 inch, 90Hz IPS LCD, Mediatek Helio G85, 13 MP Camera
@@ -10161,7 +10470,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -10254,13 +10562,11 @@ Type
 Li-Ion 5000 mAh
 Charging
 15W wired
+ 
 
+ URL: https://hukut.com/vivo-y03-price-in-nepal 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Samsung Galaxy A07 4G
 6.67 inch, 90Hz PLS LCD, Mediatek Helio G99, 50 MP Dual Camera, 5000 mAh Battery
@@ -10268,7 +10574,6 @@ Charging
 Rs. 15,999
 OR
 Rs. 1,333/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-a07-4g)
 * * *
 Variant: 
 4/128GB
@@ -10289,7 +10594,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -10380,13 +10684,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/samsung-galaxy-a07-4g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Tecno Spark 30C
 6.67 inch, 120Hz IPS LCD, Mediatek Helio G81, 50 MP Camera
@@ -10413,7 +10715,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -10429,7 +10730,7 @@ In terms of the camera, you get a primary 50MP unit at the back. It is assisted 
 Tecno Spark 30C Price in Nepal
 Variant
 Price
-128GB | 6GB | Rs. 16,490  
+6GB | 128GB | Rs. 16,490  
 8GB | 256GB | Rs. 19,990  
 ### 
 Specifications
@@ -10503,13 +10804,11 @@ Charging
 FEATURES
 Sensors
 Fingerprint (side-mounted), accelerometer, compass
+ 
 
+ URL: https://hukut.com/tecno-spark-30c 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Vivo Y18
 6.56 inch, 90Hz IPS LCD, Mediatek Helio G85, 50 MP Camera
@@ -10534,7 +10833,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -10580,13 +10878,11 @@ Sensors Fingerprint (side-mounted)
 Network
 Technology
 Technology GSM / HSPA / LTE 2G bands GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 3G bands HSDPA 850 / 900 / 2100 4G bands 1, 3, 5, 8, 38, 40, 41 Speed HSPA, LTE
+ 
 
+ URL: https://hukut.com/vivo-y18-price-in-nepal 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Oppo A5 
 6.67 inch, TFT LCD, 120Hz IPS LCD, Mediatek Dimensity 6300, 50 MP Dual Camera, 6000 mAh Battery
@@ -10609,7 +10905,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -10706,13 +11001,11 @@ HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100
 1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA - version 1 1, 3, 28, 41, 77, 78 SA/NSA - version 2
 Speed
 HSPA, LTE, 5G
+ 
 
+ URL: https://hukut.com/oppo-a5-5g 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Realme C75
 6.72 inches, IPS LCD, 90Hz, Mediatek Helio G92 Max
@@ -10735,7 +11028,6 @@ Key Specifications
 
 * * *
 Freebies
-![Freebies](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FimageMon%252C%252026%2520May%25202025%252010%253A40%253A10%2520GMT.jpg1748256011585&w=256&q=75)
 Free Vibes 311 Earbuds Worth Rs. 1600
 Rs. 1600
 Free
@@ -10743,7 +11035,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -10833,13 +11124,11 @@ HSDPA 850 / 900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/realme-c75 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Oppo A60
 6.67 inch, 90Hz IPS LCD, Qualcomm SM6225 Snapdragon 680 4G, 50 MP Camera
@@ -10859,7 +11148,6 @@ Key Specifications
 
 * * *
 Freebies
-![Freebies](https://hukut.com/_next/image?url=https%3A%2F%2Fcdn.hukut.com%2FimageMon%252C%252026%2520May%25202025%252010%253A40%253A10%2520GMT.jpg1748256011585&w=256&q=75)
 Free Vibes 311 Earbuds Worth Rs. 1600
 Rs. 1600
 Free
@@ -10867,14 +11155,13 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
 ## OPPO A60 Overview
 ### Design and Display
 The OPPO A60 comes in a flat design and a pill-shaped camera island on the back. It is available in two different finishes — the first one is a monotone Midnight Purple, while the other is ripple-patterned Ripple Blue. It also comes with IP54 water and dust resistance along with MIL-STD-810H certification.
-On the front, you get a 6.67-inch A-Si LCD panel with KK6 cover glass. The screen stretches HD+ in resolution and offers a refresh rate of 90Hz. Additionally, it comes with a maximum touch sampling rate of 240Hz, a peak brightness of 950nits, and an 83% [NTSC](https://en.wikipedia.org/wiki/NTSC) colour gamut.
+On the front, you get a 6.67-inch A-Si LCD panel with KK6 cover glass. The screen stretches HD+ in resolution and offers a refresh rate of 90Hz. Additionally, it comes with a maximum touch sampling rate of 240Hz, a peak brightness of 950nits, and an 83% 
 ### Performance
 For the primary performance, the OPPO A60 relies on the Qualcomm Snapdragon 680 chipset. It is a 4G-only chip that comes with eight cores, 6nm fabrication, and a peak clock speed of 2.4GHz. Moreover, the chip is about three years old at this point and prioritizes battery life more than anything else.
 Other than that, you get an 8GB LPDDR4x RAM coupled with two options of UFS 2.2 storage. The storage option includes 128GB or 256GB internal and support for expansion via a MicroSD card. Similarly, it allows you to double the RAM capacity virtually if you require more memory on your phone. On the software front, the OPPO A60 boots on ColorOS 14.0.1 based on Android 14.
@@ -10955,13 +11242,11 @@ Type
 5000 mAh
 Charging
 45W wired, 50% in 30 min
+ 
 
+ URL: https://hukut.com/oppo-a60-price-in-nepal 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Oppo Reno12 F
 Snapdragon 685 SoC, 50MP camera
@@ -10984,7 +11269,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -11074,13 +11358,11 @@ Type
 5000 mAh
 Charging
 45W wired, PD2.0 Reverse wired
+ 
 
+ URL: https://hukut.com/oppo-reno12-f 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Oppo Reno11 F
 6.7 inch, AMOLED, Mediatek Dimensity 7050, 64 MP Camera
@@ -11101,7 +11383,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -11193,144 +11474,11 @@ Type
 5000 mAh
 Charging
 67W wired, PD2.0, QC3, 100% in 48 min Reverse wired
+ 
 
+ URL: https://hukut.com/oppo-reno11-f-price-in-nepal 
 
-
-
----------End of the Product---------
-
-
-
-# OnePlus Nord 5
-6.83 inch, 144Hz AMOLED, Qualcomm Snapdragon 8s Gen 3, 50 MP Dual Camera, 6800 mAh Battery
-0 (0)
-Rs. 67,999
-* * *
-Launch Offer: 
-Free Anker P20i worth Rs. 2999
-Variant: 
-8/256GB
-12/512GB
-Colors: Marble Sands
-Key Specifications
-  * OS: Android 15, up to 4 major Android upgrades, OxygenOS 15
-  * CPU: Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)
-  * GPU : Adreno 735
-  * Size: 6.83 inches, 113.3 cm2 (~90.1% screen-to-body ratio)
-  * Resolution: 1272 x 2800 pixels (~450 ppi density)
-
-
-* * *
-Pre Order
-* * *
-Pickup
-Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
-Free Delivery
-Get it soon after it becomes available
-* * *
-OnePlus Nord 5
-OnePlus Nord 5 Price in Nepal
-Variant
-Price
-8/256GB | Rs. 67,999  
-12/512GB | Rs. 75,499  
-### 
-Specifications
-BODY
-Dimension
-163.4 x 77 x 8.1 mm (6.43 x 3.03 x 0.32 in)
-Weight
-211 g (7.44 oz)
-Colors
-Black
-Build
-Glass front (Gorilla Glass 7i), glass back, plastic frame
-Durability
-IP65 dust tight and water resistant (low pressure water jets)
-DISPLAY
-Type
-Swift AMOLED, 1B colors, 144Hz, 3840Hz PWM, HDR10+, 800 nits (typ), 1400 nits (HBM), 1800 nits (peak)
-Size
-6.83 inches, 113.3 cm2 (~90.1% screen-to-body ratio)
-Resolution
-1272 x 2800 pixels (~450 ppi density)
-Protection
-Corning Gorilla Glass 7i Ultra HDR image support
-MEMORY
-Card Slot
-No
-Internal
-256GB 8GB RAM, 512GB 12GB RAM UFS 3.1
-PERFORMANCE
-OS
-Android 15, up to 4 major Android upgrades, OxygenOS 15
-Chipset
-Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)
-CPU
-Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)
-GPU 
-Adreno 735
-BACK CAMERA
-Features
-LED flash, Ultra HDR, panorama
-Video
-4K@30/60fps, 1080p@30/60/120fps, gyro-EIS
-Dual
-50 MP, f/1.8, 24mm (wide), 1/1.56", 1.0µm, PDAF, OIS 8 MP, f/2.2, 15mm, 116˚ (ultrawide), 1/4.0", 1.12µm, AF
-FRONT CAMERA
-Single
-50 MP, f/2.0, 21mm (wide), 1/2.76", 0.64µm, AF
-Features
-Panorama
-Video
-4K@30/60fps, 1080p@30/60fps; gyro-EIS
-SOUND
-Loudspeaker
-Yes, with stereo speakers
-3.5mm jack 
-No
-CONNECTIVITY
-WLAN
-Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct
-Bluetooth
-5.4, A2DP, LE, aptX HD, LHDC 5
-Positioning
-GPS, GLONASS, GALILEO, BDS, QZSS, NavIC
-NFC
-Yes
-USB
-Yes
-Radio
-No
-FEATURES
-Sensors
-Fingerprint (under display, optical), accelerometer, gyro, proximity, compass Circle to Search
-BATTERY
-Type
-6800 mAh
-Charging
-80W wired, 33W PPS, 18W PD, 100% in just 54 min 5W reverse wired Bypass charging
-NETWORK
-Technology
-GSM / HSPA / LTE / 5G
-2G bands
-GSM 850 / 900 / 1800 / 1900
-3G bands
-HSDPA 800 / 850 / 900 / 1700(AWS) / 1800 / 1900 / 2100 HSDPA 850 / 900 / 1900 / 2100
-4G bands
-1, 3, 4, 5, 8, 26, 28, 38, 39, 40, 41, 66
-5G bands
-1, 3, 5, 8, 28, 38, 40, 41, 66, 77, 78 SA/NSA
-Speed
-HSPA, LTE, 5G
-
-
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Samsung Galaxy Z Flip7
 6.9 inches, Foldable Dynamic LTPO AMOLED 2X, 120Hz, Exynos 2500, 50 MP Dual Camera, 4300 mAh Battery
@@ -11338,7 +11486,6 @@ HSPA, LTE, 5G
 Rs. 1,54,999
 OR
 Rs. 12,917/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-z-flip7)
 * * *
 Pre-Booking Offer: 
 Samsung Galaxy Buds 3
@@ -11362,15 +11509,14 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
 Samsung Galaxy Z Flip7 Price in Nepal
 Variant
 Price
-12/256GB | One-time Breakage Insurance for one year | Rs. 1,54,999  
-12/256GB | One-time Breakage Insurance for one year | Rs. 1,67,999  
+One-time Breakage Insurance for one year | 12/256GB | Rs. 1,54,999  
+One-time Breakage Insurance for one year | 12/256GB | Rs. 1,67,999  
 ### 
 Specifications
 BODY
@@ -11458,13 +11604,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 HSDPA 850 / 900 / 1900 / 2100 CDMA2000
 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 39, 40, 41, 66, 71, 77, 78 SA/NSA/Sub6
 Speed
 HSPA, LTE (CA), 5G
+ 
 
+ URL: https://hukut.com/samsung-galaxy-z-flip7 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Apple iPhone 17
 6.3 inch, 120Hz LTPO Super Retina XDR OLED, iOS 26, 48 MP Dual Camera, 3692 mAh Battery
@@ -11488,7 +11632,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -11586,13 +11729,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO
 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3520 1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79, 258, 260, 261 SA/NSA/Sub6/mmWave - A3258 1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3519 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3521
 Speed
 HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps
+ 
 
+ URL: https://hukut.com/apple-iphone-17 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Apple iPhone Air
 6.5 inch, 120Hz LTPO Super Retina XDR OLED, Apple A19 Pro, 48 MP Single Camera, 3149 mAh Battery
@@ -11617,7 +11758,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -11717,13 +11857,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO
 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3517 1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3260 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3518
 Speed
 HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps
+ 
 
+ URL: https://hukut.com/apple-iphone-air 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Apple iPhone 17 Pro
 6.3 inch, 120Hz LTPO Super Retina XDR OLED, Apple A19 Pro, 48 MP Triple Camera
@@ -11748,7 +11886,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -11847,13 +11984,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO
 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3523 1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79, 258, 260, 261 SA/NSA/Sub6/mmWave - A3256 1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3522 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3524
 Speed
 HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps
+ 
 
+ URL: https://hukut.com/apple-iphone-17-pro 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Apple iPhone 17 Pro Max
 6.9 inch, 120Hz LTPO Super Retina XDR OLED, Apple A19 Pro, 48 MP Triple Camera
@@ -11879,7 +12014,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -11977,13 +12111,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO
 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3526 1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79, 258, 260, 261 SA/NSA/Sub6/mmWave - A3257 1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3525 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3527
 Speed
 HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps
+ 
 
+ URL: https://hukut.com/apple-iphone-17-pro-max 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Samsung Galaxy Z Fold7
 8.0 inches, Foldable Dynamic LTPO AMOLED 2X, 120Hz, Qualcomm SM8750-AC Snapdragon 8 Elite, 200 MP Triple Camera, Li-Po 4400 mAh Battery
@@ -11991,7 +12123,6 @@ HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps
 Rs. 2,44,999
 OR
 Rs. 20,417/mo*
-[Get it on EMI](https://hukut.com/emi/samsung-galaxy-z-fold7)
 * * *
 Pre-Booking Offer: 
 Samsung Galaxy Buds 3 Pro
@@ -12016,7 +12147,6 @@ Pre Order
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -12025,7 +12155,7 @@ Variant
 Price
 One-time Breakage Insurance for one year | 12/256GB | Rs. 2,44,999  
 12/256GB | One-time Breakage Insurance for one year | Rs. 2,49,999  
-12/256GB | One-time Breakage Insurance for one year | Rs. 2,61,999  
+One-time Breakage Insurance for one year | 12/256GB | Rs. 2,61,999  
 ### 
 Specifications
 BODY
@@ -12113,13 +12243,11 @@ HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO
 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA/Sub6
 Speed
 HSPA, LTE (CA), 5G
+ 
 
+ URL: https://hukut.com/samsung-galaxy-z-fold7 
 
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
 # Xiaomi Redmi A5 4G
 6.88 inch, 120Hz IPS LCD, Unisoc T7250, 32 MP Camera
@@ -12143,7 +12271,6 @@ Out Of Stock
 * * *
 Pickup
 Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
 Free Delivery
 Get it soon after it becomes available
 * * *
@@ -12246,389 +12373,9 @@ HSDPA 850 / 900 / 2100
 1, 3, 5, 7, 8, 20, 28, 38, 40, 41
 Speed
 HSPA, LTE
+ 
 
+ URL: https://hukut.com/redmi-a5-4g 
 
-
-
----------End of the Product---------
-
-
-
-# Tecno Spark Go 2024
-6.6 inch, 90Hz IPS LCD, Unisoc T606, 13 MP Camera
-0 (0)
-Rs. 11,999
-* * *
-Variant: 
-4/64GB
-Colors: Gravity Black
-Key Specifications
-  * OS: Android 13 (Go edition), HIOS 13
-  * CPU: Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)
-  * GPU : Mali-G57 MP1
-  * Size: 6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)
-  * Resolution: 720 x 1612 pixels, 20:9 ratio (~267 ppi density)
-
-
-* * *
-Out Of Stock
-* * *
-Pickup
-Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
-Free Delivery
-Get it soon after it becomes available
-* * *
-## Tecno Spark Go 2024 Overview:
-### Design and Display
-The Tecno Spark Go 2024 features a sleek design with a glass front, plastic back, and frame, ensuring durability without sacrificing aesthetics. Additionally, Its 6.6-inch IPS LCD with a 90Hz refresh rate provides a smooth viewing experience, making it suitable for multimedia consumption and everyday tasks.
-### Performance and Software
-Powered by Android 13 (Go edition) with HIOS 13 overlay, the Spark Go 2024 runs efficiently on the Unisoc T606 chipset. Although not designed for gaming or demanding applications, the octa-core CPU ensures smooth multitasking, the phone is offered with 4 GB RAM and 64 GB Storage with 4 GB virtual expansion.
-### Camera 
-Equipped with a modest 13MP primary camera and an auxiliary lens, the Tecno Spark Go 2024 delivers satisfactory photography capabilities, complemented by features like dual-LED flash and HDR support. In addition, the 8MP front camera with dual-LED flash facilitates decent selfie-taking even in low-light conditions.
-### Battery and Connectivity
-One of the standout features of the Tecno Spark Go 2024 is its impressive 5000mAh battery, providing extended usage without frequent recharges. Furthermore, the inclusion of a USB Type-C port with 10W wired charging ensures convenient and efficient power replenishment. Additionally, the device supports essential connectivity options such as Wi-Fi, Bluetooth, GPS, and FM radio.
-Tecno Spark Go 2024 Price in Nepal
-Variant
-Price
-4/64GB | Rs. 11,999  
-### 
-Specifications
-BODY
-Dimension
-163.7 x 75.6 x 8.6 mm (6.44 x 2.98 x 0.34 in)
-Weight
--
-Build
-Glass front, plastic back, plastic frame
-SIM
-Nano-SIM + Nano-SIM
-Durability
-IPS LCD, 90Hz
-Colors
-Mystery White, Alpenglow Gold, Magic Skin, Gravity Black
-DISPLAY
-Type
-IPS LCD, 90Hz
-Size
-6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio)
-Resolution
-720 x 1612 pixels, 20:9 ratio (~267 ppi density)
-PERFORMANCE
-OS
-Android 13 (Go edition), HIOS 13
-Chipset
-Unisoc T606 (12 nm)
-CPU
-Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)
-GPU 
-Mali-G57 MP1
-MEMORY
-Card Slot
-microSDXC
-Internal
-64GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM eMMC 5.1
-BACK CAMERA
-Single
-13 MP, f/1.9, (wide), 1.12µm, AF 0.08 MP (auxiliary lens)
-Features
-Dual-LED flash, HDR
-Video
-1080p@30fps
-FRONT CAMERA
-Single
-8 MP
-Features
-Dual-LED flash
-Video
-Yes
-SOUND
-Loudspeaker
-Yes, with dual speakers
-3.5mm jack 
-Yes
-CONNECTIVITY
-WLAN
-Yes
-Bluetooth
-Yes
-Positioning
-GPS
-NFC
-No
-Radio
-FM radio
-USB
-USB Type-C, OTG
-FEATURES
-Sensors
-Fingerprint (side-mounted), accelerometer
-BATTERY
-Type
-5000 mAh
-Charging
-10W wired
-NETWORK
-Technology
-GSM / HSPA / LTE
-2G bands
-GSM 850 / 900 / 1800 / 1900
-3G bands
-HSDPA 900 / 2100
-4G bands
-LTE
-Speed
-HSPA, LTE
-
-
-
-
----------End of the Product---------
-
-
-
-# Infinix Smart 9
-6.7 inch, 120Hz IPS LCD, Mediatek Helio G81, 13 MP Camera
-0 (0)
-Rs. 11,999
-* * *
-Colors: Black
-Key Specifications
-  * OS: Android 14 (Go edition), XOS 14
-  * CPU: Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)
-  * GPU : Mali-G52 MC2
-  * Size: 6.7 inches, 108.4 cm2 (~84.8% screen-to-body ratio)
-  * Resolution: 720 x 1600 pixels, 20:9 ratio (~262 ppi density) Always-on display
-
-
-* * *
-Out Of Stock
-* * *
-Pickup
-Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
-Free Delivery
-Get it soon after it becomes available
-* * *
-# Infinix Smart 9 Overview:
-## Design and Display
-The Infinix Smart 9 features a standard design with flat edges and a frame, a squircle camera island, and a grainy finish on the back. It has a better-fleshed-out appearance than its predecessor, the Infinix Smart 8, and enjoys an IP54 rating for dust and splash resistance. The device is available in Metallic Black, Neo Titanium, Mint Green, and Sandstone Gold color options. The phone has a 6.7-inch IPS a-Si LCD panel with HD+ resolution (720 x 1600 pixels) and a refresh rate of up to 120Hz, offering a typical brightness of 500 nits. The screen also maintains responsiveness even when used with wet and greasy hands.
-## Performance
-The Infinix Smart 9 is powered by the MediaTek Helio G81 processor, an octa-core chipset with 2x Cortex-A75 cores at 2.0 GHz and 6x Cortex-A55 cores at 1.7 GHz, paired with Mali-G52 MC2 GPU. The device comes with either 3GB or 4GB of RAM, which can be doubled through software means. Storage options include 64GB or 128GB, with support for external expansion up to 2TB via a MicroSD card. The phone runs on XOS 14.0, based on Android 14 (Go Edition).
-## Camera and Battery
-The rear camera setup includes a 13MP primary shooter coupled with an undisclosed auxiliary unit. The front features an 8MP snapper for selfies and face scanning. The Infinix Smart 9 is equipped with a 5000mAh non-removable battery, supporting 10W wired charging. The phone also includes dual speakers with DTS sound, clear dialogue, and a headphone jack.
-## Conclusion
-The Infinix Smart 9 offers a balanced combination of a large display, decent performance, and essential features at an affordable price point. With its 120Hz refresh rate and expandable storage, it caters to users seeking a reliable entry-level smartphone.
-Infinix Smart 9 Price in Nepal
-Variant
-Price
-Infinix Smart 9 | Rs. 11,999  
-### 
-Specifications
-BODY
-Dimension
-165.7 x 77.1 x 8.4 mm (6.52 x 3.04 x 0.33 in)
-Weight
-188 g
-Build
-Glass front, plastic back, plastic frame
-SIM
-Dual SIM (Nano-SIM, dual stand-by) IP54, dust and splash resistant
-Colors
-Metallic Black, Neo Titanium, Mint Green, Sandstone Gold
-DISPLAY
-Type
-IPS LCD, 120Hz, 500 nits (peak)
-Size
-6.7 inches, 108.4 cm2 (~84.8% screen-to-body ratio)
-Resolution
-720 x 1600 pixels, 20:9 ratio (~262 ppi density) Always-on display
-PERFORMANCE
-OS
-Android 14 (Go edition), XOS 14
-Chipset
-Mediatek Helio G81
-CPU
-Octa-core (2x2.0 GHz Cortex-A75 & 6x1.7 GHz Cortex-A55)
-GPU 
-Mali-G52 MC2
-MEMORY
-Card Slot
-microSDXC (dedicated slot)
-Internal
-3GB RAM, 64GB
-BACK CAMERA
-Single
-13 MP, f/1.9, 27mm (wide), AF Auxiliary lens
-Features
-LED flash, HDR, panorama
-Video
-1080p@30fps
-FRONT CAMERA
-Single
-8 MP, f/2.0, (wide)
-Video
-Yes
-SOUND
-Loudspeaker
-Yes, with stereo speakers
-3.5mm jack 
-Yes
-CONNECTIVITY
-WLAN
-Wi-Fi 802.11 a/b/g/n/ac, dual-band
-Bluetooth
-Yes
-Positioning
-GPS
-NFC
-No
-USB
-USB Type-C 2.0, OTG
-BATTERY
-Type
-5000 mAh, non-removable
-Charging
-10W wired Reverse wired
-FEATURES
-Sensors
-Fingerprint (side-mounted), accelerometer, proximity, compass
-
-
-
-
----------End of the Product---------
-
-
-
-# Redmi A3
-6.71 inch, 90Hz IPS LCD, MediaTek Helio G36, 8 MP Camera
-0 (0)
-Rs. 11,999
-* * *
-Variant: 
-3/64GB
-4/128GB
-Colors: Midnight Black
-Key Specifications
-  * OS: Android 14 (Go Edition)
-  * UI Version: Stock
-  * CPU: Octa-core – 4x Cortex-A53 (2.2 GHz) – 4x Cortex-A53 (1.8 GHz)
-  * GPU : PowerVR GE8320
-  * Promised Updates: N/A
-
-
-* * *
-Out Of Stock
-* * *
-Pickup
-Available Soon at Hukut Store
-[See pickup location](https://hukut.com/store-location)
-Free Delivery
-Get it soon after it becomes available
-* * *
-## Redmi A3 Overview
-The Redmi A3 is a budget-friendly smartphone that offers exceptional value without compromising on performance. With its stylish design, powerful features, and affordable price, this device is perfect for those seeking a reliable and efficient companion.
-### Design and Display
-To begin with, the Redmi A3's construction includes a glass front body, a glass back, and a plastic frame. A dual camera arrangement is housed in a striking circular camera module on the back of this smartphone. A 6.71-inch LCD screen with HD+ resolution and a refresh rate of 90 Hz is included up front. Even though it's a low-cost phone, the screen is protected by Gorilla Glass 3.
-### Performance
-The MediaTek Helio G36 chipset powers the smartphone's internal components. Four Cortex-A53 cores operating at 2.2GHz and four clocking at 1.6GHz are present in this 12nm fabbed octa-core processor. The PowerVR GE8320 GPU is in charge of the graphics tasks. Similarly, Redmi has combined this CPU with 128GB of eMMC 5.1 internal storage and up to 6GB of RAM.
-In terms of software, the vanilla Android 14 is different from the MIUI that is typically seen on other Redmi phones. Because it's a low-cost phone and because the Redmi A1 and A2 have the same close-to-stock Android OS, it makes sense.
-### Camera
-In terms of optics, the gadget has two cameras. An 8MP camera and a pointless 0.08MP auxiliary lens are its main features. The U-shaped notch has a 5MP camera for video calls and selfies. Both cameras are capable of producing 1080p films at 30 frames per second.
-### Battery and Others
-The Redmi A3 is powered by a 5000mAh battery that supports 10W wired charging. WiFi, 4G, Bluetooth 5.3, a 3.5mm headphone socket, and a USB Type-C 2.0 port (for the first time on a Redmi A-Series smartphone) are among the connectivity choices available here. Additionally, a fingerprint scanner is positioned on the side for biometric security.
-Redmi A3 Price in Nepal
-Variant
-Price
-3/64GB | Rs. 11,999  
-4/128GB | Rs. 12,999  
-### 
-Specifications
-BODY
-Dimension
-168.3 x 76.3 x 8.32 mm
-Weight
-192 gm (PU), 199 gm (glass)
-Build
-Back: Leather or glass Front: Corning Gorilla Glass 3 Frames: Plastic No IP rating
-Colors
-Olive Green, Midnight Black, Lake Blue 
-DISPLAY
-Size
-6.71 inches
-Type
-IPS LCD
-Resolution
-1650 x 720 pixels 20 : 9 aspect ratio
-Refresh Rate
-90Hz
-Protection
-Corning Gorilla Glass 3
-Network
-SIM
-Dual SIM (2 Nano-SIMs)
-Technology
-GSM / WCDMA / LTE
-2G band
-B 2 / 3 / 5 / 8
-3G band
-B 1 / 5 / 8
-4G band
-B 1 / 3 / 5 / 7 / 8 / 20 / 28 / 40 / 41 
-PERFORMANCE
-Chipset
-MediaTek Helio G36 (12nm)
-OS
-Android 14 (Go Edition)
-UI Version
-Stock
-CPU
-Octa-core – 4x Cortex-A53 (2.2 GHz) – 4x Cortex-A53 (1.8 GHz)
-GPU 
-PowerVR GE8320
-Promised Updates
-N/A
-MEMORY
-RAM
-3/4/6GB
-Storage
-64/128GB
-SD Card
-Yes, Up to 1TB
-Variant
-3/64GB, 4/128GB, 6/128GB
-BACK CAMERA
-Dual
-Dual Primary : 8MP AI Lens Features Portrait, Night mode Video Unspecified
-FRONT CAMERA
-Dual
-Single 5MP Features Screen flash Video Unspecified
-SECURITY
-Face Unlock
-2D Face Recognition 
-Fingerprint
-Side mounted
-CONNECTIVITY
-Extensions
-WLAN WiFi 5 (802.11 a/b/g/n/ac), WiFi Direct, Hotspot Bluetooth 5.3 GPS Yes, with GPS, A-GPS, Glonass, BeiDou, Galileo NFC N/A USB USB Type-C
-BATTERY
-Type
-5000 mAh, non-removable
-Charging
-10W Charging
-Wireless Charging
-Not Supported
-Extrass
-Features
-Dual SIM
-Sensor
-Accelerometer, Ambient Light Sensor, Proximity Sensor (SW solution) 
-
-
-
-
----------End of the Product---------
-
-
+-----End of Product-----
 
