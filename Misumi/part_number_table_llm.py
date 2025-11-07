@@ -9,8 +9,14 @@ from dotenv import load_dotenv
 import os
 from bs4 import BeautifulSoup
 import re
+from internal_links_extraction import product_links_extraction
+
+"""
+pagination css_selector = div.Pagination_container__VOa4I>li:nth-child(2)>a
+"""
 
 async def json_css_product_extraction():
+    internal_links = product_links_extraction()
     load_dotenv()
     base_url = "https://vn.misumi-ec.com/vona2/detail/110302715510?list=PageCategory"
     api_key = os.getenv("GOOGLE_API_KEY")  
@@ -58,36 +64,38 @@ async def json_css_product_extraction():
     browser_config = BrowserConfig(headless = False, verbose = True, enable_stealth=True)
     sub_category = ""
     async with AsyncWebCrawler(config = browser_config) as crawler:
-        initial_result = await crawler.arun(url=base_url, config=initial_run_config)        
-        soup = BeautifulSoup(initial_result.html, "html.parser")
+        for link in internal_links:
+
+            initial_result = await crawler.arun(url=link, config=initial_run_config)        
+            soup = BeautifulSoup(initial_result.html, "html.parser")
         
-        table_container = soup.select_one("div.PartNumberList_mainOuter__d74Qg")
-        title_element = soup.select_one("h1.PageHeading_wrap__K1c1n")
-        sub_category = title_element.get_text(strip=True) if title_element else "unknown_product" 
-        cleaned_html = str(table_container)
-        css_schema = JsonCssExtractionStrategy.generate_schema(
-        html=cleaned_html,
-        schema_type="css", 
-        query=query,
-        llm_config = LLMConfig(provider="gemini/gemini-2.5-flash",api_token=api_key)
-    )
-        print(css_schema)
+            table_container = soup.select_one("div.PartNumberList_mainOuter__d74Qg")
+            title_element = soup.select_one("h1.PageHeading_wrap__K1c1n")
+            sub_category = title_element.get_text(strip=True) if title_element else "unknown_product" 
+            cleaned_html = str(table_container)
+            css_schema = JsonCssExtractionStrategy.generate_schema(
+            html=cleaned_html,
+            schema_type="css", 
+            query=query,
+            llm_config = LLMConfig(provider="gemini/gemini-2.5-flash",api_token=api_key)
+        )
+            print(css_schema)
         
-        run_config = CrawlerRunConfig(
-        word_count_threshold=10,
-        exclude_all_images=True,
-        exclude_external_links=True,
-        css_selector="h1.PageHeading_wrap__K1c1n,p.BasicInformation_catchCopy__h8mKx,div.PartNumberList_mainOuter__d74Qg",
-        process_iframes=True,
-        cache_mode=CacheMode.DISABLED,
-        exclude_domains=[],
-        exclude_social_media_domains=[],
-        exclude_social_media_links=True,
-        mean_delay=2.0,
-        delay_before_return_html=60.0,
-        extraction_strategy=JsonCssExtractionStrategy(schema=css_schema),
-        markdown_generator=DefaultMarkdownGenerator(),
-        js_code="""
+            run_config = CrawlerRunConfig(
+            word_count_threshold=10,
+            exclude_all_images=True,
+            exclude_external_links=True,
+            css_selector="h1.PageHeading_wrap__K1c1n,p.BasicInformation_catchCopy__h8mKx,div.PartNumberList_mainOuter__d74Qg",
+            process_iframes=True,
+            cache_mode=CacheMode.DISABLED,
+            exclude_domains=[],
+            exclude_social_media_domains=[],
+            exclude_social_media_links=True,
+            mean_delay=2.0,
+            delay_before_return_html=60.0,
+            extraction_strategy=JsonCssExtractionStrategy(schema=css_schema),
+            markdown_generator=DefaultMarkdownGenerator(),
+            js_code="""
             
             const langButton = document.querySelector('a[lang="en"]');
             if (langButton) langButton.click();
@@ -124,22 +132,22 @@ async def json_css_product_extraction():
             
             return true;
         """,
-        wait_for="css:div.Complex_attributesPanel__9800L",
-        session_id=session_id,
-        excluded_tags=["footer"],
-        remove_forms=True,
-        remove_overlay_elements=True
-    )
-        result = await crawler.arun(url = base_url,config = run_config)
+            wait_for="css:div.Complex_attributesPanel__9800L",
+            session_id=session_id,
+            excluded_tags=["footer"],
+            remove_forms=True,
+            remove_overlay_elements=True
+        )
+            result = await crawler.arun(url = link,config = run_config)
 
         
-        data = json.loads(result.extracted_content)
-        print(data)
-        print(len(data))
-        df = pd.DataFrame(data)
-        print(df)
-        sub_category = re.sub(r'[ ,]+', '_', sub_category)
-        file_name = f"camfollower_{sub_category}.xlsx".lower()
+            data = json.loads(result.extracted_content)
+            
+            print(len(data))
+            df = pd.DataFrame(data)
+            # print(df)
+            sub_category = re.sub(r'[ ,]+', '_', sub_category)
+            file_name = f"camfollower_{sub_category}.xlsx".lower()
         
-        df.to_excel(file_name, index=False)
+            df.to_excel(file_name, index=False)
 asyncio.run(json_css_product_extraction())

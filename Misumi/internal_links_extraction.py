@@ -67,5 +67,4 @@ async def product_links_extraction():
         with open("internal_links.txt","a",encoding="utf-8") as f:
             for link in internal_links:
                 f.write(link + "\n")
-
-asyncio.run(product_links_extraction())
+    return internal_links
